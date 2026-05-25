@@ -1,0 +1,45 @@
+title: "LEP"
+subtitle: "Law and Entrepreneurship: A Working Identity"
+description: "Working space for the intellectual identity of the Law and Entrepreneurship Program that Seth Oranburg will co-direct at the Catholic University of America Columbus School of Law beginning August 2026."
+author:
+  name: "Seth C. Oranburg"
+  email: "seth.oranburg@gmail.com"
+url: "https://oranburg.law"
+baseurl: "/LEP"
+
+permalink: /:title/
+
+include:
+  - _pages
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+  - node_modules
+  - .github
