@@ -1,0 +1,40 @@
+- section: "Encyclicals"
+  items:
+    - citation: "Leo XIII, *Rerum Novarum* (15 May 1891)"
+      note: "The founding text of modern Catholic social teaching on work and capital."
+    - citation: "John Paul II, *Laborem Exercens* (14 September 1981)"
+      note: "The ninetieth-anniversary restatement. The personalist anthropology of work."
+    - citation: "John Paul II, *Centesimus Annus* (1 May 1991)"
+      note: "The centennial. The theology of entrepreneurship."
+    - citation: "Benedict XVI, *Caritas in Veritate* (29 June 2009)"
+      note: "Charity in truth. The financial system and integral human development."
+    - citation: "Francis, *Laudato Si* (24 May 2015)"
+    - citation: "Francis, *Fratelli Tutti* (3 October 2020)"
+    - citation: "Leo XIV, *Magnifica Humanitas* (15 May 2026)"
+      note: "The AI-age restatement. Babel and Nehemiah as the governing biblical images."
+
+- section: "Scholastic and medieval"
+  items:
+    - citation: "Thomas Aquinas, *Summa Theologiae* II-II, q. 78"
+      note: "On usury and the just form of capital. The *societas* doctrine."
+    - citation: "Domingo de Soto, *De Iustitia et Iure* (1553)"
+    - citation: "Luis de Molina, *De Iustitia et Iure* (1593 to 1609)"
+    - citation: "Tomás de Mercado, *Suma de Tratos y Contratos* (1571)"
+
+- section: "Jewish parallel"
+  items:
+    - citation: "Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7 to 14"
+      note: "The eight rungs of *tzedakah*. The highest rung: partnership (*shutafut*) with the poor."
+
+- section: "Roman law"
+  items:
+    - citation: "Digest 14.1 (Ulpian), *De exercitoria actione*"
+      note: "The Roman law of the *exercitor navis*, the commercial operator."
+    - citation: "Reinhard Zimmermann, *The Law of Obligations: Roman Foundations of the Civilian Tradition* (Oxford 1996)"
+
+- section: "Modern scholarship"
+  items:
+    - citation: "Magatte Wade, *The Heart of a Cheetah* (2023)"
+      note: "The case that regulatory barriers, not capital scarcity, are the binding constraint on entrepreneurship for the poor."
+    - citation: "Daniel K. Finn, *Faithful Economics: 25 Short Insights* (Fortress Press, 2021)"
+    - citation: "Michael Novak, *The Spirit of Democratic Capitalism* (1982)"
