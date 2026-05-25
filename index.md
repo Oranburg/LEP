@@ -21,7 +21,7 @@ The inaugural year-theme runs that argument through one contested terrain, set a
 
 <ol class="start-ordered">
   <li><a href="{{ '/about/' | relative_url }}">About this site</a></li>
-  <li><a href="{{ '/for-students/' | relative_url }}">For students: what the program promises</a></li>
+  <li><a href="{{ '/for-students/' | relative_url }}">For students</a> (prospective, current, mentors; plus the full <a href="{{ '/for-students/faq/' | relative_url }}">FAQ</a> and the <a href="{{ '/glossary/' | relative_url }}">glossary</a>)</li>
   <li><a href="{{ '/people/' | relative_url }}">People</a></li>
   <li><a href="{{ '/theme/' | relative_url }}">The year-theme: <em>Entrepreneurship v. Poverty</em></a></li>
   <li><a href="{{ '/lineage/' | relative_url }}">Doctrinal lineage</a></li>
