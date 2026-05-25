@@ -42,7 +42,9 @@ The inaugural year-theme runs that argument through one contested terrain, set a
 <h2>Status</h2>
 
 <div class="start-here-cta">
-This site is a working space, not a launch. The Law and Entrepreneurship Program will be formally constituted, named, and authorized by the Catholic University of America through the standard institutional process. Materials here reflect the intellectual identity in development. Until 20 August 2026 the author remains on the faculty of the University of New Hampshire Franklin Pierce School of Law.
+The Law and Entrepreneurship Program is operating at the Catholic University of America Columbus School of Law under founding Director Alexander Hoffarth. Seth Oranburg joins as co-director on August 20, 2026. The clinic is operating now; new program components (the Business Boot Camp, the Transactional Practicum, the formal cohort structure, the mentorship pairings) are scheduled for AY 2026-27 and AY 2027-28. The <a href="{{ '/for-students/' | relative_url }}">For Students page</a> distinguishes what is operating now from what is being built.
+<br><br>
+This site (oranburg.law/LEP) is the co-directors' personal working space for the program's intellectual identity. It is not a CUA-authorized communication; CUA-authorized program communications will appear on law.edu when the institutional process is complete. Until August 20, 2026 the co-director remains on the faculty of the University of New Hampshire Franklin Pierce School of Law.
 </div>
 
 </section>
