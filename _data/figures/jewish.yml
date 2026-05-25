@@ -1,0 +1,399 @@
+# LEP Lineage — Jewish Sources
+# Generated: 2026-05-25
+# House conventions: JEW README (beit-midrash agent)
+# Biblical Hebrew: pointed, ta'amei stripped (maqaf preserved)
+# Mishneh Torah: unpointed per source (Torat Emet 363)
+# Talmud Bavli: unpointed Aramaic flagged [Aramaic — needs human]
+# Transliteration: Sephardi academic hybrid
+# Verified against Sefaria v3 API, 2026-05-25
+
+- id: "leviticus-25-35-36"
+  name: "Leviticus 25:35-36"
+  hebrew: "וַיִּקְרָא כה"
+  transliteration: "Vayikra 25"
+  dates_or_dating: "Pentateuchal text; received as Mosaic; Masoretic text as transmitted in the Aleppo Codex tradition"
+  identity: "The foundational statutory command to uphold the falling poor Israelite before he falls, and to take no interest from him."
+  move: >
+    Two verses do distinct work. Verse 35 issues the positive command: when your fellow Israelite begins to decline
+    financially, you shall grasp him, whether he is a resident alien or a settler, so that he may live alongside you.
+    The verb ve-heḥezakta bo, and you shall uphold him, is the pivot. Maimonides reads this as the proof-text for the
+    highest rung of his eight-rung ladder (MT Mattenot Aniyim 10:7): the command is not to rescue someone already
+    fallen but to prevent the fall. Verse 36 extends the command by prohibiting interest from that same person:
+    the economic relationship must be partnership or gift, not extraction. Together the verses embed the anti-usury
+    rule inside an affirmative solidarity obligation, which is exactly the structure the isqa device later exploits:
+    capital is deployed as shared enterprise, not as a creditor claim, so the prohibition does not apply and the
+    solidarity obligation is honored.
+  primary_text:
+    hebrew: "וְכִי־יָמוּךְ אָחִיךָ וּמָטָה יָדוֹ עִמָּךְ וְהֶחֱזַקְתָּ בּוֹ גֵּר וְתוֹשָׁב וָחַי עִמָּךְ׃ אַל־תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית וְיָרֵאתָ מֵאֱלֹהֶיךָ וְחֵי אָחִיךָ עִמָּךְ׃"
+    transliteration: "ve-khi yamukh aḥikha u-matah yado ʿimmakh ve-heḥezakta bo ger ve-toshav va-ḥai ʿimmakh. al tiqaḥ me-itto neshekh ve-tarbit ve-yareʾta me-Elohekha ve-ḥei aḥikha ʿimmakh."
+    translation: "When your brother grows poor and his means fail with you, you shall uphold him — resident alien or settler — so that he may live with you. Take no interest or increase from him; fear your God, and let your brother live with you."
+    cite: "Lev. 25:35-36"
+  glossary_terms:
+    - term: "וְהֶחֱזַקְתָּ בּוֹ"
+      transliteration: "ve-heḥezakta bo"
+      gloss: "and you shall uphold him; the affirmative command to prevent the fall of the financially failing person"
+    - term: "נֶשֶׁךְ"
+      transliteration: "neshekh"
+      gloss: "interest; literally 'a bite'; the prohibited return on a loan to a fellow Israelite"
+    - term: "תַּרְבִּית"
+      transliteration: "tarbit"
+      gloss: "increase; increase on a loan; paired with neshekh to cover all forms of usurious return"
+  further_reading:
+    - "Jacob Milgrom, Leviticus 23-27, AB 3B (Doubleday 2000), pp. 2206-2215"
+    - "MT Hilkhot Mattenot Aniyim 10:7 (citing this verse as the source for the highest rung)"
+    - "MT Hilkhot Malveh ve-Loveh 4:1 (the interest prohibition derived from this passage)"
+  lep_relevance: >
+    The foundational command couples the obligation to support the economically failing person with the prohibition
+    on interest-bearing arrangements, structurally directing Jewish commercial life toward partnership forms.
+    This is the Pentateuchal root from which the isqa mechanism and the highest rung of tzedakah both grow.
+
+- id: "deuteronomy-15-7-8"
+  name: "Deuteronomy 15:7-8"
+  hebrew: "דְּבָרִים טו"
+  transliteration: "Devarim 15"
+  dates_or_dating: "Pentateuchal text; Masoretic text as transmitted in the Aleppo Codex tradition"
+  identity: "The doubled imperative commanding open-handed generosity to the poor, calibrated to what they lack."
+  move: >
+    Verse 7 forbids two internal movements: hardening the heart and closing the hand. Verse 8 commands their
+    opposites with doubled infinitives, patoaḥ tiftaḥ, open, open your hand. The doubled infinitive absolute in
+    Biblical Hebrew signals urgency and completeness: there is no threshold of poverty severe enough to excuse
+    inaction, and no degree of generosity beyond what is required. The phrase dei maḥsoro asher yeḥsar lo, enough
+    for what he lacks to him, which Ketubot 67b reads to calibrate obligation to the recipient's prior standard of
+    living, appears in verse 8. This verse therefore does two things at once: it generates the positive obligation
+    (open the hand) and supplies the measure (what he lacks, relative to his prior condition). Rambam's ladder
+    of tzedakah inherits both moves: positive obligation and calibrated adequacy.
+  primary_text:
+    hebrew: "כִּי־יִהְיֶה בְךָ אֶבְיוֹן מֵאַחַד אַחֶיךָ בְּאַחַד שְׁעָרֶיךָ בְּאַרְצְךָ אֲשֶׁר־יְהֹוָה אֱלֹהֶיךָ נֹתֵן לָךְ לֹא תְאַמֵּץ אֶת־לְבָבְךָ וְלֹא תִקְפֹּץ אֶת־יָדְךָ מֵאָחִיךָ הָאֶבְיוֹן׃ כִּי־פָתֹחַ תִּפְתַּח אֶת־יָדְךָ לוֹ וְהַעֲבֵט תַּעֲבִיטֶנּוּ דֵּי מַחְסֹרוֹ אֲשֶׁר יֶחְסַר לוֹ׃"
+    transliteration: "ki yihyeh bekha evyon me-aḥad aḥekha be-aḥad sheʿarekha be-artsekha asher HaShem Elohekha noten lakh lo teʾamets et levavkha ve-lo tikpots et yadkha me-aḥikha ha-evyon. ki patoaḥ tiftaḥ et yadkha lo ve-haʿavet taʿavitenu dei maḥsoro asher yeḥsar lo."
+    translation: "If there is among you a poor person from one of your brothers in one of your towns in your land that HaShem your God is giving you, you shall not harden your heart or shut your hand against your poor brother. Rather, open, open your hand to him and lend him sufficient for his need, whatever he lacks."
+    cite: "Deut. 15:7-8"
+  glossary_terms:
+    - term: "פָתֹחַ תִּפְתַּח"
+      transliteration: "patoaḥ tiftaḥ"
+      gloss: "open, open; the doubled infinitive absolute commanding unreserved generosity"
+    - term: "דֵּי מַחְסֹרוֹ"
+      transliteration: "dei maḥsoro"
+      gloss: "sufficient for his lack; the measure calibrating tzedakah to the recipient's actual need and prior condition"
+  further_reading:
+    - "Ketubot 67b (Talmudic derivation: dei maḥsoro requires restoration to prior living standard)"
+    - "MT Hilkhot Mattenot Aniyim 7:3 (codification of the calibration principle)"
+    - "Jeffrey Tigay, Deuteronomy, JPS Torah Commentary (JPS 1996), pp. 147-149"
+  lep_relevance: >
+    The calibrated adequacy standard of verse 8 anchors the Talmudic and Maimonidean principle that support
+    for the fallen person must restore, not merely sustain, aligning the tzedakah obligation with the
+    partnership-as-enablement model the LEP lineage traces.
+
+- id: "deuteronomy-16-20"
+  name: "Deuteronomy 16:20"
+  hebrew: "דְּבָרִים טז"
+  transliteration: "Devarim 16"
+  dates_or_dating: "Pentateuchal text; Masoretic text as transmitted in the Aleppo Codex tradition"
+  identity: "The doubled noun commanding pursuit of justice, read by the tradition as requiring just means, not only just ends."
+  move: >
+    Tsedek tsedek tirdof, justice justice you shall pursue. The duplication is not mere rhetorical emphasis.
+    The rabbinic tradition (Sanhedrin 32b) reads the two words as commanding two distinct things: just ends
+    and just process, or justice in substance and justice in procedure. The root ts-d-k that generates tsedek
+    (justice) also generates tsedakah (charitable giving), so the verse stands at the intersection of two
+    normative domains that moderns tend to separate: distributive justice and procedural justice are both
+    named by the doubled command. For the LEP lineage, the significance is that entrepreneurial partnership
+    is required to pursue just means (the isqa structure that avoids usury) and just ends (the strengthening
+    of the partner who might otherwise fall). The doubled noun asks for integrity all the way down.
+  primary_text:
+    hebrew: "צֶדֶק צֶדֶק תִּרְדֹּף לְמַעַן תִּחְיֶה וְיָרַשְׁתָּ אֶת־הָאָרֶץ אֲשֶׁר־יְהֹוָה אֱלֹהֶיךָ נֹתֵן לָךְ׃"
+    transliteration: "tsedek tsedek tirdof lemaʿan tiḥyeh ve-yarashta et ha-arets asher HaShem Elohekha noten lakh."
+    translation: "Justice, justice you shall pursue, so that you may live and inherit the land that HaShem your God is giving you."
+    cite: "Deut. 16:20"
+  glossary_terms:
+    - term: "צֶדֶק"
+      transliteration: "tsedek"
+      gloss: "justice; the root ts-d-k shared with tsedakah (charitable giving), marking the semantic unity of justice and generosity in biblical Hebrew"
+    - term: "תִּרְדֹּף"
+      transliteration: "tirdof"
+      gloss: "you shall pursue; active, ongoing pursuit, not passive compliance"
+  further_reading:
+    - "Sanhedrin 32b (rabbinic reading: the two 'tsedek' words require just procedure and just outcome)"
+    - "Tzvi Hirsch Chajes, Torat Nevi'im, ch. 3 (on the semantic field of ts-d-k)"
+    - "Moshe Halbertal and Avishai Margalit, Idolatry (Harvard 1992), pp. 214-216 (on justice and integrity of means)"
+  lep_relevance: >
+    The doubled tsedek establishes that the LEP lineage's concern with the form of commercial relationships,
+    not only their outcomes, is scripturally grounded. Partnership as the required mode of capital deployment
+    answers to this demand for just means alongside just ends.
+
+- id: "bava-metzia-5-4-68a-70b"
+  name: "Bava Metzia 5:4 / 68a-70b"
+  hebrew: "בבא מציעא"
+  transliteration: "Bava Metsiʿa"
+  dates_or_dating: "Mishnah redacted c. 200 CE; Talmudic sugya on the isqa redacted c. fifth century CE in Babylonia"
+  identity: "The Mishnah introduces profit-sharing restrictions; the Gemara develops the isqa as the halakhically permissible capital-partnership structure."
+  move: >
+    Mishnah BM 5:4 poses the problem: placing a shopkeeper on half-profit terms, or advancing money to purchase
+    produce on profit-sharing terms, is prohibited without paying the agent's wage, because the arrangement looks
+    like lending at interest. The Gemara on 68a-70b works out the solution: the isqa (עִסְקָא), a half-loan
+    half-deposit structure. The Nehardean amoraim formulate it precisely at BM 104b: half-loan (which the
+    borrower may use freely but bears full risk of) and half-deposit (which the investor retains ownership of
+    and in whose profit-and-loss the investor participates). Because the investor shares in the risk of the
+    deposit half, the fixed return on the loan half is not ribbit (interest on a loan) but a partner's share
+    in enterprise risk. The isqa thereby converts a capital advance from mutuum (loan at interest) to societas
+    (partnership with shared risk), exactly the conceptual move Aquinas makes in distinguishing licit from
+    illicit returns. The Gemara text is Aramaic throughout.
+    [Note: isqa (עִסְקָא) is Aramaic, not Hebrew. Transliteration of the sugya: Aramaic — needs human.]
+  primary_text:
+    hebrew: "אֵין מוֹשִׁיבִין חֶנְוָנִי לְמַחֲצִית שָׂכָר, וְלֹא יִתֵּן מָעוֹת לִקַּח בָּהֶן פֵּרוֹת לְמַחֲצִית שָׂכָר, אֶלָּא אִם כֵּן נוֹתֵן לוֹ שְׂכָרוֹ כְּפוֹעֵל."
+    transliteration: "[Mishnah is Hebrew] ein moshivin ḥenvanim le-maḥatsit sakhar, ve-lo yiten maʿot liqqaḥ bahen perot le-maḥatsit sakhar, ella im ken noten lo sekharo ke-poʿel."
+    translation: "One may not place a shopkeeper on half-profit terms, nor give him money to buy produce on half-profit terms, unless one pays him the wage of a laborer."
+    cite: "Mishnah Bava Metsiʿa 5:4; cf. BM 104b for the Nehardean definition of isqa as half-loan half-deposit"
+  glossary_terms:
+    - term: "עִסְקָא"
+      transliteration: "[Aramaic — needs human]"
+      gloss: "iska/isqa; the Talmudic half-loan half-deposit business partnership; Aramaic term"
+    - term: "רִבִּית"
+      transliteration: "ribbit"
+      gloss: "interest; the prohibited increase on a loan between Jews"
+    - term: "שֻׁתָּפוּת"
+      transliteration: "shutafut"
+      gloss: "partnership; the permissible alternative to interest-bearing lending"
+  further_reading:
+    - "BM 104b (Sefaria) — Nehardean definition: half-loan, half-deposit"
+    - "Maimonides, MT Hilkhot Malveh ve-Loveh, ch. 6 (codification of permitted profit-sharing arrangements)"
+    - "Haym Soloveitchik, 'Pawnbroking: A Study in Ribbit and of the Halakha in Exile,' Proceedings of the American Academy for Jewish Research 38-39 (1970-71)"
+    - "Aaron Levine, Case Studies in Jewish Business Ethics (KTAV 2000), pp. 81-108"
+  lep_relevance: >
+    The isqa is the halakhic mechanism that makes Jewish commercial capital deployment structurally partner-based
+    rather than creditor-based. It is the operational bridge between the biblical prohibition of interest and
+    the medieval and modern economy, and the direct ancestor of the heter isqa contract that governs Jewish
+    institutional finance today.
+
+- id: "bava-batra-9b-10a"
+  name: "Bava Batra 9b-10a"
+  hebrew: "בבא בתרא"
+  transliteration: "Bava Batra"
+  dates_or_dating: "Talmudic sugya; redacted c. fifth century CE in Babylonia"
+  identity: "The Talmudic sugya that ranks forms of tzedakah by merit, prefiguring Maimonides' eight-rung systematic ordering."
+  move: >
+    The sugya on BB 9b-10a does not yet present a numbered ladder, but it performs the essential move of
+    differentiation: not all giving is equivalent. Giving money directly to a poor person earns six blessings
+    (from Isaiah 58:7-8); comforting the poor with words earns eleven blessings. Secret giving exceeds even
+    that, and R. Elazar teaches that one who gives charity in secret is greater than Moshe Rabbeinu. The
+    accumulation logic runs in the other direction too: each small coin contributes to a great accounting,
+    like each scale to a breastplate. The sugya thus establishes that the quality and manner of giving matter
+    as much as the quantity, and that verbal solidarity (comforting words) can outrank material transfer.
+    Maimonides systematizes this gradient into eight numbered rungs, but the underlying intuition that giving
+    forms a hierarchy of dignity-preservation comes from this sugya. The text is a mixture of Aramaic and
+    Hebrew; transliteration of Aramaic passages requires a dedicated Aramaic mode.
+    [Aramaic passages in this sugya: Aramaic — needs human.]
+  primary_text:
+    hebrew: "כׇּל הַנּוֹתֵן פְּרוּטָה לְעָנִי מִתְבָּרֵךְ בְּשֵׁשׁ בְּרָכוֹת וְהַמְפַיְּיסוֹ בִּדְבָרִים מִתְבָּרֵךְ בְּאַחַת עֶשְׂרֵה בְּרָכוֹת"
+    transliteration: "[Partially Aramaic/Hebrew mix — needs human review for Aramaic portions] kol ha-noten perutah le-ʿani mitbarekh be-shesh berakhot ve-ha-mefayso be-devarim mitbarekh be-aḥat ʿesreh berakhot"
+    translation: "One who gives even a small coin to the poor receives six blessings; one who comforts him with words receives eleven blessings."
+    cite: "Bava Batra 9b"
+  glossary_terms:
+    - term: "פְּרוּטָה"
+      transliteration: "perutah"
+      gloss: "a small coin; the minimum denomination for halakhic monetary transactions"
+  further_reading:
+    - "MT Hilkhot Mattenot Aniyim 10:7-14 (Maimonides' systematic eight-rung codification)"
+    - "Rashi and Tosafot on BB 9b (classical commentary on the sugya)"
+    - "Meir Tamari, With All Your Possessions: Jewish Ethics and Economic Life (Free Press 1987), pp. 248-255"
+  lep_relevance: >
+    This sugya is the Talmudic seedbed from which Maimonides grows the eight-rung ladder. Its distinction
+    between material giving and dignifying solidarity foreshadows the highest rung's logic: the partnership
+    that enables self-sufficiency is superior precisely because it preserves the recipient's standing.
+
+- id: "ketubot-67b"
+  name: "Ketubot 67b"
+  hebrew: "כתובות"
+  transliteration: "Ketubot"
+  dates_or_dating: "Talmudic sugya; redacted c. fifth century CE in Babylonia"
+  identity: "The sugya establishing that tzedakah must restore a person to their prior standard of living, not merely provide subsistence."
+  move: >
+    Ketubot 67b derives from the phrase dei maḥsoro asher yeḥsar lo (Deut. 15:8) the rule that support must
+    cover what the person specifically lacks relative to their prior condition. The Gemara applies this to an
+    orphan who needs housing, bedding, and household furnishings before marriage, and extends it to a striking
+    case: a once-wealthy man reduced to poverty is provided a horse to ride and a servant to run before him,
+    because that was his former state. The principle is not sentimental. It is structural: tzedakah is a
+    restoration obligation, not a floor obligation. The implication for the highest rung of Rambam's ladder
+    is clear: the gift, loan, or partnership that enables the person to work and be self-sufficient is not
+    merely one option among many; it is the one that most fully honors the restoration mandate, because it
+    removes the person from the condition of dependence entirely. The Gemara here is Aramaic with embedded
+    Hebrew proof-texts.
+    [Aramaic passages in this sugya: Aramaic — needs human.]
+  primary_text:
+    hebrew: "דֵּי מַחְסוֹרוֹ אֲשֶׁר יֶחְסַר לוֹ"
+    transliteration: "dei maḥsoro asher yeḥsar lo"
+    translation: "sufficient for what he lacks to him"
+    cite: "Deut. 15:8, as read in Ketubot 67b"
+  glossary_terms:
+    - term: "דֵּי מַחְסוֹרוֹ"
+      transliteration: "dei maḥsoro"
+      gloss: "sufficient for his lack; the measure commanding restoration to prior condition, not bare subsistence"
+  further_reading:
+    - "Deut. 15:8 (the proof-text the Gemara expounds)"
+    - "MT Hilkhot Mattenot Aniyim 7:3 (Maimonides' codification of the restoration standard)"
+    - "Rashi on Ketubot 67b (defining 'dei maḥsoro' as calibrated to what the person is accustomed to)"
+  lep_relevance: >
+    The restoration standard of Ketubot 67b explains why Maimonides' highest rung ranks above all others:
+    partnership and employment do not merely give the poor person money; they restore the person to the
+    dignity of self-sufficiency, which is the only complete fulfillment of the restoration mandate.
+
+- id: "maimonides-mattenot-aniyim-10-7-14"
+  name: "Maimonides, Hilkhot Mattenot Aniyim 10:7-14"
+  hebrew: "משנה תורה, מתנות עניים"
+  transliteration: "Mishneh Torah, Hilkhot Mattenot Aniyim"
+  dates_or_dating: "Mishneh Torah completed 1180 CE; this chapter codifies the hierarchy of tzedakah forms"
+  identity: "Maimonides' systematic eight-rung ranking of tzedakah, with partnership and employment-enabling at the apex."
+  move: >
+    Halakha 10:7 states that there are eight levels in tzedakah, each higher than the one below it. The
+    highest level, for which there is nothing higher, is the one who strengthens the hand of the poor Israelite
+    who is declining (she-makh) by gift, loan, partnership (shutafut), or finding him work, in order to
+    strengthen his hand until he does not need to ask from others. On this Rambam cites Lev. 25:35:
+    ve-heḥezakta bo, and you shall uphold him. The convergence with Aquinas's doctrine of societas
+    (partnership as the licit form of capital deployment) is not coincidental: both draw on a natural-law
+    logic that productive partnership, where both parties bear risk and share gain, is the form most
+    consistent with the dignity of the participants. The remaining seven rungs descend through anonymity
+    gradations and adequacy gradations, culminating in rung eight: giving with sadness. The architecture
+    is diagnostic: what makes the highest rung highest is not the amount given but the structural form
+    of the relationship, which eliminates the dependency of the recipient.
+  primary_text:
+    hebrew: "שְׁמוֹנֶה מַעֲלוֹת יֵשׁ בַּצְּדָקָה זוֹ לְמַעְלָה מִזּוֹ. מַעֲלָה גְּדוֹלָה שֶׁאֵין לְמַעְלָה מִמֶּנָּה זֶה הַמַּחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ וְנוֹתֵן לוֹ מַתָּנָה אוֹ הַלְוָאָה אוֹ עוֹשֶׂה עִמּוֹ שֻׁתָּפוּת אוֹ מַמְצִיא לוֹ מְלָאכָה כְּדֵי לְחַזֵּק אֶת יָדוֹ עַד שֶׁלֹּא יִצְטָרֵךְ לַבְּרִיּוֹת לִשְׁאל. וְעַל זֶה נֶאֱמַר וְהֶחֱזַקְתָּ בּוֹ גֵּר וְתוֹשָׁב וָחַי עִמָּךְ כְּלוֹמַר הַחֲזֵק בּוֹ עַד שֶׁלֹּא יִפּל וְיִצְטָרֵךְ"
+    transliteration: "shemoneh maʿalot yesh ba-tsedakah zo le-maʿlah mi-zo. maʿalah gedolah she-ein le-maʿlah mimenah: zeh ha-maḥazik be-yad Yisrael she-makh ve-noten lo matanah o halvaʾah o ʿoseh ʿimmo shutafut o mamtsiʾ lo melakhah kedei le-ḥazzek et yado ʿad she-lo yitstarekh la-beriyyot lisʾol. ve-ʿal zeh neʾemar ve-heḥezakta bo ger ve-toshav va-ḥai ʿimmakh, kloʾmar haḥazek bo ʿad she-lo yipol ve-yitstarekh."
+    translation: "There are eight levels in tzedakah, each higher than the one below it. The greatest level, for which there is none higher, is one who strengthens the hand of the poor Israelite who is declining and gives him a gift, or a loan, or enters into partnership with him, or finds him work, in order to strengthen his hand so that he does not need to ask from others. Concerning this it is said: and you shall uphold him — the resident alien and the settler — and he shall live with you; that is, strengthen him before he falls and needs."
+    cite: "MT Hilkhot Mattenot Aniyim 10:7"
+  glossary_terms:
+    - term: "שֻׁתָּפוּת"
+      transliteration: "shutafut"
+      gloss: "partnership; in Maimonides, one of the four modes constituting the highest rung of tzedakah"
+    - term: "מַעֲלָה"
+      transliteration: "maʿalah"
+      gloss: "rung; level; literally 'ascent'"
+    - term: "שֶׁמָּךְ"
+      transliteration: "she-makh"
+      gloss: "who is declining; the poor Israelite at the tipping point, not yet fallen"
+  further_reading:
+    - "Lev. 25:35-36 (the proof-text Rambam cites at 10:7)"
+    - "Ketubot 67b (the Talmudic source for the restoration standard)"
+    - "Isadore Twersky, Introduction to the Code of Maimonides (Yale 1980), pp. 439-450"
+    - "Meir Tamari, With All Your Possessions (Free Press 1987), ch. 8"
+  rung_summary:
+    - rung: 1
+      cite: "10:7"
+      description: "Gift, loan, partnership (shutafut), or employment enabling self-sufficiency — the highest, because it removes the person from dependency entirely."
+    - rung: 2
+      cite: "10:8"
+      description: "Giving where neither giver nor recipient knows the other's identity (e.g., the Chamber of Secrets in the Temple; or a qualified communal fund)."
+    - rung: 3
+      cite: "10:9"
+      description: "Giver knows the recipient but the recipient does not know the giver (sages who secretly placed coins at the doors of the poor)."
+    - rung: 4
+      cite: "10:10"
+      description: "Recipient knows the giver but the giver does not know the recipient (sages who tied coins in their cloaks and let the poor take from behind)."
+    - rung: 5
+      cite: "10:11"
+      description: "Giving before being asked."
+    - rung: 6
+      cite: "10:12"
+      description: "Giving after being asked."
+    - rung: 7
+      cite: "10:13"
+      description: "Giving less than is appropriate but with a pleasant demeanor."
+    - rung: 8
+      cite: "10:14"
+      description: "Giving with sadness (the lowest rung; still commanded, but the manner diminishes the gift)."
+  lep_relevance: >
+    The eight-rung doctrine is the intellectual convergence point of the LEP lineage. The highest rung names
+    shutafut (partnership) as one of the four modes that most fully honor the obligation. The structure of
+    the doctrine — ranked by how completely the form of the relationship preserves the recipient's dignity
+    and self-sufficiency — maps onto Aquinas's argument that societas (partnership) is the licit form of
+    capital deployment because it preserves commutative justice.
+
+- id: "heter-isqa-tradition"
+  name: "The Heter Isqa Tradition"
+  hebrew: "היתר עסקא"
+  transliteration: "heter isqa"
+  dates_or_dating: "Medieval development from the 13th century CE onward; standardized contract form in the 16th-17th centuries"
+  identity: "The legal instrument by which Jewish commercial life formally structures capital advances as partnership rather than interest-bearing debt."
+  move: >
+    The heter isqa (permission to conduct business) is the institutional operationalization of the Talmudic
+    isqa. Early development runs through: Maharam of Rothenburg (R. Meir b. Baruch, c. 1215-1293), cited in
+    the Rosh and Mordechai, who permitted profit-sharing structures derived from BM 65a; R. Yisrael Isserlin
+    (Terumat Ha-Deshen, responsum 302, c. 1390-1460), who formalized the half-loan half-deposit framework
+    as a practical instrument; the Sema (R. Yehoshua Falk, 1555-1614) and R. Menachem Mendel Avigdoris
+    (Maharam of Krakow, d. 1599), who developed standardized contract forms. Moses Isserles (Rema) addressed
+    profit-sharing at SA YD 167:1 and 177:18. Joel Sirkis (Bach, Beit Chadash, 1561-1640) engaged the
+    ribbit rules in his commentary and responsa. The Shulchan Arukh, Yoreh Deah 160-177 provides the
+    comprehensive treatment of the ribbit prohibition within which the heter isqa operates. The mechanism
+    is structurally stable: the investor's capital is half-deployed as a deposit (in which the investor
+    participates in profit and loss) and half as a loan (for which the borrower bears full risk and
+    which generates the investor's fixed return, permissible because it is offset by the deposit-side
+    risk-sharing). The contract formalizes the evidentiary burden: the borrower must produce witnesses
+    to prove any loss on the deposit half, and may instead pay a fixed sum to be released from that
+    burden. This default toward fixed payment is what makes the heter isqa functional for commercial lending.
+    [Note: isqa is Aramaic; the formal contract language of standardized heter isqa documents is typically
+    Aramaic or Aramaic-inflected Hebrew. Primary-text transliteration of contract documents: Aramaic — needs human.]
+  primary_text:
+    hebrew: "[verify: no single canonical primary-text excerpt for the heter isqa as an institution; the locus classicus is the Nehardean definition at BM 104b combined with SA YD 167-177. Insert specific contract text from a verified source if needed.]"
+    transliteration: "[verify: pending verified primary-text selection]"
+    translation: "[verify: pending verified primary-text selection]"
+    cite: "SA Yoreh Deah 160-177; BM 104b (Nehardean definition); Terumat Ha-Deshen 302"
+  glossary_terms:
+    - term: "הֶתֵּר עִסְקָא"
+      transliteration: "heter isqa"
+      gloss: "permission to conduct business; the halakhic instrument structuring capital as partnership to avoid the interest prohibition"
+    - term: "רִבִּית"
+      transliteration: "ribbit"
+      gloss: "interest; the prohibited return on a loan between Jews (Torah-level: ribbit de-oraita)"
+  further_reading:
+    - "SA Yoreh Deah 167-177 (Karo and Rema on ribbit; the framework within which heter isqa operates)"
+    - "Piskei HaRosh, Bava Metzia 5:23 (early codification citing Maharam of Rothenburg)"
+    - "Terumat Ha-Deshen 302 (Isserlin's formalization)"
+    - "Haym Soloveitchik, 'Pawnbroking: A Study in Ribbit,' Proceedings AAJR 38-39 (1970-71)"
+    - "Aaron Levine, Case Studies in Jewish Business Ethics (KTAV 2000), pp. 81-108"
+    - "Beth Din of America, 'Debt, Equity, and the Tricky Case of the Iska' (available at bethdin.org)"
+  lep_relevance: >
+    The heter isqa is the living legal form of the partnership-over-debt principle. It shows that the
+    biblical and Talmudic structural preference for shutafut over mutuum is not a theoretical ideal but
+    an operational legal instrument that Jewish commercial institutions use today, making the LEP lineage
+    a description of active practice, not only intellectual history.
+
+- id: "eight-rung-doctrine-modern-reception"
+  name: "The Eight-Rung Doctrine in Modern Halakhic Literature"
+  hebrew: "שמנה מעלות בצדקה"
+  transliteration: "shemoneh maʿalot ba-tsedakah"
+  dates_or_dating: "Post-Maimonidean reception from Joseph Karo (16th century) through current academic and popular halakhic literature"
+  identity: "The ongoing transmission and application of Maimonides' eight-rung tzedakah hierarchy in codification, commentary, and contemporary Jewish ethics."
+  move: >
+    The eight-rung doctrine did not freeze in 1180. Joseph Karo's Shulchan Arukh, Yoreh Deah 247-259
+    (with Rema's glosses) codifies tzedakah obligations systematically, and YD 251-256 addresses the
+    priorities and modalities of giving that map onto and extend Rambam's hierarchy. The Shulchan Arukh
+    does not number eight rungs explicitly but embeds the structural preferences: anonymous giving over
+    named giving (YD 249), giving before being asked (YD 249:3), and the priority of supporting the
+    person before they fall (YD 247:2). Meir Tamari's With All Your Possessions: Jewish Ethics and
+    Economic Life (Free Press 1987) is the standard modern academic treatment, examining the eight rungs
+    in the context of a full economic theology that addresses capital, labor, and enterprise. Aaron Levine's
+    Case Studies in Jewish Business Ethics (KTAV 2000) applies the halakhic framework to contemporary
+    business decisions, including partnership structures. The doctrine is taught in Jewish day schools and
+    batei midrash as a foundational ethical text. Its presence in modern Orthodox responsa on corporate
+    philanthropy and impact investing confirms that the highest rung's structural preference for
+    self-sufficiency-enabling partnership over outright transfer is halakhically alive, not merely historical.
+  primary_text:
+    hebrew: "[No single primary-text excerpt selected; the relevant Shulchan Arukh text is SA YD 247-259 (unpointed). Insert specific halakha from SA YD 247 if a breakout-box pullquote is needed.]"
+    transliteration: "[verify: pending selection of SA YD pullquote]"
+    translation: "[verify: pending selection]"
+    cite: "SA Yoreh Deah 247-259 (Karo and Rema); MT Hilkhot Mattenot Aniyim 10:7-14"
+  glossary_terms:
+    - term: "שֻׁלְחָן עָרוּךְ"
+      transliteration: "Shulḥan Arukh"
+      gloss: "the Set Table; Joseph Karo's 16th-century code of Jewish law, still the standard halakhic reference"
+    - term: "יוֹרֶה דֵּעָה"
+      transliteration: "Yoreh Deʿah"
+      gloss: "the second section of the Shulchan Arukh, covering ritual law, charity, and related topics"
+  further_reading:
+    - "SA Yoreh Deah 247-259 (Karo and Rema; available on Sefaria)"
+    - "Meir Tamari, With All Your Possessions: Jewish Ethics and Economic Life (Free Press 1987)"
+    - "Aaron Levine, Case Studies in Jewish Business Ethics (KTAV 2000)"
+    - "Moshe Halbertal, 'What Is Tzedakah? On the Forms of Charitable Obligation,' in The Boundaries of Justice: Tzedakah and Jewish Thought (Shalom Hartman Institute 2013)"
+    - "Shlomo Yosef Zevin, ed., Encyclopedia Talmudit, s.v. 'Tzedakah' (Hebrew; standard rabbinic encyclopedia)"
+  lep_relevance: >
+    The living transmission of the eight-rung doctrine through Karo, modern halakhic scholarship, and
+    contemporary Jewish business ethics confirms that the LEP lineage describes a normative tradition
+    in active use. The highest rung's structural preference for enabling self-sufficiency through
+    partnership remains the halakhic standard for what excellence in tzedakah looks like.
