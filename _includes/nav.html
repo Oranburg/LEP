@@ -1,15 +1,29 @@
-<nav class="site-nav" aria-label="Primary">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/about/' | relative_url }}">About</a>
-  <a href="{{ '/people/' | relative_url }}">People</a>
-  <a href="{{ '/theme/' | relative_url }}">Theme</a>
-  <a href="{{ '/lineage/' | relative_url }}">Lineage</a>
-  <a href="{{ '/magnifica-humanitas/' | relative_url }}">Magnifica Humanitas</a>
-  <a href="{{ '/societas/' | relative_url }}">Societas</a>
-  <a href="{{ '/methodology/' | relative_url }}">Methodology</a>
-  <a href="{{ '/events/' | relative_url }}">Events</a>
-  <a href="{{ '/readings/' | relative_url }}">Readings</a>
-  <a href="{{ '/working-papers/' | relative_url }}">Working Papers</a>
-  <a href="{{ '/collaborators/' | relative_url }}">Collaborators</a>
-  <a href="{{ '/news/' | relative_url }}">News</a>
+<nav class="site-nav" aria-label="Main navigation">
+  <button class="nav-toggle" onclick="var nav=this.closest('.site-nav');nav.classList.toggle('open');this.setAttribute('aria-expanded',nav.classList.contains('open'))" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+    <li><a href="{{ '/people/' | relative_url }}">People</a></li>
+    <li><a href="{{ '/theme/' | relative_url }}">Theme</a></li>
+    <li><a href="{{ '/lineage/' | relative_url }}">Lineage</a></li>
+    <li><a href="{{ '/societas/' | relative_url }}">Societas</a></li>
+    <li><a href="{{ '/magnifica-humanitas/' | relative_url }}">Magnifica Humanitas</a></li>
+    <li><a href="{{ '/methodology/' | relative_url }}">Methodology</a></li>
+    <li><a href="{{ '/events/' | relative_url }}">Events</a></li>
+    <li><a href="{{ '/readings/' | relative_url }}">Readings</a></li>
+    <li><a href="{{ '/working-papers/' | relative_url }}">Working Papers</a></li>
+    <li><a href="{{ '/news/' | relative_url }}">News</a></li>
+    <li>
+      <button class="theme-toggle" onclick="toggleTheme()" aria-label="Switch to light mode">
+        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+        </svg>
+        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+      </button>
+    </li>
+  </ul>
 </nav>
