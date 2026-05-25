@@ -1890,3 +1890,67 @@ details.embed[open] summary {
   font-size: 0.95rem;
   line-height: 1.55;
 }
+
+/* ==========================================================================
+   Footer columns (replaces the single-row footer-links flex)
+   ========================================================================== */
+
+.site-footer .footer-inner {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--space-xl);
+  text-align: left;
+  padding-bottom: var(--space-xl);
+}
+
+.footer-section h4 {
+  font-family: var(--font-headline);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--yellow);
+  margin: 0 0 var(--space-md);
+  padding-bottom: var(--space-xs);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-section li {
+  margin-bottom: 0.4rem;
+}
+
+.footer-section a {
+  color: rgba(255, 255, 255, 0.78);
+  text-decoration: none;
+  font-family: var(--font-headline);
+  font-size: 0.88rem;
+  transition: color 0.2s;
+}
+
+.footer-section a:hover {
+  color: var(--yellow);
+}
+
+.footer-coda {
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  padding-top: var(--space-lg);
+  text-align: center;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.7);
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.footer-coda .disclaimer {
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.footer-coda p {
+  margin: 0 0 0.6rem;
+}
