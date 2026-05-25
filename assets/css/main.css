@@ -1771,3 +1771,72 @@ details.embed[open] summary {
   font-size: 0.85rem;
   color: var(--muted);
 }
+
+/* ==========================================================================
+   Mermaid Diagrams
+   Diagrams break out of the 1100px prose width because they need room
+   to be legible. Centered, white interior so node fills read on both
+   dark and light themes. Horizontal scroll on overflow.
+   ========================================================================== */
+
+.mermaid {
+  position: relative;
+  margin: 2rem auto 0.75rem;
+  width: 95vw;
+  max-width: 1600px;
+  padding: 1.5rem;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+  text-align: center;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.mermaid svg {
+  max-width: none !important;
+  height: auto !important;
+  font-family: var(--font-body), sans-serif !important;
+}
+
+.mermaid > svg {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.diagram-caption {
+  display: block;
+  text-align: center;
+  font-family: var(--font-accent);
+  font-size: 0.95rem;
+  color: var(--muted);
+  margin: 0 auto 2.5rem;
+  max-width: 720px;
+  font-style: italic;
+}
+
+.lineage-section {
+  margin: var(--space-3xl) 0;
+}
+
+.lineage-section h3 {
+  font-family: var(--font-headline);
+  color: var(--accent);
+  font-size: 1.6rem;
+  border-bottom: 2px solid var(--accent-red);
+  padding-bottom: var(--space-sm);
+  margin-bottom: var(--space-md);
+}
+
+@media (max-width: 900px) {
+  .mermaid {
+    width: 100vw;
+    padding: 0.75rem;
+    box-shadow: none;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+}
