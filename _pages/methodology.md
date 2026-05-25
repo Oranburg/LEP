@@ -10,6 +10,6 @@ The program's empirical methodology rests on a categorical distinction between p
 
 See: [Equally Poor](https://oranburg.law/equally-poor/).
 
-The year-theme makes sharp claims about the addressable side of the distinction. It does not commit to a position on the appropriate level of inequality, which remains a question for democratic deliberation.
+The year-theme makes sharp claims about the addressable side of the distinction. The appropriate level of inequality remains a question for democratic deliberation.
 
 Content forthcoming.
