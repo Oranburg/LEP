@@ -2,5 +2,10 @@
 layout: default
 ---
 <article class="page">
-  {{ content }}
+  {%- if page.gated -%}
+    {%- capture gated_content -%}{{ content }}{%- endcapture -%}
+    {% include access-gate.html content=gated_content %}
+  {%- else -%}
+    {{ content }}
+  {%- endif -%}
 </article>
