@@ -58,6 +58,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+  - IMPROVEMENTS_SUMMARY.md
+  - _proposals
   - vendor
   - node_modules
   - .github
