@@ -79,7 +79,7 @@ The most recent articulation of the lineage addresses artificial intelligence an
 
 ## Jewish tradition: Torah to Maimonides to the *heter isqa*
 
-The Jewish tradition arrives at the same destination through different paths.
+The Jewish tradition reaches the same conclusion through independent reasoning, beginning from the Torah and moving through Talmudic commercial jurisprudence to Maimonides's systematic ranking of the forms of *tzedakah*.
 
 ### Biblical Foundations
 
