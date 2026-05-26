@@ -2010,3 +2010,145 @@ details.embed[open] summary {
   font-style: italic;
   margin: 0 0 var(--space-lg);
 }
+
+/* ==========================================================================
+   Figure Dialogs (interactive lineage diagram breakout boxes)
+   ========================================================================== */
+
+.figure-dialog {
+  border: none;
+  border-radius: var(--radius-md);
+  padding: 0;
+  max-width: 720px;
+  width: 92vw;
+  max-height: 88vh;
+  background: var(--bg);
+  color: var(--text);
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.45);
+}
+
+.figure-dialog::backdrop {
+  background: rgba(10, 50, 85, 0.55);
+  backdrop-filter: blur(2px);
+}
+
+.figure-dialog article {
+  padding: var(--space-xl) var(--space-xl) var(--space-lg);
+  overflow-y: auto;
+  max-height: 88vh;
+}
+
+.figure-dialog h2 {
+  font-family: var(--font-headline);
+  font-size: 1.6rem;
+  color: var(--accent);
+  margin: 0 0 var(--space-xs);
+  border-bottom: 2px solid var(--accent-red);
+  padding-bottom: var(--space-sm);
+}
+
+.figure-dialog .figure-dates {
+  font-family: var(--font-accent);
+  font-style: italic;
+  color: var(--muted);
+  margin: 0 0 var(--space-md);
+  font-size: 1rem;
+}
+
+.figure-dialog .figure-hebrew {
+  font-family: serif;
+  font-size: 1.25rem;
+  color: var(--accent);
+  margin: 0;
+}
+
+.figure-dialog .figure-translit {
+  color: var(--muted);
+  margin: 0 0 var(--space-sm);
+}
+
+.figure-dialog .figure-identity {
+  font-family: var(--font-accent);
+  font-size: 1.05rem;
+  color: var(--text);
+  margin-bottom: var(--space-md);
+  border-left: 3px solid var(--accent);
+  padding-left: var(--space-md);
+}
+
+.figure-dialog p,
+.figure-dialog ul {
+  margin-bottom: var(--space-md);
+  font-size: 0.98rem;
+  line-height: 1.65;
+}
+
+.figure-dialog .figure-quote {
+  background: var(--bg-secondary);
+  border-left: 4px solid var(--accent-red);
+  padding: var(--space-md) var(--space-lg);
+  margin: var(--space-md) 0;
+  font-family: var(--font-accent);
+  font-style: italic;
+}
+
+.figure-dialog .figure-quote cite {
+  display: block;
+  margin-top: var(--space-sm);
+  font-size: 0.85rem;
+  font-style: normal;
+  color: var(--muted);
+}
+
+.figure-dialog details.figure-reading {
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--border);
+}
+
+.figure-dialog details.figure-reading summary {
+  cursor: pointer;
+  font-family: var(--font-headline);
+  font-size: 0.95rem;
+  color: var(--accent);
+  letter-spacing: 0.3px;
+}
+
+.figure-dialog details.figure-reading ul {
+  margin-top: var(--space-sm);
+  font-size: 0.9rem;
+}
+
+.figure-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background: transparent;
+  border: none;
+  font-size: 1.75rem;
+  line-height: 1;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius-sm);
+}
+
+.figure-close:hover,
+.figure-close:focus-visible {
+  color: var(--accent-red);
+  background: var(--bg-secondary);
+}
+
+.figure-modals {
+  /* Container is purely structural; dialogs use ::backdrop */
+}
+
+.lineage-hint {
+  font-family: var(--font-accent);
+  font-style: italic;
+  color: var(--muted);
+  text-align: center;
+  font-size: 0.95rem;
+  margin: -1rem auto var(--space-lg);
+  max-width: 720px;
+}
