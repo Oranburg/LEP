@@ -1,0 +1,8 @@
+<!-- Reusable Card Component -->
+{% capture card_content %}{{ include.content | default: include.text }}{% endcapture %}
+
+<div class="card {% if include.accent %}card--accent{% endif %}{% if include.highlight %}card--highlight{% endif %}">
+  {% if include.title %}<h3>{% if include.url %}<a href="{{ include.url }}">{{ include.title }}</a>{% else %}{{ include.title }}{% endif %}</h3>{% endif %}
+  {% if include.content %}{{ include.content }}{% elsif include.text %}<p>{{ include.text }}</p>{% endif %}
+  {% if include.button_text and include.button_url %}<a href="{{ include.button_url }}" class="btn btn--text">{{ include.button_text }} →</a>{% endif %}
+</div>

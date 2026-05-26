@@ -1,0 +1,19 @@
+<!-- Related Posts/Pages -->
+{% assign tags = page.tags | default: page.categories %}
+{% if tags and tags.size > 0 %}
+  {% assign related_posts = site.pages | where_exp: "item", "item.tags == tags" | where_exp: "item", "item.url != page.url" | limit: 3 %}
+  
+  {% if related_posts.size > 0 %}
+  <section class="related-content">
+    <h3>Related Pages</h3>
+    <div class="related-list">
+      {% for post in related_posts %}
+      <article class="related-item">
+        <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+        {% if post.description %}<p>{{ post.description }}</p>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+{% endif %}

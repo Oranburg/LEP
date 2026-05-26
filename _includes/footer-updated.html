@@ -1,0 +1,56 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <!-- Quick Links Section -->
+    <div class="footer-section">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="{{ '/for-students/' | relative_url }}">For Students</a></li>
+        <li><a href="{{ '/people/' | relative_url }}">People</a></li>
+        <li><a href="{{ '/events/' | relative_url }}">Events</a></li>
+        <li><a href="{{ '/news/' | relative_url }}">News</a></li>
+      </ul>
+    </div>
+
+    <!-- Intellectual Framework Section -->
+    <div class="footer-section">
+      <h4>Framework</h4>
+      <ul>
+        <li><a href="{{ '/lineage/' | relative_url }}">Doctrinal Lineage</a></li>
+        <li><a href="{{ '/societas/' | relative_url }}">Societas</a></li>
+        <li><a href="{{ '/glossary/' | relative_url }}">Glossary</a></li>
+        <li><a href="{{ '/methodology/' | relative_url }}">Methodology</a></li>
+      </ul>
+    </div>
+
+    <!-- Resources Section -->
+    <div class="footer-section">
+      <h4>Resources</h4>
+      <ul>
+        <li><a href="{{ '/working-papers/' | relative_url }}">Working Papers</a></li>
+        <li><a href="{{ '/readings/' | relative_url }}">Readings</a></li>
+        <li><a href="{{ '/for-students/faq/' | relative_url }}">FAQ</a></li>
+        <li><a href="{{ '/collaborators/' | relative_url }}">Collaborators</a></li>
+      </ul>
+    </div>
+
+    <!-- Contact Section -->
+    <div class="footer-section">
+      <h4>Contact</h4>
+      <ul>
+        <li>{{ site.author.name }}</li>
+        <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+        <li><a href="{{ site.url }}">{{ site.url | remove: "https://" | remove: "http://" }}</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Footer Footer -->
+  <div class="footer-coda">
+    <p class="disclaimer">This site is the co-directors' personal working space for the program's intellectual identity. It is not a CUA-authorized communication.</p>
+    <p>&copy; {% now "%Y" %} {{ site.author.name }}. All rights reserved.</p>
+    <p><a href="{{ '/LICENSE' | relative_url }}">License</a></p>
+  </div>
+</footer>
+
+<!-- Back to top button -->
+<button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
