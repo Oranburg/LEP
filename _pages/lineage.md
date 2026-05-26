@@ -1,13 +1,18 @@
 ---
 layout: page
-title: "Doctrinal Lineage"
+title: "The Moral Anatomy of Enterprise"
+subtitle: "Two Traditions on the Just Form of Capital"
 permalink: /lineage/
 mermaid: true
 ---
 
-# Doctrinal Lineage
+# The Moral Anatomy of Enterprise
 
-The program's intellectual identity rests on two traditions that arrive at the same conclusion through independent reasoning. Both end at the same place: partnership at shared risk is the just form of capital deployment, and the form in which justice toward the poor takes shape in commercial life. The page works through each layer of the Catholic tradition in turn, then the Jewish parallel, and ends at the convergence.
+Enterprise has parts. Capital is gathered. Labor is given. Risk is taken. Return is shared or it is not. Partnership is formed or refused. The poor are drawn in or pushed aside. These are not separable problems. They are the joints of one body, and the moral question about any commercial form turns on how the joints are arranged.
+
+Two traditions worked through that anatomy in detail and arrived at the same conclusion through independent reasoning. The Catholic tradition runs from Roman commercial law through Aquinas and the Salamanca school to the modern social encyclicals and the present restatement under Leo XIV. The Jewish tradition runs from the Pentateuch through Talmudic commercial jurisprudence to Maimonides and the *heter isqa*. Both end at the same claim: partnership at shared risk is the just form of capital deployment, and the form in which justice toward the poor takes shape in commercial life.
+
+This page works through the anatomy layer by layer. Sections I through V trace the Catholic articulation. Section VI sets out the Jewish parallel and its halakhic mechanism. Section VII names the convergence. Section VIII reads several modern instruments, the venture-capital partnership, the employee stock ownership plan, the tokenized venture, and the AI-platform equity question, through the joined anatomy the two traditions supply.
 
 <p class="lineage-hint">Click any named figure on the diagrams below to open a break-out box with the doctrinal move, the textual locus, a verified quotation, and further reading.</p>
 
@@ -26,7 +31,7 @@ flowchart LR
 
 ## II. Thomistic distinction
 
-Aquinas takes the Roman structure and turns it into a doctrinal distinction that runs through the rest of the tradition. Capital deployed into a partnership at shared risk earns a return justly, because the investor remains a co-owner who shares the loss. The same capital extended as a loan at fixed interest is usury, because the lender keeps the capital safe and demands a return as well.
+Aquinas takes the Roman structure and turns it into a doctrinal distinction that the tradition then elaborates for seven centuries. Capital deployed into a partnership at shared risk earns a return justly, because the investor remains a co-owner who shares the loss. The same capital extended as a loan at fixed interest is usury, because the lender keeps the capital safe and demands a return as well.
 
 <div class="mermaid" markdown="0">
 %%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':50,'rankSpacing':80},'themeVariables':{'fontSize':'17px','fontFamily':'Georgia, serif'}}}%%
@@ -207,5 +212,29 @@ flowchart LR
   class JEW jew;
   class CONV conv;
 </div>
+
+## VIII. The anatomy applied: reading modern instruments
+
+The two traditions converge on a principle, but the principle has work to do. Modern commercial life is conducted through instruments that were not anticipated by Ulpian or Maimonides, and the anatomy must be applied to each. Four examples mark the present field.
+
+### Venture capital and the modern *societas*
+
+The venture-capital partnership is the closest thing modern law has produced to the Thomistic *societas*. The general partner deploys management; the limited partners deploy capital; both share in the upside, and both, in the event of failure, share in the loss. The structure is not pure: management fees and the asymmetric "carry" complicate the risk-sharing. But the form recognizes that a venture whose outcome is genuinely uncertain cannot be financed justly by debt alone. Where the outcome is unknown, equity at risk is the morally appropriate instrument; the loan demanding a fixed return regardless of outcome is the form Aquinas named usurious. The contemporary debate over founder-friendly versus investor-protective terms is, in the older vocabulary, a debate over how the risk is shared. Both traditions tell us the risk must be shared, not transferred.
+
+### Employee ownership and the priority of labor
+
+The employee stock ownership plan, the cooperative, and the partnership profit-sharing arrangement are modern instruments through which labor receives a stake in the venture it constitutes. John Paul II named the principle directly in *Laborem Exercens*: labor has priority over capital because labor is the human person at work. The ESOP is the institutional form that takes the principle seriously enough to assign ownership, not merely wages, to the worker. The Jewish tradition reaches the same conclusion through Maimonides's *shutafut*: the highest form of giving is partnership with the one who has fallen, because partnership does not create dependence but the conditions for the partner to stand on his own again. Where labor is treated as a partner, the doctrine recognizes the arrangement as just. Where labor is treated only as an input, the arrangement falls outside the tradition's range.
+
+### Tokenized ventures and the shared-risk question, reopened in code
+
+The decentralized autonomous organization and the tokenized partnership are recent inventions that ask the shared-risk question in new form. A DAO that distributes governance tokens proportional to capital contribution can replicate the *societas* in code, provided the loss as well as the upside is genuinely shared. A token sale that promises a return without genuine partnership in the venture's risk is *mutuum* in new clothing, regardless of the legal label affixed to it. The contemporary regulatory debate over which token offerings are securities is, in the older vocabulary, a debate over which forms genuinely share risk and which only appear to. The question is doctrinally familiar even where the instrument is novel.
+
+### AI-platform equity and the Babel question
+
+Leo XIV's *Magnifica Humanitas* takes Babel and Nehemia as governing biblical images for the AI age. Babel is the platform whose capital is gathered, whose labor is given, whose data is harvested, and whose returns flow upward to a tower that the contributors do not own. Nehemia is the contrasting image: rebuilding the wall of Jerusalem by assigning each family the section adjacent to its own house. The Nehemian arrangement is partnership at shared risk in built form. The Babel arrangement is its opposite. The platform-economy question, who shares in the upside of the compute, the data, and the labor that compose a modern AI venture, is not a new question. It is the oldest question in the tradition, asked of the newest instrument.
+
+### The work the anatomy supplies
+
+These four examples are not a complete inventory. They are the instruments the Program will treat first because they are the instruments the present generation of entrepreneurial lawyers will be asked to draft, advise on, and reason about. The anatomy supplies the questions. The two traditions supply the answers in independent and convergent form. The work is to read the instrument through the anatomy and to draft the instrument so the anatomy holds.
 
 {% include figure-modals.html %}

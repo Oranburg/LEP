@@ -6,7 +6,7 @@ permalink: /for-students/mentors/
 
 # For mentors, employers, and alumni
 
-You want to give back, hire from the program, or otherwise engage. This page is short on purpose.
+This page covers three things: how to mentor a student, how to hire from the program, and how to make a gift in support.
 
 ## The mentor pool
 

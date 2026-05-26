@@ -81,7 +81,7 @@ This is the recommended lead for the Diana Davis Spencer Foundation conversation
 
 ---
 
-## How to engage
+## To make a gift
 
 For gift conversations: Peggy Kacergis, kacergis@cua.edu. For program-specific giving discussions, copy hoffarth@cua.edu.
 

@@ -80,7 +80,7 @@ Identical to the Catholic version above. Skill-based micro-credentials, badge se
 
 The Magisterium Micro-Credential is the smallest of the four programs and the most market-readable. Foundations value the verifiability and the measurable outcome (placement correlation). It is a strong standalone if a funder wants to test a relationship at a smaller initial scale, and a strong companion to the larger campaigns.
 
-## How to engage
+## To make a gift
 
 For gift conversations: Peggy Kacergis, kacergis@cua.edu. For program-specific giving discussions, copy hoffarth@cua.edu.
 

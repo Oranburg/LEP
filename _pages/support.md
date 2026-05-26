@@ -58,7 +58,7 @@ The inaugural year-theme (and successive year-themes) each include a named keyno
 
 The Law and Entrepreneurship Clinic is being deepened in AY 2026-27. Naming opportunities exist for the clinic itself, for a postgraduate clinical fellow position, and for a practitioner-in-residence visiting attorney post.
 
-## How to engage
+## To make a gift
 
 For gift conversations: Peggy Kacergis, Assistant Dean of Advancement at CUA Columbus School of Law, kacergis@cua.edu. For program-specific giving discussions, copy the program directors at hoffarth@cua.edu.
 
