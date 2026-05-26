@@ -39,8 +39,8 @@ timeline
             : Laborem Exercens (1981)
             : Personalist anthropology of work
             : Employee shareholding endorsed
-        2023-Present: Pope Francis (Leo XIV reference)
-            : Magnifica Humanitas (2026)
+        2026: Pope Leo XIV
+            : Magnifica Humanitas (15 May 2026)
             : AI-age restatement
             : Babel and Nehemiah as governing images
 ```
@@ -129,7 +129,7 @@ The *societas*/*shutafut* framework provides the test. The answer turns on the f
 - Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim
 - Pope Leo XIII, *Rerum Novarum* (1891)
 - Pope John Paul II, *Laborem Exercens* (1981)
-- Pope Francis, *Magnifica Humanitas* (2026)
+- Pope Leo XIV, *Magnifica Humanitas* (2026)
 
 ### Secondary Sources
 - James F. Keenan (ed.), *Catholic moral thought and the corporation*
