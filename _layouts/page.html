@@ -1,11 +1,17 @@
 ---
 layout: default
 ---
-<article class="page">
-  {%- if page.gated -%}
-    {%- capture gated_content -%}{{ content }}{%- endcapture -%}
-    {% include access-gate.html content=gated_content %}
-  {%- else -%}
+{%- if page.gated -%}
+<article class="page page-gated" data-gated-locked>
+  <div class="gate-placeholder">
+    <p>&#128274; This essay is in pre-release. Click the lock in the menu bar to enter the access key.</p>
+  </div>
+  <div class="gate-content">
     {{ content }}
-  {%- endif -%}
+  </div>
 </article>
+{%- else -%}
+<article class="page">
+  {{ content }}
+</article>
+{%- endif -%}

@@ -1,44 +1,121 @@
 {%- comment -%}
-Pre-release access gate. Renders a SHA-256-checked password prompt and hides
-the page body until unlocked. Courtesy gate, not encryption — view-source
-can read the body. Use for pre-release essays where the bar is "don't
-casually share" not "keep secret."
-
-Activated by `gated: true` frontmatter on the page. Password hash is set in
-_config.yml as `gate_password_hash` (SHA-256 hex of the chosen password).
-
-The gate caches successful unlocks in sessionStorage so the reader doesn't
-re-enter the password as they navigate between gated pages in one session.
+Global pre-release access gate. Triggered by the lock icon in the nav bar.
+SHA-256 of the entered key is compared against site.gate_password_hash.
+Unlock state persists in sessionStorage and reveals any gated content on the
+current and subsequent pages until the tab closes.
 {%- endcomment -%}
-<div id="lep-gate-prompt" class="lep-gate" role="dialog" aria-labelledby="lep-gate-title">
-  <div class="lep-gate__panel">
-    <h2 id="lep-gate-title">Pre-release essay</h2>
-    <p>This working paper is in pre-release and not yet for circulation. Enter the access key to read the draft. If you don't have one and would like to, email Seth at <a href="mailto:oranburg@cua.edu">oranburg@cua.edu</a>.</p>
+
+<div id="lep-gate-modal" class="lep-gate-modal" hidden role="dialog" aria-modal="true" aria-labelledby="lep-gate-modal-title">
+  <div class="lep-gate-modal__backdrop" data-gate-close></div>
+  <div class="lep-gate-modal__panel" role="document">
+    <button type="button" class="lep-gate-modal__close" data-gate-close aria-label="Close">&times;</button>
+    <h2 id="lep-gate-modal-title">Pre-release access</h2>
+    <p>Enter the access key to read pre-release essays. If you do not have one and would like one, email Seth at <a href="mailto:oranburg@cua.edu">oranburg@cua.edu</a>.</p>
     <form id="lep-gate-form" autocomplete="off">
-      <label for="lep-gate-input" class="sr-only">Access key</label>
+      <label for="lep-gate-input" class="lep-gate-sr-only">Access key</label>
       <input id="lep-gate-input" type="password" placeholder="Access key" autocomplete="off" required>
       <button type="submit">Unlock</button>
     </form>
-    <p id="lep-gate-error" class="lep-gate__error" hidden>That key does not match. Try again.</p>
-    <p class="lep-gate__note"><small>Courtesy gate. Not encryption. Please do not share.</small></p>
+    <p id="lep-gate-error" class="lep-gate-modal__error" hidden>That key does not match. Try again.</p>
   </div>
-</div>
-<div id="lep-gate-body" hidden>
-  {{ include.content }}
 </div>
 
 <style>
-  .lep-gate { display: flex; align-items: center; justify-content: center; min-height: 50vh; padding: 2rem 1rem; }
-  .lep-gate__panel { max-width: 28rem; padding: 1.5rem 1.75rem; border: 1px solid var(--og-ink-muted, #4A4A4A); border-radius: 0.25rem; background: var(--og-bg, #FFFFFF); font-family: var(--og-font-serif, Georgia, serif); }
-  .lep-gate__panel h2 { margin-top: 0; font-size: 1.25rem; }
-  .lep-gate__panel p { font-size: 0.95rem; line-height: 1.5; }
-  .lep-gate__panel form { display: flex; gap: 0.5rem; margin: 1rem 0 0.5rem; }
-  .lep-gate__panel input { flex: 1; padding: 0.5rem 0.6rem; font-family: inherit; font-size: 1rem; border: 1px solid var(--og-ink-muted, #4A4A4A); border-radius: 0.2rem; }
-  .lep-gate__panel button { padding: 0.5rem 1rem; font-family: inherit; font-size: 0.95rem; border: 1px solid var(--og-ink, #1A1A1A); background: var(--og-ink, #1A1A1A); color: var(--og-bg, #FFFFFF); border-radius: 0.2rem; cursor: pointer; }
-  .lep-gate__panel button:hover { opacity: 0.85; }
-  .lep-gate__error { color: #7B2D26; font-weight: 600; }
-  .lep-gate__note { color: var(--og-ink-muted, #4A4A4A); margin-top: 1rem; }
-  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+  .lep-lock-toggle {
+    background: transparent;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+    padding: 0.4rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 0;
+    border-radius: 0.25rem;
+  }
+  .lep-lock-toggle:hover { opacity: 0.8; }
+  .lep-lock-toggle .icon-lock-open { display: none; }
+  .lep-lock-toggle.is-unlocked .icon-lock-closed { display: none; }
+  .lep-lock-toggle.is-unlocked .icon-lock-open { display: inline-block; }
+
+  .lep-gate-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+  .lep-gate-modal[hidden] { display: none; }
+  .lep-gate-modal__backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+  }
+  .lep-gate-modal__panel {
+    position: relative;
+    max-width: 30rem;
+    width: 100%;
+    background: var(--og-bg, #FFFFFF);
+    color: var(--og-ink, #1A1A1A);
+    border: 1px solid var(--og-ink-muted, #4A4A4A);
+    border-radius: 0.35rem;
+    padding: 1.5rem 1.75rem;
+    font-family: var(--og-font-serif, Georgia, serif);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+  }
+  .lep-gate-modal__panel h2 { margin: 0 0 0.5rem; font-size: 1.25rem; }
+  .lep-gate-modal__panel p { font-size: 0.95rem; line-height: 1.5; margin: 0.5rem 0; }
+  .lep-gate-modal__panel form { display: flex; gap: 0.5rem; margin: 1rem 0 0.25rem; }
+  .lep-gate-modal__panel input {
+    flex: 1;
+    padding: 0.5rem 0.6rem;
+    font-family: inherit;
+    font-size: 1rem;
+    border: 1px solid var(--og-ink-muted, #4A4A4A);
+    border-radius: 0.2rem;
+    background: var(--og-bg, #FFFFFF);
+    color: var(--og-ink, #1A1A1A);
+  }
+  .lep-gate-modal__panel button[type="submit"] {
+    padding: 0.5rem 1rem;
+    font-family: inherit;
+    font-size: 0.95rem;
+    border: 1px solid var(--og-ink, #1A1A1A);
+    background: var(--og-ink, #1A1A1A);
+    color: var(--og-bg, #FFFFFF);
+    border-radius: 0.2rem;
+    cursor: pointer;
+  }
+  .lep-gate-modal__panel button[type="submit"]:hover { opacity: 0.85; }
+  .lep-gate-modal__close {
+    position: absolute;
+    top: 0.4rem;
+    right: 0.6rem;
+    background: transparent;
+    border: none;
+    color: inherit;
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+  }
+  .lep-gate-modal__error { color: #7B2D26; font-weight: 600; }
+  .lep-gate-sr-only {
+    position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0,0,0,0); border: 0;
+  }
+
+  .page-gated[data-gated-locked] .gate-content { display: none; }
+  .page-gated:not([data-gated-locked]) .gate-placeholder { display: none; }
+  .gate-placeholder {
+    padding: 3rem 1rem;
+    text-align: center;
+    font-family: var(--og-font-serif, Georgia, serif);
+    font-size: 1.05rem;
+    color: var(--og-ink-muted, #4A4A4A);
+  }
 </style>
 
 <script>
@@ -59,9 +136,43 @@ re-enter the password as they navigate between gated pages in one session.
     });
   }
 
-  function unlock() {
-    document.getElementById("lep-gate-prompt").hidden = true;
-    document.getElementById("lep-gate-body").hidden = false;
+  function isUnlocked() {
+    try { return sessionStorage.getItem(STORAGE_KEY) === EXPECTED_HASH; }
+    catch (e) { return false; }
+  }
+
+  function applyUnlockState() {
+    var unlocked = isUnlocked();
+    var toggles = document.querySelectorAll(".lep-lock-toggle");
+    toggles.forEach(function (btn) {
+      if (unlocked) {
+        btn.classList.add("is-unlocked");
+        btn.setAttribute("aria-label", "Pre-release access unlocked");
+      } else {
+        btn.classList.remove("is-unlocked");
+        btn.setAttribute("aria-label", "Unlock pre-release content");
+      }
+    });
+    var gated = document.querySelectorAll(".page-gated");
+    gated.forEach(function (el) {
+      if (unlocked) el.removeAttribute("data-gated-locked");
+      else el.setAttribute("data-gated-locked", "");
+    });
+  }
+
+  function openModal() {
+    var modal = document.getElementById("lep-gate-modal");
+    if (!modal) return;
+    modal.hidden = false;
+    var input = document.getElementById("lep-gate-input");
+    if (input) { input.value = ""; setTimeout(function(){ input.focus(); }, 10); }
+    var err = document.getElementById("lep-gate-error");
+    if (err) err.hidden = true;
+  }
+
+  function closeModal() {
+    var modal = document.getElementById("lep-gate-modal");
+    if (modal) modal.hidden = true;
   }
 
   function ready(fn) {
@@ -70,26 +181,47 @@ re-enter the password as they navigate between gated pages in one session.
   }
 
   ready(function () {
-    if (sessionStorage.getItem(STORAGE_KEY) === EXPECTED_HASH) {
-      unlock();
-      return;
-    }
-    var form = document.getElementById("lep-gate-form");
-    var input = document.getElementById("lep-gate-input");
-    var err = document.getElementById("lep-gate-error");
-    form.addEventListener("submit", function (ev) {
-      ev.preventDefault();
-      sha256Hex(input.value).then(function (hex) {
-        if (hex === EXPECTED_HASH) {
-          sessionStorage.setItem(STORAGE_KEY, EXPECTED_HASH);
-          err.hidden = true;
-          unlock();
+    applyUnlockState();
+
+    document.querySelectorAll(".lep-lock-toggle").forEach(function (btn) {
+      btn.addEventListener("click", function (ev) {
+        ev.preventDefault();
+        if (isUnlocked()) {
+          openModal();
         } else {
-          err.hidden = false;
-          input.select();
+          openModal();
         }
       });
     });
+
+    document.querySelectorAll("[data-gate-close]").forEach(function (el) {
+      el.addEventListener("click", closeModal);
+    });
+
+    document.addEventListener("keydown", function (ev) {
+      if (ev.key === "Escape") closeModal();
+    });
+
+    var form = document.getElementById("lep-gate-form");
+    var input = document.getElementById("lep-gate-input");
+    var err = document.getElementById("lep-gate-error");
+    if (form && input && err) {
+      form.addEventListener("submit", function (ev) {
+        ev.preventDefault();
+        sha256Hex(input.value).then(function (hex) {
+          if (hex === EXPECTED_HASH) {
+            try { sessionStorage.setItem(STORAGE_KEY, EXPECTED_HASH); } catch (e) {}
+            err.hidden = true;
+            applyUnlockState();
+            closeModal();
+          } else {
+            err.hidden = false;
+            input.select();
+            input.focus();
+          }
+        });
+      });
+    }
   });
 })();
 </script>
