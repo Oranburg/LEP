@@ -12,13 +12,13 @@ These terms come up on the program's intellectual-frame pages ([Lineage]({{ '/li
 
 ***Mutuum*** *(Latin).* A loan. Specifically, a loan at fixed interest with no risk to the lender. In Aquinas, *mutuum* taken at interest is the structure that constitutes usury. The contrast with *societas* is the central distinction in the partnership-form-of-justice tradition.
 
-***Shutafut*** *(שֻׁתָּפוּת, Hebrew).* Partnership. In Maimonides's *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7, *shutafut* with the poor is named as the highest of the eight rungs of *tzedakah*: strengthening the hand of the one who has fallen, by partnership, so he need not depend on others.
+***Shutafut*** *(שֻׁתָּפוּת, Hebrew).* Partnership. In Maimonides's *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7, *shutafut* with the poor is named as the highest of the eight rungs of *ẓedakah*: strengthening the hand of the one who has fallen, by partnership, so he need not depend on others.
 
-***Tzedakah*** *(צְדָקָה, Hebrew).* Justice-and-charity. The Hebrew term has no English equivalent; it carries both meanings without separating them. The point is that what English calls "charity" Hebrew treats as a matter of justice.
+***Ẓedakah*** *(צְדָקָה, Hebrew).* Justice-and-charity. The Hebrew term has no English equivalent; it carries both meanings without separating them. The point is that what English calls "charity" Hebrew treats as a matter of justice.
 
-***Isqa*** *(עִסְקָא, Aramaic).* The Talmudic half-loan, half-deposit commercial partnership structure that lets Jewish commercial law treat capital deployment as partnership rather than as interest-bearing debt. Developed in Bava Metzia. The mechanism that operationalizes the highest rung in actual commercial life.
+***Iska*** *(עִסְקָא, Aramaic).* The Talmudic half-loan, half-deposit commercial partnership structure that lets Jewish commercial law treat capital deployment as partnership rather than as interest-bearing debt. Developed in Bava Meẓia. The mechanism that operationalizes the highest rung in actual commercial life.
 
-***Heter isqa*** *(Hebrew + Aramaic).* The medieval and modern legal instrument that formally structures business arrangements as *isqa* partnerships to satisfy the Jewish-law prohibition on interest. Still used today.
+***Heter iska*** *(Hebrew + Aramaic).* The medieval and modern legal instrument that formally structures business arrangements as *iska* partnerships to satisfy the Jewish-law prohibition on interest. Still used today.
 
 ***Exercitor navis*** *(Latin).* The Roman law of the commercial operator of a ship. The Ulpian-era jurisprudence on shared maritime venture is the structural ancestor on which Aquinas built the *societas* doctrine. See Digest 14.1.
 

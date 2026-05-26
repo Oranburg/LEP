@@ -39,7 +39,7 @@ The Catholic tradition opens with *ora et labora*: work and prayer are the unifi
 
 ### Jewish framework
 
-The Jewish tradition opens with Leviticus 25:35: "So that he may live with you." The poor person is community, not a case for relief. Dignity is restored through partnership rather than charity, and the tradition insists that justice governs both the ends and the means. The highest form of *tzedakah* creates conditions for self-sufficiency rather than conditions for continued dependence.
+The Jewish tradition opens with Leviticus 25:35: "So that he may live with you." The poor person is community, not a case for relief. Dignity is restored through partnership rather than charity, and the tradition insists that justice governs both the ends and the means. The highest form of *ẓedakah* creates conditions for self-sufficiency rather than conditions for continued dependence.
 
 ---
 
@@ -59,7 +59,7 @@ Aquinas took the Roman commercial law of the *exercitor navis*, the shipowner wh
 
 #### Jewish: *shutafut* (partnership with the recipient)
 
-Maimonides names *shutafut* as the highest of the eight rungs of *tzedakah*: the helper enables the recipient to create his own livelihood, both parties invest in the outcome, and the relationship is reciprocal rather than one-directional. The *heter isqa* contract in Jewish commercial law operationalizes the same logic: capital is deployed half as loan and half as deposit-at-risk, so that return follows shared risk. Modern applications include microfinance partnerships, mentorship arrangements with an equity component, and community development corporations.
+Maimonides names *shutafut* as the highest of the eight rungs of *ẓedakah*: the helper enables the recipient to create his own livelihood, both parties invest in the outcome, and the relationship is reciprocal rather than one-directional. The *heter iska* contract in Jewish commercial law operationalizes the same logic: capital is deployed half as loan and half as deposit-at-risk, so that return follows shared risk. Modern applications include microfinance partnerships, mentorship arrangements with an equity component, and community development corporations.
 
 ---
 
@@ -80,7 +80,7 @@ Maimonides names *shutafut* as the highest of the eight rungs of *tzedakah*: the
 
 Both traditions treat charity as necessary but insufficient. Catholic social teaching holds that addressing immediate need without restructuring the economic relationship leaves the injustice intact. Maimonides holds that one-way charity, however anonymous and generous, violates the recipient's dignity because it confirms rather than dissolves the asymmetry between giver and recipient.
 
-Both traditions place partnership at the apex of the moral hierarchy. *Societas* is the just economic form for Aquinas; *shutafut* is the highest rung of *tzedakah* for Maimonides. The move is the same in both: genuine partnership aligns interests structurally, so that the investor's profit and the laborer's livelihood depend on the same outcome.
+Both traditions place partnership at the apex of the moral hierarchy. *Societas* is the just economic form for Aquinas; *shutafut* is the highest rung of *ẓedakah* for Maimonides. The move is the same in both: genuine partnership aligns interests structurally, so that the investor's profit and the laborer's livelihood depend on the same outcome.
 
 Both traditions insist that just means and just ends cannot be separated. Unjust structures corrupt good intentions. "Justice, justice shall you pursue" requires that the how answer to the same standard as the what.
 

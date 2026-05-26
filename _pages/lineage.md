@@ -10,7 +10,7 @@ mermaid: true
 
 Enterprise has parts. Capital is gathered. Labor is given. Risk is taken. Return is shared or it is not. Partnership is formed or refused. The poor are drawn in or pushed aside. These are not separable problems. They are the joints of one body, and the moral question about any commercial form turns on how the joints are arranged.
 
-Two traditions worked through that anatomy in detail and arrived at the same conclusion through independent reasoning. The Catholic tradition runs from Roman commercial law through Aquinas and the Salamanca school to the modern social encyclicals and the present restatement under Leo XIV. The Jewish tradition runs from the Pentateuch through Talmudic commercial jurisprudence to Maimonides and the *heter isqa*. Both end at the same claim: partnership at shared risk is the just form of capital deployment, and the form in which justice toward the poor takes shape in commercial life.
+Two traditions worked through that anatomy in detail and arrived at the same conclusion through independent reasoning. The Catholic tradition runs from Roman commercial law through Aquinas and the Salamanca school to the modern social encyclicals and the present restatement under Leo XIV. The Jewish tradition runs from the Pentateuch through Talmudic commercial jurisprudence to Maimonides and the *heter iska*. Both end at the same claim: partnership at shared risk is the just form of capital deployment, and the form in which justice toward the poor takes shape in commercial life.
 
 This page works through the anatomy layer by layer. Sections I through V trace the Catholic articulation. Section VI sets out the Jewish parallel and its halakhic mechanism. Section VII names the convergence. Section VIII reads several modern instruments, the venture-capital partnership, the employee stock ownership plan, the tokenized venture, and the AI-platform equity question, through the joined anatomy the two traditions supply.
 
@@ -118,9 +118,9 @@ flowchart LR
   click L14 call openFig("leo-xiv-magnifica-humanitas")
 </div>
 
-## VI. Jewish parallel: the eight rungs of *tzedakah*
+## VI. Jewish parallel: the eight rungs of *ẓedakah*
 
-The Jewish tradition reaches the same conclusion through independent reasoning. The path runs from a Pentateuchal command through Talmudic commercial jurisprudence to Maimonides's systematic ranking of the forms of *tzedakah*. The highest rung is *shutafut*, partnership: strengthening the hand of the one who has fallen so that he need not depend on others.
+The Jewish tradition reaches the same conclusion through independent reasoning. The path runs from a Pentateuchal command through Talmudic commercial jurisprudence to Maimonides's systematic ranking of the forms of *ẓedakah*. The highest rung is *shutafut*, partnership: strengthening the hand of the one who has fallen so that he need not depend on others.
 
 <div class="mermaid" markdown="0">
 %%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':30,'rankSpacing':35},'themeVariables':{'fontSize':'15px','fontFamily':'Georgia, serif'}}}%%
@@ -145,11 +145,11 @@ graph TD
     click RUNG1 call openFig("maimonides-mattenot-aniyim-10-7-14")
 </div>
 
-<span class="diagram-caption">Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7 to 14. The eight rungs of *tzedakah*, ordered by merit. The highest rung is partnership.</span>
+<span class="diagram-caption">Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7 to 14. The eight rungs of *ẓedakah*, ordered by merit. The highest rung is partnership.</span>
 
 ### The halakhic mechanism
 
-The eight-rung doctrine is not abstract ethics. It is operationalized in Jewish commercial law through the *isqa* (עִסְקָא) structure developed in the Talmud and formalized in the medieval *heter isqa* contract. Capital is deployed half as loan and half as deposit-at-risk, which lets a return follow shared risk rather than fixed interest. The mechanism is the practical-law cousin of the highest rung.
+The eight-rung doctrine is not abstract ethics. It is operationalized in Jewish commercial law through the *iska* (עִסְקָא) structure developed in the Talmud and formalized in the medieval *heter iska* contract. Capital is deployed half as loan and half as deposit-at-risk, which lets a return follow shared risk rather than fixed interest. The mechanism is the practical-law cousin of the highest rung.
 
 <div class="mermaid" markdown="0">
 %%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':40,'rankSpacing':60},'themeVariables':{'fontSize':'16px','fontFamily':'Georgia, serif'}}}%%
@@ -162,12 +162,12 @@ flowchart LR
     end
     subgraph TALMUD ["Talmud"]
         direction TB
-        BM["Bava Metzia 5:4 / 68a to 70b<br/>The <i>isqa</i> structure"]
+        BM["Bava Meẓia 5:4 / 68a to 70b<br/>The <i>iska</i> structure"]
         BB["Bava Batra 9b to 10a<br/>Merit of giving"]
         KET["Ketubot 67b<br/>Restore to former state"]
     end
     RAMBAM["<b>Maimonides</b><br/>MT Mattenot Aniyim 10:7<br/><b>shutafut</b> as highest rung"]
-    HETER["<b>Shtar isqa · Heter isqa</b><br/>The venture-partnership deed<br/>Investor and manager share<br/>profit AND risk"]
+    HETER["<b>Shtar iska · Heter iska</b><br/>The venture-partnership deed<br/>Investor and manager share<br/>profit AND risk"]
     LEV --> RAMBAM
     DEUT1 --> RAMBAM
     DEUT2 --> RAMBAM
@@ -190,7 +190,7 @@ flowchart LR
     click BB call openFig("bava-batra-9b-10a")
     click KET call openFig("ketubot-67b")
     click RAMBAM call openFig("maimonides-mattenot-aniyim-10-7-14")
-    click HETER call openFig("heter-isqa-tradition")
+    click HETER call openFig("heter-iska-tradition")
 </div>
 
 ## VII. The convergence
@@ -201,7 +201,7 @@ Both traditions arrive at the same conclusion. The route differs. The principle 
 %%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':80,'rankSpacing':100},'themeVariables':{'fontSize':'18px','fontFamily':'Georgia, serif'}}}%%
 flowchart LR
   CATH["<b>Catholic route</b><br/>Roman law to Aquinas<br/>to Salamanca<br/>to the modern encyclicals<br/>to Leo XIV"]
-  JEW["<b>Jewish route</b><br/>Torah to Talmud<br/>to Maimonides<br/>to the heter isqa tradition"]
+  JEW["<b>Jewish route</b><br/>Torah to Talmud<br/>to Maimonides<br/>to the heter iska tradition"]
   CONV(("<b>Societas meets Shutafut</b><br/><br/>Partnership at shared risk<br/>is the just form of capital,<br/>and the form in which<br/>justice toward the poor<br/>takes shape in<br/>commercial life"))
   CATH ==> CONV
   JEW ==> CONV
