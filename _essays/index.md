@@ -20,8 +20,8 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 ### [Jurisgenesis in Transactional Drafting](/LEP/essays/jurisgenesis-drafting/)
 *Pre-release.* Every deal makes private law. The transactional lawyer at the founding moment is a Coverian jurisgenerator, and what the deskilling loop forecloses in this profession is precisely the act of legal creation that defines it.
 
-### [Heter Isqa as Operative Form](/LEP/essays/heter-isqa-operative/)
-*Pre-release.* The *heter isqa* is not a historical curiosity. It is the live halakhic deed by which observant Jewish commercial life structures capital deployment as partnership at shared risk, used in Israeli banking today and operating on the same doctrinal commitment the lineage page traces from Leviticus through Maimonides.
+### [Heter Iska as Operative Form](/LEP/essays/heter-iska-operative/)
+*Pre-release.* The *heter iska* is not a historical curiosity. It is the live halakhic deed by which observant Jewish commercial life structures capital deployment as partnership at shared risk, used in Israeli banking today and operating on the same doctrinal commitment the lineage page traces from Leviticus through Maimonides.
 
 ### [Magnifica Humanitas and the Babel Question](/LEP/essays/magnifica-babel/)
 *Pre-release.* Leo XIV's 2026 encyclical takes Babel and Nehemia as opposed AI-venture structures. The opposition applies the older *societas* / *mutuum* test to compute, data, and platform equity, and shows where the lawyer drafts Babel by default.
@@ -34,8 +34,8 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 ### [CUA as Home](/LEP/essays/cua-as-home/)
 *Pre-release.* Three structural facts make LEP possible at CUA and impossible anywhere else: the pontifical charter, the *Ex Corde Ecclesiae* mission, and an unbroken natural-law tradition no other American law school holds.
 
-### [AI as Havruta](/LEP/essays/ai-as-havruta/)
-*Pre-release.* AI deskills by default because it is deployed oracularly. Configured as a havruta partner that resists rather than confirms, it can form judgment instead. The prompt is the pedagogy.
+### [AI as Ḥavruta](/LEP/essays/ai-as-havruta/)
+*Pre-release.* AI deskills by default because it is deployed oracularly. Configured as a ḥavruta partner that resists rather than confirms, it can form judgment instead. The prompt is the pedagogy.
 
 ## Program one-pagers
 

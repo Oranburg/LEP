@@ -37,7 +37,7 @@ The program's working paper *Architects of the Void* (in submission) reads the e
 The essay (in development) will:
 
 1. Read the encyclical against the *societas* spine of the program's intellectual identity (Aquinas through Salamanca through *Rerum Novarum* through *Laborem Exercens* through *Magnifica Humanitas*).
-2. Read it alongside the parallel Jewish-tradition convergence at Maimonides and the *heter isqa* development.
+2. Read it alongside the parallel Jewish-tradition convergence at Maimonides and the *heter iska* development.
 3. Treat the practical implications for transactional and regulatory practice in the fintech, AI, and digital-asset sectors.
 
 The essay will be published when complete.

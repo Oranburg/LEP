@@ -77,9 +77,9 @@ The most recent articulation of the lineage addresses artificial intelligence an
 
 ---
 
-## Jewish tradition: Torah to Maimonides to the *heter isqa*
+## Jewish tradition: Torah to Maimonides to the *heter iska*
 
-The Jewish tradition reaches the same conclusion through independent reasoning, beginning from the Torah and moving through Talmudic commercial jurisprudence to Maimonides's systematic ranking of the forms of *tzedakah*.
+The Jewish tradition reaches the same conclusion through independent reasoning, beginning from the Torah and moving through Talmudic commercial jurisprudence to Maimonides's systematic ranking of the forms of *ẓedakah*.
 
 ### Biblical Foundations
 
@@ -89,7 +89,7 @@ Deuteronomy 16:20 supplies the doubled imperative: "Justice, justice shall you p
 
 ### Maimonides (1138 to 1204)
 
-In *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7 to 14, Maimonides ranked eight levels of *tzedakah* in ascending order of moral merit. The highest is *shutafut*, partnership with the recipient: strengthening his hand so that he need not beg. The climactic insight is that engaging the poor person *as a partner* in creating his own livelihood is more just than any form of giving, however generous or anonymous.
+In *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7 to 14, Maimonides ranked eight levels of *ẓedakah* in ascending order of moral merit. The highest is *shutafut*, partnership with the recipient: strengthening his hand so that he need not beg. The climactic insight is that engaging the poor person *as a partner* in creating his own livelihood is more just than any form of giving, however generous or anonymous.
 
 The eight rungs, from lowest to highest:
 
