@@ -19,10 +19,27 @@ kramdown:
   hard_wrap: false
   parse_block_html: true
 
+# SCSS/Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-toc
+  - jekyll-tagging
+  - jekyll-sass-converter
+
+# Jekyll TOC configuration
+toc:
+  min_header_level: 2
+  max_header_level: 3
+
+# Tagging configuration
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 defaults:
   - scope:

@@ -10,8 +10,15 @@
   <meta name="theme-color" content="#0A3255" media="(prefers-color-scheme: dark)">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Oswald:wght@500..700&family=Roboto:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Oswald:wght@500..700&family=Roboto:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Oswald:wght@500..700&family=Roboto:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet"></noscript>
+  
+  <!-- Main compiled CSS from SCSS -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  <!-- Enhancement styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/enhancements.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  
+  <!-- Theme persistence script -->
   <script>
     (function () {
       try {
@@ -28,33 +35,59 @@
       }
     })();
   </script>
+  
   {% seo %}
   {% feed_meta %}
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
 
-  <header class="site-header">
-    <div class="header-inner">
-      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      <p class="site-tagline">{{ site.subtitle }}</p>
-      {% if page.hero_subtitle %}<p class="site-hero-subtitle">{{ page.hero_subtitle }}</p>{% endif %}
-    </div>
-  </header>
-
-  {% include nav.html %}
+  {% include header-updated.html %}
 
   <main class="site-content" id="main-content">
+    {% include breadcrumbs.html %}
+    
+    {% if page.layout == 'page' %}
+      {% include table-of-contents.html %}
+    {% endif %}
+    
     {{ content }}
+    
+    {% include related-content.html %}
   </main>
 
-  {% include footer.html %}
+  {% include footer-updated.html %}
 
-  <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+  <!-- Enhanced JavaScript with accessibility improvements -->
+  <script src="{{ '/assets/js/site-enhanced.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+  
+  <!-- Service Worker registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('{{ "/assets/js/service-worker.js" | relative_url }}').then(
+          function(registration) {
+            console.log('Service Worker registered:', registration);
+          },
+          function(error) {
+            console.log('Service Worker registration failed:', error);
+          }
+        );
+      });
+    }
+  </script>
+  
+  <!-- Mermaid diagrams support for timeline pages -->
   {% if page.mermaid %}
   <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true, theme: 'neutral', securityLevel: 'loose' });
+    mermaid.initialize({ 
+      startOnLoad: true, 
+      theme: document.documentElement.getAttribute('data-theme') === 'light' ? 'default' : 'dark',
+      securityLevel: 'loose',
+      logLevel: 'info'
+    });
+    mermaid.contentLoaded();
   </script>
   {% endif %}
 </body>

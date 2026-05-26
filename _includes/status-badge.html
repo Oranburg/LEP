@@ -1,0 +1,13 @@
+<!-- Status Badge/Indicator -->
+<span class="event-status event-status--{{ include.status | default: 'available' }}">
+  {% case include.status %}
+    {% when 'available' %}
+      ✓ Available Now
+    {% when 'coming-soon' %}
+      Coming Soon
+    {% when 'ended' %}
+      Ended
+    {% else %}
+      {{ include.status }}
+  {% endcase %}
+</span>
