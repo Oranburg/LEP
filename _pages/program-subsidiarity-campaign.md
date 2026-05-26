@@ -85,7 +85,7 @@ Identical to the Catholic version above. Four connected components (Boot Camp, t
 
 The Subsidiarity Campaign is the larger institutional ask. It is the natural escalation if a funder wants institutional-capacity scale. For DDSF, the recommended posture is to lead with [Entrepreneurship v. Poverty]({{ '/support/entrepreneurship-v-poverty/' | relative_url }}) and escalate to this campaign if the conversation moves to the seven-figure end of the band.
 
-## How to engage
+## To make a gift
 
 For gift conversations: Peggy Kacergis, kacergis@cua.edu. For program-specific giving discussions, copy hoffarth@cua.edu.
 

@@ -6,7 +6,7 @@ permalink: /partner/
 
 # Partner with the Program
 
-This page is for institutions: other CUA programs, Catholic-affiliated mission organizations, peer law schools, community-development institutions, and any institution that wants to engage with the program as a partner rather than as a single individual.
+For institutional partners: other CUA programs, Catholic-affiliated mission organizations, peer law schools, community-development institutions, and any institution working with the program at the institutional level.
 
 ## Catholic-affiliated and mission-aligned institutions
 

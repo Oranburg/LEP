@@ -6,7 +6,7 @@ permalink: /for-students/prospective/
 
 # For prospective students
 
-You are deciding between law schools. This page tells you what the Law and Entrepreneurship Program at CUA is, what it offers, who it is being built to compete with, and how to engage with us before you deposit.
+You are deciding between law schools. Here is what the Law and Entrepreneurship Program at CUA is, what it offers, the schools it is being built to compete with, and how to get in touch before you deposit.
 
 ## The short version
 
@@ -57,7 +57,7 @@ A dedicated LEP Fellowship carrying stipend support, conference travel, and rese
 
 A formal LEP cohort designation on the transcript or diploma (akin to Penn's Wharton certificate or Northwestern's transactional-law certificate) is under discussion with the CUA Law administration. The form it will take has not yet been finalized.
 
-Named practitioner mentors at specific firms will be published once those mentors have committed to specific pairings. The program is deliberately conservative about publishing names before commitments are confirmed.
+Named practitioner mentors at specific firms will be published once those mentors have committed to specific pairings. The program does not list names before commitments are confirmed.
 
 ## What it costs
 
@@ -69,7 +69,7 @@ You do not have to be Catholic. The program is open to students of all faiths an
 
 See the [Frequently Asked Questions]({{ '/for-students/faq/' | relative_url }}#the-catholic-intellectual-identity) for the full treatment of this question.
 
-## How to engage with us before you deposit
+## Before you deposit
 
 1. **Email the program directors** at hoffarth@cua.edu with a brief note about your interests and what you are weighing.
 2. **Read the [Frequently Asked Questions]({{ '/for-students/faq/' | relative_url }})**: about thirty-five questions drawn from a student focus group, organized into nine themed sections.

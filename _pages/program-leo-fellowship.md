@@ -82,7 +82,7 @@ Five deliverables (two named fellows, one visiting senior scholar per year, a wo
 
 ---
 
-## How to engage
+## To make a gift
 
 For gift conversations: Peggy Kacergis, Assistant Dean of Advancement at CUA Columbus School of Law, kacergis@cua.edu. For program-specific giving discussions, copy the program directors at hoffarth@cua.edu.
 

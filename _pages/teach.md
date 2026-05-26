@@ -6,7 +6,7 @@ permalink: /teach/
 
 # Teach with the Program
 
-This page is for academic colleagues, fellow scholars, peer business-law and legal-ethics faculty, and visiting researchers who want to engage with the program as teachers, contributors, or collaborators rather than as students or donors.
+For academic colleagues: fellow scholars, peer business-law and legal-ethics faculty, and visiting researchers who want to teach, contribute, or collaborate.
 
 ## The intellectual frame, briefly
 
@@ -28,9 +28,9 @@ The frame is substantive doctrine, not branding. The program's claim is that the
 
 ## What the program offers visitors and contributors
 
-- Substantive engagement with the *societas* / *shutafut* tradition as a scholarly community rather than as a marketing posture
+- A scholarly community organized around the *societas* / *shutafut* tradition as substance, not posture
 - A clinic with real client matters that supports applied scholarship
-- An institutional home at CUA Columbus School of Law in Washington, with access to the regulatory, congressional, and practitioner ecosystem the location supports
+- An institutional home at CUA Columbus School of Law in Washington, with the regulatory, congressional, and practitioner networks the location supplies
 - Connection to the Cluny Institute's broader Catholic-intellectual-and-technological network
 - Working-paper review and pre-submission feedback among the program's faculty
 
