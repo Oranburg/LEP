@@ -11,6 +11,8 @@ note: Standalone institutional brief for Catholic-foundation cover letters. Argu
 
 # Why Catholic University Is the Only Credible Home for the Law and Entrepreneurship Program
 
+{% include figure.html name="cua-as-home-convergence" alt="Three structural facts (pontifical charter, Ex Corde Ecclesiae, unbroken natural-law tradition) converging at CUA Columbus School of Law and the LEP Program." caption="Three structural facts converge at one institutional address." %}
+
 Three structural facts about the Catholic University of America make the Law and Entrepreneurship Program possible here and impossible everywhere else. Each fact carries independent weight. Together they form the case for why LEP's intellectual program (recovering judgment formation by tracing the Athens/Jerusalem/Rome genealogy of phronesis, chokhmat lev, and prudentia) requires this campus.
 
 **First: The pontifical charter.**
@@ -28,3 +30,5 @@ The natural-law tradition is not merely a subject taught at CUA. It is the frame
 That continuity is what LEP requires. The program's intellectual program proposes to recover judgment formation by studying elenchus in Athens, havruta in Jerusalem, and disputatio in Rome: three states of a classical pedagogical tradition, each representing a different relationship to institutional continuity. Elenchus had to be reclaimed; havruta survived without institutional infrastructure; disputatio has lived inside pontifical universities without interruption. CUA is the only American law school that participates in the third category. It does not need to study disputatio from the outside; it practices it from within.
 
 Recovering judgment formation is not a reform project that any institution with sufficient will can undertake. It requires an institution that has never severed itself from the tradition that produced the formation methods. The pontifical charter establishes the jurisdiction, *Ex Corde Ecclesiae* establishes the obligation, and the unbroken natural-law tradition supplies the living intellectual medium. No other American law school holds all three. All three converge at one address.
+
+The intellectual program this brief invokes is set out across three companion essays: [The Three States of a Living Tradition](/LEP/essays/three-states/) on the typology of pedagogical survival; [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/) on the fourth station of practical wisdom; and the [Lineage](/LEP/lineage/) page on the convergent Catholic and Jewish doctrines the Program teaches as substance.

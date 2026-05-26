@@ -27,8 +27,6 @@ citations_to_verify:
 
 # The Three States of a Living Tradition
 
-## Notes on Pedagogical Continuity in the West
-
 *Seth Oranburg*
 
 ---
@@ -93,6 +91,8 @@ This inheritance is also a burden. An institution that has maintained a form acr
 
 ## Three States, Three Different Problems
 
+{% include figure.html name="callout-three-stations" alt="Three parallel nodes labeled Athens (severed and reclaimed, elenchus), Jerusalem (continuous communal, havruta), Rome (continuous institutional, disputatio)." caption="Three traditions, three institutional conditions, one underlying question." %}
+
 The typology is now clear enough to state precisely.
 
 Athens, in its reclaimed state, faces the problem of reconstruction. The text exists; the practice must be rebuilt from the outside in. This requires explicit knowledge of what the method demands, deliberate design of the institutional conditions that can support it, and sustained commitment to the method from practitioners who have chosen it rather than inherited it. The structural weakness is instability: without institutional infrastructure and without communal transmission, the reconstructed practice depends on the energy and commitment of individuals, which means it is vulnerable to exactly the kind of attrition that hollowed out the Langdellian case method over fifty years.
@@ -107,13 +107,7 @@ These three problems are not equally tractable, and no single solution addresses
 
 ## The Modern Professional Education Situation
 
-American professional education currently operates under something closer to the Athens condition than to either of the others. The great law schools, medical schools, and business schools of the nineteenth and early twentieth centuries transmitted pedagogical methods that had real substance: the Socratic case method at its Langdellian best, the bedside teaching of Osler and the early clinical educators, the apprenticeship traditions of the older professions. Those methods were never housed in communal institutions capable of transmitting them without formal infrastructure, and they were never embedded in a continuous institutional network of the Rome type. They were housed primarily in the energy and commitment of individual teachers, in the culture of specific institutions, and in the informal transmission that happens when students who have been genuinely formed by a method go on to teach.
-
-As the research university model displaced the teaching orientation of the older professional schools, as faculty incentives shifted toward scholarship and away from the craft of teaching, as the professions themselves became more heavily regulated and more dependent on technical compliance rather than practical wisdom, the informal transmission broke down. The deskilling Edwards predicted [^void-edwards] came to pass not because anyone chose it but because the institutional arrangements that sustained the formation methods were gradually replaced by arrangements that valued something else.
-
-This is the deskilling loop in its institutional form: not a conspiracy against wisdom but a series of individually rational choices by individuals and institutions that, in aggregate, produced an environment in which wisdom cannot be formed because the conditions for forming it no longer exist. The rule replaces the judgment because the rule is auditable and the judgment is not. The compliance officer multiplies because compliance can be documented and practical wisdom cannot. The checklist proliferates because the checklist transfers liability and judgment does not. None of these choices is irrational in isolation. Together they describe a civilization that has progressively engineered out the capacity it most needs.
-
-The response cannot be to add a course on practical wisdom to the existing curriculum. A course on practical wisdom taught in a context that systematically rewards the elimination of judgment from practice will be defeated by its context. The response must address the institutional conditions that make formation impossible, and that requires clarity about what institutional conditions make formation possible.
+American professional education currently operates under something closer to the Athens condition than to either of the others. The methods that formed earlier generations of professionals, the Langdellian case method at its best, bedside clinical teaching, the apprenticeship traditions of transactional practice, were never housed in communal institutions of the Jewish kind or embedded in a continuous institutional network of the Roman kind. They lived in the energy of individual teachers and the culture of specific schools. As the research-university model displaced those teaching cultures and faculty incentives shifted toward scholarship and away from the craft of teaching, the informal transmission broke down. The mechanism by which it broke is the subject of the companion essay, [The Deskilling Loop](/LEP/essays/deskilling-loop/). The question for the present essay is what kind of institutional response each of the three states demands once the breakdown has happened.
 
 ---
 
@@ -133,7 +127,7 @@ A program that recognizes this dual position is not confused about its identity.
 
 ---
 
-## Why This Typology Is Itself a Research Question
+## Three Questions the Typology Generates
 
 The three-states typology is not a settled historical claim. It is a framework for inquiry that generates empirical questions.
 
@@ -145,7 +139,11 @@ And the reconstruction question: what actually happens when a severed tradition 
 
 ---
 
-## Conclusion: Survival as Institutional Evidence
+## Companion essays
+
+The institutional setting in which the Program proposes to do this work is the subject of [Why Catholic University Is the Only Credible Home for the Law and Entrepreneurship Program](/LEP/essays/cua-as-home/). The havruta argument, treated as a paradigm case for one configuration of AI use, is the subject of [AI as Havruta](/LEP/essays/ai-as-havruta/). The Washington station, where the inherited methods meet the live constraint that makes their application possible, is the subject of [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/).
+
+## Survival as Institutional Evidence
 
 The survival of a pedagogical tradition is not an accident. It is evidence. Evidence about what institutional arrangements are capable of protecting formation methods across disruptions that eliminate most competitors. Evidence about which features of a method are essential and which are accidents of a particular historical context. Evidence about what kind of community is required to sustain a practice that depends on human formation rather than on information transmission.
 

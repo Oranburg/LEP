@@ -1,45 +1,20 @@
 ---
 slug: ai-as-havruta
 gated: true
-excerpt: "A paragraph and working note on the study-partner pattern as a model for AI use that does not deskill the user."
-title: "AI as Havruta: paragraph for AotV and working note"
+excerpt: "Default LLM use deskills; adversarial AI configured as a havruta partner forms judgment. The prompt is the pedagogy."
+title: "AI as Havruta: Adversarial Pairing as a Pedagogy for Judgment"
 date: 2026-05-26
 author: Seth Oranburg
 status: working draft
-artifacts:
-  - id: artifact-1
-    type: body paragraph (recommended) or footnote
-    target: Architects of the Void, §15 "The Curriculum of Sub-Creation"
-    word_count: 228
-    citations_flagged:
-      - none; Leo XIV paragraph number verified from encyclical file
-  - id: artifact-2
-    type: standalone working note
-    target: journal symposium or Liberal Education
-    word_count: 1047
-    citations_flagged:
-      - havruta-1: Holzer & Kent (2013) — VERIFY in LawJ before citing; ISBN 978-0-8197-1649-1
-      - havruta-2: Lerner, "Listening to One's Partner" (2004) — VERIFY page range; Journal of Jewish Education
-      - havruta-3: Wimpfheimer, The Talmud (2018) — VERIFY pp. cited; Princeton UP
-      - havruta-4: Weiss, "The Art of Havruta" (2000) — VERIFY; appears in Holzer & Kent anthology
-      - leo-xiv: Magnifica Humanitas §140 (15 May 2026) — verified in source file
+citations_to_verify:
+  - havruta-1: Holzer & Kent (2013) — VERIFY in LawJ before citing; ISBN 978-0-8197-1649-1
+  - havruta-2: Lerner, "Listening to One's Partner" (2004) — VERIFY page range; Journal of Jewish Education
+  - havruta-3: Wimpfheimer, The Talmud (2018) — VERIFY pp. cited; Princeton UP
+  - havruta-4: Weiss, "The Art of Havruta" (2000) — VERIFY; appears in Holzer & Kent anthology
+  - leo-xiv: Magnifica Humanitas §140 (15 May 2026) — verified in source file
 ---
 
-# Artifact 1: Body Paragraph for *Architects of the Void*
-
-**Placement: body text, recommended for §15 "The Curriculum of Sub-Creation," after the entry on practical wisdom as the closing synthesizing capacity. Could also run as a discursive footnote to the practical wisdom sentence if the editor prefers.**
-
----
-
-The havruta tradition offers one model for how judgment is formed rather than merely acquired. In classical Jewish study, a learner sits with an adversarial partner who is aligned in purpose but not in conclusion. The havruta partner does not confirm; the havruta partner resists. That resistance is the mechanism. The learner must articulate, defend, revise, and sometimes abandon a position, and in doing so develops the capacity to hold a position under pressure, which is a fair description of what a lawyer does in every deal, every brief, and every negotiation. An artificial intelligence, configured adversarially and deployed as a thinking partner rather than an answer machine, can serve this same structural role. The AI does not need to be right. It needs to push back. The question for educators is whether the deployment of AI requires the student to exercise judgment, and whether that exercise compounds over time into the virtue the deployment was supposed to produce. Default LLM use, which rewards speed and punishes friction, forms the opposite habit. The sub-creator who deploys AI as a credentialing shortcut is not forming a secondary world; he is outsourcing the act of creation. Leo XIV saw the same asymmetry from the other side: the "speed and ease" of AI answers, he warned, risk "extinguishing the desire to ask questions, which is a process that bears fruit only over time." [^fn-leo-havruta]
-
-[^fn-leo-havruta]: Leo XIV, *Magnifica Humanitas* §140 (15 May 2026).
-
----
-
-# Artifact 2: Working Note — *AI as Havruta: Adversarial Pairing as a Pedagogy for Judgment*
-
----
+# AI as Havruta: Adversarial Pairing as a Pedagogy for Judgment
 
 ## I.
 
@@ -59,9 +34,11 @@ None of these features requires a human partner. They require a partner that pus
 
 ## III.
 
+{% include figure.html name="callout-judgment-vs-procedure" alt="Two opposed boxes: Judgment under uncertainty (tacit, particular, formed) versus Procedure under audit (explicit, general, documented), connected by a bidirectional arrow labeled 'the deskilling loop displaces'." caption="The opposition the havruta configuration is meant to defend against." %}
+
 The current deployment environment, and this is the critical point, is configured almost entirely against the havruta function. A student who opens a large language model for help with a contracts problem gets a well-organized answer to whatever question the student asked. If the student's analysis is wrong, the model typically does not say so; it incorporates the student's framing and responds within it. If the student accepts the model's answer and submits it, the student has outsourced the exercise of judgment. The assignment is complete; the judgment has not been formed.
 
-This is the deskilling loop in miniature. The same dynamic that hollowed out physician diagnostic reasoning (routing complex presentations through structured decision tools and defaulting to the tool's output) is available for legal reasoning in every classroom with an internet connection. The question is not whether AI will deskill professional judgment; it already does, under the conditions in which it is currently deployed. The question is whether a different deployment could produce the opposite effect.
+This is the deskilling loop in miniature. The same dynamic that hollowed out physician diagnostic reasoning (routing complex presentations through structured decision tools and defaulting to the tool's output) is available for legal reasoning in every classroom with an internet connection. The question is not whether AI will deskill professional judgment; it already does, under the conditions in which it is currently deployed. The deeper diagnosis lives in the companion essay, [The Deskilling Loop](/LEP/essays/deskilling-loop/). The question for this essay is whether a different deployment could produce the opposite effect.
 
 The havruta configuration answers yes. An AI configured to take a position on the student's analysis (to assert, for example, that the clause in question cannot bear the interpretation the student has offered, and to hold that position until the student produces an argument that actually dislodges it) forces the student to exercise the judgment the default configuration exempts them from. The AI does not need to be right. It needs to be difficult. The pedagogical value is in the difficulty, not in the AI's ultimate correctness.
 
@@ -69,7 +46,7 @@ This is a deployment choice, and it is entirely within an instructor's control. 
 
 ## IV.
 
-Leo XIV, writing in *Magnifica Humanitas*, diagnosed the same problem from a different angle. "The speed and ease with which answers or summaries can be accessed," he wrote, "risk extinguishing the desire to ask questions, which is a process that bears fruit only over time." His reference point was Plato's image of flint: the deepest things are learned by "striking upon" ideas and experiences together until the spark of understanding is kindled. The metaphor is not far from havruta. What Leo XIV calls the "desire to ask questions" is what havruta practice builds: the conviction that the question matters and that the answer must come from the learner, not the medium.[^fn-leo-magnifica]
+Leo XIV, writing in *Magnifica Humanitas*, diagnosed the same problem from a different angle. "The speed and ease with which answers or summaries can be accessed," he wrote, "risk extinguishing the desire to ask questions, which is a process that bears fruit only over time." His reference point was Plato's image of flint: the deepest things are learned by "striking upon" ideas and experiences together until the spark of understanding is kindled. The metaphor is not far from havruta. What Leo XIV calls the "desire to ask questions" is what havruta practice builds: the conviction that the question matters and that the answer must come from the learner, not the medium.[^fn-leo-magnifica] The broader doctrinal reading of Leo XIV's encyclical is the work of a separate essay, [Magnifica Humanitas and the Babel Question](/LEP/essays/magnifica-babel/).
 
 The Catholic framing and the Jewish framing converge on the same pedagogical claim. An external tool (text, commentary, partner, AI) is generative when it forces the learner into greater precision and depth. It is deformative when it provides the precision and depth without requiring the learner to produce them. Havruta is the former. Default AI use is the latter. The adversarial AI configuration is an attempt to recover the former from a medium that defaults to the latter.
 
@@ -83,7 +60,7 @@ Second, the session must be bounded. Havruta study does not continue until conse
 
 Third, the adversarial function should be separated from the evaluative function. If the same AI that served as the adversarial partner also grades the student's output, the student has no incentive to hold a position under pressure; they have every incentive to converge with the evaluator. The havruta is not the examiner. Keeping those roles distinct is itself a pedagogical design choice.
 
-The pedagogy of havruta is not new. It has been practiced continuously, without state infrastructure and without institutional mandate, for two millennia.[^fn-weiss] That continuity is evidence of something: a method that compels judgment formation has survived because the communities that practiced it valued judgment enough to preserve the method. Educators who want to form judgment in the age of AI do not need to invent a new practice. They need to recover an old one and decide whether the new medium can serve the old purpose or only subvert it.
+The pedagogy of havruta is not new. It has been practiced continuously, without state infrastructure and without institutional mandate, for two millennia.[^fn-weiss] That continuity is evidence of something: a method that compels judgment formation has survived because the communities that practiced it valued judgment enough to preserve the method. The structural account of that survival is the subject of [The Three States of a Living Tradition](/LEP/essays/three-states/), where havruta is named as the paradigm case of communal transmission without institutional infrastructure. Educators who want to form judgment in the age of AI do not need to invent a new practice. They need to recover an old one and decide whether the new medium can serve the old purpose or only subvert it.
 
 ---
 

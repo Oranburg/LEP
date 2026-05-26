@@ -12,11 +12,15 @@ budget: "budget developed for full Templeton proposal"
 
 # Field Immersion and Executive Institute
 
+*This one-pager presents the program's summer formation track to classical-liberal and policy-education funders. The same initiative is described to Catholic and Templeton-adjacent funders in a parallel one-pager, [The Pilgrimage and the Bootcamp](/LEP/essays/pilgrimage-bootcamp/). The intellectual structure both pieces draw on is set out in [The Three States of a Living Tradition](/LEP/essays/three-states/) and [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/). One program, two registers; the framing is editorial, not concealed.*
+
 ## The problem
 
 Professional legal education designs its pedagogy by theorizing about judgment formation. It does not study the surviving traditions in which judgment formation actually occurs. Three such traditions exist in the West and remain in active practice: the Socratic elenchus, recovered in democratic settings from a philosophical past that modern institutions largely severed (Athens); havruta learning, practiced continuously in voluntary institutions without state infrastructure for two millennia (Jerusalem); and disputatio, transmitted through institutional continuity in university settings without interruption (Rome). These three conditions (severed-and-reclaimed, continuously-practiced-without-state, continuously-practiced-within-institution) constitute a natural typology for studying what makes a pedagogical tradition survive, transfer, and form practical knowledge in practitioners. No professional school has studied them as a set. The result is a professional education debate conducted without primary evidence about how the relevant methods work when used by practitioners who have never stopped using them.
 
 ## The intervention
+
+{% include figure.html name="callout-three-stations" alt="Three nodes labeled Athens (severed and reclaimed, elenchus), Jerusalem (continuous communal, havruta), Rome (continuous institutional, disputatio)." caption="The three living pedagogical traditions the field immersion studies." %}
 
 Two integrated mechanisms, one for research, one for dissemination.
 

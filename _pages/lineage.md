@@ -215,6 +215,8 @@ flowchart LR
 
 ## VIII. The anatomy applied: reading modern instruments
 
+{% include figure.html name="callout-societas-shutafut" alt="Two converging nodes labeled societas (Catholic) and shutafut (Jewish), both flowing into a single convergence node labeled Partnership at shared risk." caption="The principle the two traditions arrive at independently. The clause-by-clause application to modern instruments is the work of the companion essay [Partnership at Shared Risk](/LEP/partnership-at-shared-risk/)." %}
+
 The two traditions converge on a principle, but the principle has work to do. Modern commercial life is conducted through instruments that were not anticipated by Ulpian or Maimonides, and the anatomy must be applied to each. Four examples mark the present field.
 
 ### Venture capital and the modern *societas*

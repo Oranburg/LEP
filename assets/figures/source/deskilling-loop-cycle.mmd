@@ -1,0 +1,12 @@
+%%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':50,'rankSpacing':70},'themeVariables':{'fontSize':'17px','fontFamily':'Georgia, serif'}}}%%
+flowchart LR
+  classDef stage fill:#A0522D,color:#FFFFFF,stroke:#6A3414,stroke-width:2px
+  classDef feedback fill:#8B6914,color:#FFFFFF,stroke:#5A4309,stroke-width:2px
+
+  S1["Stage 1<br/>Substitution offer"]:::stage
+  S2["Stage 2<br/>Time reallocation"]:::stage
+  S3["Stage 3<br/>Atrophy of judgment"]:::stage
+  S4["Stage 4<br/>Accountability<br/>displacement"]:::stage
+
+  S1 --> S2 --> S3 --> S4
+  S4 -->|each revolution tightens| S1

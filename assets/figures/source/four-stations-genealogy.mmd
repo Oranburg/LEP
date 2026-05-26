@@ -1,0 +1,13 @@
+%%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':45,'rankSpacing':55},'themeVariables':{'fontSize':'16px','fontFamily':'Georgia, serif'}}}%%
+flowchart LR
+  classDef secular fill:#5B5B3F,color:#FFFFFF,stroke:#3D3D2A,stroke-width:2px
+  classDef jewish fill:#1E3A5F,color:#FFFFFF,stroke:#0F2235,stroke-width:2px
+  classDef catholic fill:#7B2D26,color:#FFFFFF,stroke:#4A1A14,stroke-width:2px
+  classDef present fill:#8B6914,color:#FFFFFF,stroke:#5A4309,stroke-width:3px
+
+  A["<b>Athens</b><br/><i>phronesis</i><br/>severed and reclaimed"]:::secular
+  J["<b>Jerusalem</b><br/><i>chokhmat lev</i><br/>continuous communal"]:::jewish
+  R["<b>Rome</b><br/><i>prudentia</i><br/>continuous institutional"]:::catholic
+  W["<b>Washington</b><br/>live constraint<br/>where method meets friction"]:::present
+
+  A --> J --> R --> W
