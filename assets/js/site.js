@@ -83,3 +83,25 @@ function handleArticleKey(event, element) {
     });
   });
 })();
+
+// Lineage diagram figure modals
+window.openFig = function (slug) {
+  var dlg = document.getElementById('fig-' + slug);
+  if (!dlg) {
+    console.warn('No figure dialog for slug:', slug);
+    return;
+  }
+  if (typeof dlg.showModal === 'function') {
+    dlg.showModal();
+  } else {
+    // Fallback for older browsers
+    dlg.setAttribute('open', '');
+  }
+};
+
+// Close dialog on backdrop click
+document.addEventListener('click', function (e) {
+  if (e.target && e.target.tagName === 'DIALOG' && e.target.classList.contains('figure-dialog')) {
+    e.target.close();
+  }
+});

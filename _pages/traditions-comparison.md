@@ -7,9 +7,7 @@ mermaid: true
 
 # Two Traditions, One Answer
 
-Both the Catholic and Jewish intellectual traditions tackle the same fundamental question: **What is the just way to engage capital with those in poverty?**
-
-Though using different theological frameworks and historical contexts, they arrive at remarkably similar conclusions through careful moral reasoning.
+Both the Catholic and Jewish intellectual traditions ask the same fundamental question: what is the just way to engage capital with those in poverty? They reason from different premises, through different methods, and arrive at the same answer.
 
 ---
 
@@ -35,85 +33,33 @@ graph LR
 
 ## Detailed framework comparison
 
-Both traditions share a starting commitment and a goal; the two frameworks below compare each from its own premises.
-
 ### Catholic framework
-**Starting Point:** *"Ora et labora"* (Prayer and Work)
 
-- Work is a fundamental human activity, not punishment
-- Labor is dignified when it respects the person
-- Justice requires alignment of interests in economic relations
-- The community has obligation to support those who cannot work
-
-**Goal:** Just structures that align incentives and respect dignity
+The Catholic tradition opens with *ora et labora*: work and prayer are the unified human response to God. Labor is dignified when it respects the person who performs it, and justice requires that the economic structures surrounding labor align the interests of everyone who participates. The tradition arrives at the practical conclusion that just structures share incentives rather than externalizing risk onto the weaker party.
 
 ### Jewish framework
-**Starting Point:** *"So that he may live with you"* (Leviticus 25:35)
 
-- The poor person is community, not charity case
-- Dignity is restored through partnership, not dependency
-- Justice requires both the "what" (helping) and the "how" (just means)
-- The highest form of justice creates conditions for self-sufficiency
-
-**Goal:** Restoring dignity through active partnership
+The Jewish tradition opens with Leviticus 25:35: "So that he may live with you." The poor person is community, not a case for relief. Dignity is restored through partnership rather than charity, and the tradition insists that justice governs both the ends and the means. The highest form of *tzedakah* creates conditions for self-sufficiency rather than conditions for continued dependence.
 
 ---
 
 ### The shared diagnosis
 
-**Catholic Analysis (Aquinas):**
-- *Mutuum* (fixed-interest lending) is unjust because:
-  - Lender profits regardless of outcome
-  - Borrower bears all risk
-  - Interests are misaligned
-  - Dignity is violated through dependency
-
-**Jewish Analysis (Maimonides):**
-- One-way charity is insufficient because:
-  - Creates dependency
-  - Violates recipient's dignity
-  - Lacks genuine relationship
-  - Leaves person vulnerable
-
-**Shared Concern:** Extraction-based models that externalize risk and create power imbalances
+Aquinas identifies the same structural defect in *mutuum* that Maimonides identifies in one-way charity: the lender or donor profits regardless of outcome while the other party bears all the risk. When the lender's return is fixed in advance, interests diverge. When the donor's virtue is confirmed by the gift, the recipient's dignity is not. Both traditions name this structural misalignment as the problem to be solved, not a side effect to be managed.
 
 ---
 
 ### The shared solution
 
-Each tradition arrives at partnership as the answer, through its own doctrinal path.
+Each tradition arrives at partnership through its own doctrinal path.
 
 #### Catholic: *societas* (partnership at shared risk)
 
-**Definition:** Two or more persons entering into partnership where:
-- All parties contribute capital, labor, or expertise
-- All parties share in both profits and losses
-- Interests are naturally aligned
-- Dignity is preserved through mutuality
-
-**Biblical Basis:** Roman commercial law (available to Aquinas)
-
-**Modern Examples:**
-- Employee stock ownership plans (ESOPs)
-- Profit-sharing cooperatives
-- Joint ventures with shared liability
-- Employee-owned businesses
+Aquinas took the Roman commercial law of the *exercitor navis*, the shipowner who shared liability with the venture's investors, and formalized it as the structure in which capital deployment becomes just. In *societas*, all parties contribute capital, labor, or expertise; all share in both profits and losses; and the investor's return follows from actual contribution at actual risk. The structural logic is that shared stakes produce aligned interests. Modern applications of the *societas* principle include employee stock ownership plans, profit-sharing cooperatives, joint ventures with shared liability, and employee-owned businesses.
 
 #### Jewish: *shutafut* (partnership with the recipient)
 
-**Definition:** The highest form of *tzedakah* where:
-- Helper enables recipient to create own livelihood
-- Both parties invest in the outcome
-- Relationship is reciprocal
-- Dignity is restored through participation
-
-**Talmudic Basis:** Maimonides' eight rungs, ascending from charity to partnership
-
-**Modern Examples:**
-- Microfinance partnerships
-- Mentorship with equity stake
-- Training + employment programs
-- Community development corporations
+Maimonides names *shutafut* as the highest of the eight rungs of *tzedakah*: the helper enables the recipient to create his own livelihood, both parties invest in the outcome, and the relationship is reciprocal rather than one-directional. The *heter isqa* contract in Jewish commercial law operationalizes the same logic: capital is deployed half as loan and half as deposit-at-risk, so that return follows shared risk. Modern applications include microfinance partnerships, mentorship arrangements with an equity component, and community development corporations.
 
 ---
 
@@ -132,120 +78,73 @@ Each tradition arrives at partnership as the answer, through its own doctrinal p
 
 ### Key convergences
 
-Both traditions agree:
+Both traditions treat charity as necessary but insufficient. Catholic social teaching holds that addressing immediate need without restructuring the economic relationship leaves the injustice intact. Maimonides holds that one-way charity, however anonymous and generous, violates the recipient's dignity because it confirms rather than dissolves the asymmetry between giver and recipient.
 
-1. **Charity is necessary but insufficient**
-   - Catholic: It addresses immediate need but doesn't restructure injustice
-   - Jewish: One-way charity violates recipient dignity
+Both traditions place partnership at the apex of the moral hierarchy. *Societas* is the just economic form for Aquinas; *shutafut* is the highest rung of *tzedakah* for Maimonides. The move is the same in both: genuine partnership aligns interests structurally, so that the investor's profit and the laborer's livelihood depend on the same outcome.
 
-2. **Partnership is the highest form**
-   - Catholic: *Societas* is the just economic form
-   - Jewish: *Shutafut* is the highest rung of *tzedakah*
+Both traditions insist that just means and just ends cannot be separated. Unjust structures corrupt good intentions. "Justice, justice shall you pursue" requires that the how answer to the same standard as the what.
 
-3. **Mutual interest alignment matters**
-   - Catholic: Profit must follow from shared contribution and shared risk
-   - Jewish: Both parties must have stake in outcome
-
-4. **Justice is both means AND ends**
-   - Catholic: Unjust structures corrupt even good intentions
-   - Jewish: "Justice, justice shall you pursue"—the how matters as much as the what
-
-5. **Community has structural obligation**
-   - Catholic: Church and state must support just economic structures
-   - Jewish: Community must ensure conditions for dignity and self-sufficiency
+Both traditions place a structural obligation on the community, not only on individuals. The obligation to build and sustain just economic arrangements falls on the institutions that govern commercial life, not only on the parties to any particular transaction.
 
 ---
 
 ## The year-theme as application
 
-The program's inaugural year-theme runs the *societas*/*shutafut* framework through a contested empirical question.
+The program's inaugural year-theme runs the *societas*/*shutafut* framework through a contested empirical question: does entrepreneurship reduce poverty or produce it?
 
 ### *Entrepreneurship v. Poverty*
 
-How do we know if an entrepreneurial venture is just or unjust?
-
-**Test 1: Alignment of Interests**
-- Does risk distribution match contribution?
-- Do profit incentives align with stakeholder welfare?
-- Or are risks externalized to workers/communities?
-
-**Test 2: Dignity & Agency**
-- Does it restore dignity or create dependency?
-- Are participants active partners or passive recipients?
-- Does it build community or extract value?
-
-**Test 3: Sustainability**
-- Can the model persist without exploitation?
-- Does it create conditions for future generations?
-- Or does it depend on depleting resources/people?
+The *societas*/*shutafut* framework supplies three diagnostic questions for evaluating any enterprise. First, does risk distribution match contribution? If workers absorb downside while investors capture upside, the structure is *mutuum* wearing the costume of partnership. Second, does participation build the capacity for self-sufficiency, or does it create a new form of dependence? Agency, governance voice, and the ability to exit without catastrophic loss matter as much as compensation. Third, can the model persist without depleting the people or communities it engages? A structure that generates returns by consuming its participants is extracting, not partnering.
 
 ### Examples
 
-**Just: Employee-Owned Tech Cooperative**
-- ✓ Workers own equity (shared risk)
-- ✓ Profits distributed proportionally
-- ✓ Workers have governance voice
-- ✓ Aligned incentives for quality and sustainability
+An employee-owned technology cooperative illustrates the *societas* principle in practice. Workers own equity and therefore share the risk; profits are distributed proportionally to contribution; governance voice is structural. The incentives for quality and sustainability align because the people whose labor creates value also bear the consequences of the venture's choices.
 
-**Unjust: Gig Economy Platform**
-- ✗ Workers have no equity (all risk externalized)
-- ✗ Profits concentrated to platform owners
-- ✗ Workers have no control over terms
-- ✗ Incentives misaligned (platform profits from cutting wages)
+A gig economy platform illustrates the opposite. Workers bear all the operational risk with no equity stake; profits concentrate with platform owners; workers exercise no control over the terms that govern their work; the platform's incentive to cut wages is exactly misaligned with workers' interests. The structure satisfies the formal conditions of a market transaction while collapsing the substantive conditions of partnership.
 
-**Uncertain: Fair-Trade Coffee Cooperative**
-- ? Producers have ownership stake
-- ? Pricing protects producers but limits scale
-- ? Consumers have choice but pay premium
-- ? Model is sustainable but limited to engaged market
+A fair-trade coffee cooperative sits in between. Producers hold an ownership stake and pricing protections, which is the right direction. But the model's reach is constrained by premium-market consumers and its sustainability depends on continued consumer choice rather than structural obligation. Whether it satisfies the *shutafut* standard turns on whether the producer relationship is genuinely reciprocal or whether it reproduces the asymmetry in a more comfortable form.
 
 ---
 
 ## How the program uses both traditions
 
-The LEP approach weaves both traditions together:
-
-- **From Catholic thought:** Systematic framework for analyzing economic justice through the lens of *societas*
-- **From Jewish thought:** Deep commitment to dignity and community, grounded in covenantal obligation
-- **Combined:** A practical theology for 21st-century enterprise
+The program draws the systematic analytical framework from the Catholic tradition: the *societas*/*mutuum* distinction gives a precise doctrinal test for reading economic structures. From the Jewish tradition it draws the anthropological insistence that dignity is constituted through relationship and that the highest form of justice restores the other person's capacity for self-direction. The two together produce a practical theology adequate to the actual complexity of twenty-first-century enterprise.
 
 ---
 
 ## Questions for seminar use
 
-1. **Where do you see *societas* or *shutafut* principles in modern business?**
+1. Where do you see *societas* or *shutafut* principles in modern business?
 
-2. **What structural changes would be needed to make partnership the default, rather than the exception?**
+2. What structural changes would be needed to make partnership the default?
 
-3. **How do the two traditions complement each other? Where do they potentially conflict?**
+3. How do the two traditions complement each other? Where do they potentially conflict?
 
-4. **Can AI and algorithmic systems ever be engaged through a partnership framework?**
+4. Can AI and algorithmic systems ever be engaged through a partnership framework?
 
-5. **What would it mean for your organization to adopt *societas*/*shutafut* principles?**
+5. What would it mean for your organization to adopt *societas*/*shutafut* principles?
 
 ---
 
 ## Further reading
 
-Primary and secondary sources for the traditions compared on this page.
-
 ### Primary Sources
-- Thomas Aquinas, *Summa Theologiae* II-II, Q. 78-79 on partnership (*societas*)
-- Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7-14 (eight rungs of charity)
-- Pope Leo XIII, *Rerum Novarum* (1891) - foundational modern social encyclical
-- Pope John Paul II, *Laborem Exercens* (1981) - on the dignity of work
+- Thomas Aquinas, *Summa Theologiae* II-II, Q. 78-79
+- Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7-14
+- Pope Leo XIII, *Rerum Novarum* (1891)
+- Pope John Paul II, *Laborem Exercens* (1981)
 
-### Secondary Scholarly Works
-- Romanus Cessario, *The Moral Virtues and Theological Ethics* (on Aquinas)
+### Secondary Sources
+- Romanus Cessario, *The Moral Virtues and Theological Ethics*
 - Margaret Curran, *Catholic Social Teaching: A Contemporary Introduction*
-- Avery Dulles, *Models of the Church* (on community and structure)
+- Avery Dulles, *Models of the Church*
 - Adele Reinhartz, *Debt and Forgiveness in Jewish Exilic Literature*
 - Meir Tamari, *The Challenge of Wealth: A Jewish Perspective on Earning and Spending Money*
 
 ---
 
-## Further reading and related pages
+## Related pages
 
-- Explore [the full Doctrinal Lineage](/LEP/lineage-timeline/)
-- Read about [*Societas* in practice](/LEP/societas/)
-- Join the discussion at our [next public forum](/LEP/events/)
+- [Doctrinal Lineage](/LEP/lineage-timeline/)
+- [*Societas* in practice](/LEP/societas/)
+- [Events](/LEP/events/)

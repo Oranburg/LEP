@@ -9,6 +9,8 @@ mermaid: true
 
 The program's intellectual identity rests on two traditions that arrive at the same conclusion through independent reasoning. Both end at the same place: partnership at shared risk is the just form of capital deployment, and the form in which justice toward the poor takes shape in commercial life. The page works through each layer of the Catholic tradition in turn, then the Jewish parallel, and ends at the convergence.
 
+<p class="lineage-hint">Click any named figure on the diagrams below to open a break-out box with the doctrinal move, the textual locus, a verified quotation, and further reading.</p>
+
 ## I. Roman foundation
 
 The doctrine begins in Roman commercial law. The juristic literature on the *exercitor navis*, the commercial operator of a ship, sets up the structure on which Aquinas later builds. The investor and the operator are both liable in proportion to their stake in the venture. Risk is shared. Return follows risk.
@@ -19,6 +21,7 @@ flowchart LR
   R1["Digest 14.1 (Ulpian)<br/><i>exercitor navis</i><br/>shared maritime venture<br/><br/><b>The move:</b> liability tracks the stake.<br/>Risk is shared in proportion to capital."]
   classDef foundation fill:#f4e9d8,stroke:#8a6a2a,stroke-width:2px,color:#1a1a1a,padding:10px;
   class R1 foundation;
+  click R1 call openFig("ulpian")
 </div>
 
 ## II. Thomistic distinction
@@ -39,6 +42,7 @@ flowchart LR
   class T1 foundation;
   class T2 good;
   class T3 bad;
+  click T1 call openFig("aquinas")
 </div>
 
 ## III. The Salamanca school
@@ -63,6 +67,11 @@ flowchart TB
   classDef scholastic fill:#e6dcc6,stroke:#6a5a2a,stroke-width:1px,color:#1a1a1a;
   class HEAD head;
   class S1,S2,S3,S4,S5 scholastic;
+  click S1 call openFig("vitoria")
+  click S2 call openFig("soto")
+  click S3 call openFig("mercado")
+  click S4 call openFig("molina")
+  click S5 call openFig("azpilcueta")
 </div>
 
 ## IV. Modern restatement: the social encyclicals
@@ -82,18 +91,26 @@ flowchart TB
   E1 ==> E2 ==> E3 ==> E4 ==> E5 ==> E6 ==> E7
   classDef encyclical fill:#dfe7ef,stroke:#2a4a6a,stroke-width:1px,color:#1a1a1a;
   class E1,E2,E3,E4,E5,E6,E7 encyclical;
+  click E1 call openFig("leo-xiii-rerum-novarum")
+  click E2 call openFig("pius-xi-quadragesimo-anno")
+  click E3 call openFig("john-paul-ii-laborem-exercens")
+  click E4 call openFig("john-paul-ii-centesimus-annus")
+  click E5 call openFig("benedict-xvi-caritas-in-veritate")
+  click E6 call openFig("francis-laudato-si")
+  click E7 call openFig("francis-fratelli-tutti")
 </div>
 
 ## V. The present restatement
 
-Two weeks ago, Pope Leo XIV restated the social doctrine for the AI age in *Magnifica Humanitas*. The encyclical takes Babel and Nehemiah as its governing biblical images, and treats data colonialism and the new forms of dependence as the present-day analogues to the conditions Leo XIII addressed in 1891.
+Pope Leo XIV restated the social doctrine for the AI age in *Magnifica Humanitas* on 15 May 2026. The encyclical takes Babel and Nehemia as its governing biblical images, and treats data colonialism and the new forms of dependence as the present-day analogues to the conditions Leo XIII addressed in 1891.
 
 <div class="mermaid" markdown="0">
 %%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':50,'rankSpacing':60},'themeVariables':{'fontSize':'17px','fontFamily':'Georgia, serif'}}}%%
 flowchart LR
-  L14["<b>Leo XIV</b> · 15 May 2026<br/><i>Magnifica Humanitas</i><br/>On Safeguarding the Human Person<br/>in the Time of Artificial Intelligence<br/><br/>Babel and Nehemiah as governing images<br/>Partnership in the AI age"]
+  L14["<b>Leo XIV</b> · 15 May 2026<br/><i>Magnifica Humanitas</i><br/>On Safeguarding the Human Person<br/>in the Time of Artificial Intelligence<br/><br/>Babel and Nehemia as governing images<br/>Partnership in the AI age"]
   classDef present fill:#f7d9a8,stroke:#a05a14,stroke-width:3px,color:#1a1a1a;
   class L14 present;
+  click L14 call openFig("leo-xiv-magnifica-humanitas")
 </div>
 
 ## VI. Jewish parallel: the eight rungs of *tzedakah*
@@ -103,23 +120,24 @@ The Jewish tradition reaches the same conclusion through independent reasoning. 
 <div class="mermaid" markdown="0">
 %%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':30,'rankSpacing':35},'themeVariables':{'fontSize':'15px','fontFamily':'Georgia, serif'}}}%%
 graph TD
-    R1["<b>Rung 1 · 10:7 · HIGHEST</b><br/>Strengthen the hand of the poor<br/>by gift, loan, <b>partnership (שֻׁתָּפוּת)</b>, or work,<br/>so he need not beg"]
-    R2["Rung 2 · 10:8<br/>Mutual anonymity"]
-    R3["Rung 3 · 10:9<br/>Donor knows; recipient does not"]
-    R4["Rung 4 · 10:10<br/>Recipient knows; donor does not"]
-    R5["Rung 5 · 10:11<br/>Gives before asked"]
-    R6["Rung 6 · 10:12<br/>Gives after asked"]
-    R7["Rung 7 · 10:13<br/>Gives less than appropriate, pleasantly"]
-    R8["Rung 8 · 10:14 · LOWEST<br/>Gives with sadness"]
-    R1 ==> R2 --> R3 --> R4 --> R5 --> R6 --> R7 --> R8
-    style R1 fill:#8B6914,color:#ffffff,stroke:#5a4309,stroke-width:3px
-    style R2 fill:#c9a84c,color:#1a1a1a,stroke:#8B6914
-    style R3 fill:#d4b96a,color:#1a1a1a,stroke:#8B6914
-    style R4 fill:#ddc882,color:#1a1a1a,stroke:#8B6914
-    style R5 fill:#e6d79a,color:#1a1a1a,stroke:#8B6914
-    style R6 fill:#ede3b2,color:#1a1a1a,stroke:#8B6914
-    style R7 fill:#f2ebca,color:#1a1a1a,stroke:#8B6914
-    style R8 fill:#f8f4e0,color:#1a1a1a,stroke:#8B6914
+    RUNG1["<b>Rung 1 · 10:7 · HIGHEST</b><br/>Strengthen the hand of the poor<br/>by gift, loan, <b>partnership (שֻׁתָּפוּת)</b>, or work,<br/>so he need not beg"]
+    RUNG2["Rung 2 · 10:8<br/>Mutual anonymity"]
+    RUNG3["Rung 3 · 10:9<br/>Donor knows; recipient does not"]
+    RUNG4["Rung 4 · 10:10<br/>Recipient knows; donor does not"]
+    RUNG5["Rung 5 · 10:11<br/>Gives before asked"]
+    RUNG6["Rung 6 · 10:12<br/>Gives after asked"]
+    RUNG7["Rung 7 · 10:13<br/>Gives less than appropriate, pleasantly"]
+    RUNG8["Rung 8 · 10:14 · LOWEST<br/>Gives with sadness"]
+    RUNG1 ==> RUNG2 --> RUNG3 --> RUNG4 --> RUNG5 --> RUNG6 --> RUNG7 --> RUNG8
+    style RUNG1 fill:#8B6914,color:#ffffff,stroke:#5a4309,stroke-width:3px
+    style RUNG2 fill:#c9a84c,color:#1a1a1a,stroke:#8B6914
+    style RUNG3 fill:#d4b96a,color:#1a1a1a,stroke:#8B6914
+    style RUNG4 fill:#ddc882,color:#1a1a1a,stroke:#8B6914
+    style RUNG5 fill:#e6d79a,color:#1a1a1a,stroke:#8B6914
+    style RUNG6 fill:#ede3b2,color:#1a1a1a,stroke:#8B6914
+    style RUNG7 fill:#f2ebca,color:#1a1a1a,stroke:#8B6914
+    style RUNG8 fill:#f8f4e0,color:#1a1a1a,stroke:#8B6914
+    click RUNG1 call openFig("maimonides-mattenot-aniyim-10-7-14")
 </div>
 
 <span class="diagram-caption">Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7 to 14. The eight rungs of *tzedakah*, ordered by merit. The highest rung is partnership.</span>
@@ -160,6 +178,14 @@ flowchart LR
     style BM fill:#d4d4e8,color:#1a1a1a,stroke:#41416a
     style BB fill:#d4d4e8,color:#1a1a1a,stroke:#41416a
     style KET fill:#d4d4e8,color:#1a1a1a,stroke:#41416a
+    click LEV call openFig("leviticus-25-35-36")
+    click DEUT1 call openFig("deuteronomy-15-7-8")
+    click DEUT2 call openFig("deuteronomy-16-20")
+    click BM call openFig("bava-metzia-5-4-68a-70b")
+    click BB call openFig("bava-batra-9b-10a")
+    click KET call openFig("ketubot-67b")
+    click RAMBAM call openFig("maimonides-mattenot-aniyim-10-7-14")
+    click HETER call openFig("heter-isqa-tradition")
 </div>
 
 ## VII. The convergence
@@ -182,4 +208,4 @@ flowchart LR
   class CONV conv;
 </div>
 
-Each figure on the diagrams above will, in the next iteration of this page, expand into a break-out box on click, giving the precise doctrinal move, the textual locus, a verified quotation, and further reading. That work is in development.
+{% include figure-modals.html %}

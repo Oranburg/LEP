@@ -7,7 +7,7 @@ mermaid: true
 
 # Doctrinal Lineage: A Living Tradition
 
-The LEP intellectual framework draws from two complementary religious and philosophical traditions that converge on a single answer: **partnership is the just form of capital**.
+The LEP intellectual framework draws from two complementary religious and philosophical traditions that converge on a single answer: partnership is the just form of capital.
 
 ---
 
@@ -49,49 +49,31 @@ timeline
 
 ## Catholic tradition: figure notes
 
-Each figure below contributed a distinct move: from the dignity of work (Benedict), to the doctrinal distinction (Aquinas), to the commercial moral theology (Salamanca), to the modern social-encyclical arc (Leo XIII through Leo XIV).
+Each figure contributed a distinct move: from the dignity of work (Benedict), to the doctrinal distinction (Aquinas), to the commercial moral theology (Salamanca), to the modern social-encyclical arc (Leo XIII through Leo XIV).
 
-### Saint Benedict (440-461)
-**Work:** Rule of Saint Benedict  
-**Key Concept:** *Ora et labora* (Prayer and Work)
+### Saint Benedict (480 to 547)
 
-The foundational principle: work and prayer are united as the human response to God. Labor is dignified, not degrading. This forms the philosophical foundation for all subsequent Catholic economic thought.
+The *Rule of Saint Benedict* opens the tradition by insisting that work and prayer are unified as the human response to God. Labor is dignified, not degrading. Every subsequent Catholic argument about the moral weight of economic life stands on that claim.
 
-### Thomas Aquinas (1225-1274)
-**Work:** Summa Theologiae II-II q. 78  
-**Key Concept:** *Societas* (Partnership at Shared Risk)
+### Thomas Aquinas (1225 to 1274)
 
-Aquinas drew on Roman commercial law to argue that **partnership at shared risk is the just form of capital deployment**, in contrast to *mutuum* (fixed-interest lending). This is the cornerstone of the LEP framework.
+In *Summa Theologiae* II-II q. 78, Aquinas draws on Roman commercial law to establish the distinction that organizes the rest of the tradition. Capital deployed into a partnership at shared risk earns a return justly, because the investor remains a co-owner who shares the loss. The same capital extended as a loan at fixed interest (*mutuum*) is usury, because the lender keeps the capital safe and demands a return as well. *Societas* is just because the investor's profit follows from actual contribution at actual risk. The program's entire doctrinal framework turns on that distinction.
 
-**Why Societas is just:**
-- Risk is shared, not externalized
-- Partners' interests are aligned
-- Profit reflects actual contribution
-- Dignity of all participants is honored
+### Salamanca School (1486 to 1583)
 
-### Salamanca School (1486-1583)
-**Figures:** Francisco de Vitoria, Domingo de Soto, Luis de Molina  
-**Key Work:** Commercial moral theology
+Francisco de Vitoria, Domingo de Soto, and Luis de Molina developed the Aquinas distinction into a full commercial moral theology. They wrote for confessors of merchants, which means the work is practical: the just price, the legitimate partnership return, the doctrine of restitution, the early monetary theory driven by New World silver inflation. The principles they set down were still governing commercial doctrine five hundred years later.
 
-The Salamanca School developed Aquinas's *societas* doctrine into a comprehensive theology of commercial partnership. They applied scholastic philosophy to emerging market economies and established principles that remain relevant 500 years later.
+### Pope Leo XIII (1810 to 1903)
 
-### Pope Leo XIII (1810-1903)
-**Work:** *Rerum Novarum* (1891)  
-**Key Concept:** Modern Social Doctrine
+*Rerum Novarum* (1891) reopened the tradition after a century's silence and brought it into dialogue with industrial capitalism. Leo XIII charted a path between unbridled capitalism and socialism by insisting that just capital deployment required authentic partnership: shared contribution, shared risk, aligned interests.
 
-Leo XIII brought Catholic moral teaching into dialogue with industrial capitalism. He rejected both unbridled capitalism and socialism, charting a third path: **just capital deployment through authentic partnership**.
+### Pope John Paul II (1920 to 2005)
 
-### Pope John Paul II (1920-2005)
-**Work:** *Laborem Exercens* (1981)  
-**Key Concept:** Personalist Anthropology of Work
-
-JPII reframed work through a personalist lens: the person is the subject of work, not its object. Notably, Section 14 explicitly endorses **employee shareholding** as a model where workers share in ownership, risk, and reward.
+*Laborem Exercens* (1981) reframed work through a personalist lens: the person is the subject of work, never its object. Section 14 explicitly endorses employee shareholding as the model in which workers share in ownership, risk, and reward. The personalist argument is the philosophical complement to the Aquinas distinction: both insist that the investor and the laborer must stand in genuine partnership.
 
 ### Pope Leo XIV and *Magnifica Humanitas* (2026)
-**Recent Work:** *Magnifica Humanitas* (2026)  
-**Key Concepts:** AI Age Restatement; Babel and Nehemiah
 
-The most recent articulation of this lineage addresses the challenges of artificial intelligence and algorithmic capitalism. Using Babel (fragmentation, misalignment) and Nehemiah (rebuilding through community) as governing images, it asks: how do we ensure AI serves partnership rather than extraction?
+The most recent articulation of the lineage addresses artificial intelligence and algorithmic capitalism. Taking Babel (fragmentation, misalignment) and Nehemiah (rebuilding through community) as its governing biblical images, the encyclical asks how the *societas* principle applies when capital is deployed not into a venture between identifiable partners but into platforms that extract value from those who provide the data.
 
 ---
 
@@ -101,66 +83,46 @@ The Jewish tradition arrives at the same destination through different paths.
 
 ### Biblical Foundations
 
-**Leviticus 25:35-36**  
-*"So that he may live with you..."*
+Leviticus 25:35-36 grounds the partnership obligation: "So that he may live with you." The verse is not a command to relieve; it is a command to sustain through community. The poor person should live *with* you, as a partner, not as an object of pity.
 
-The verse that grounds the partnership obligation. It's not charity as relief; it's sustenance as dignity. The poor person should live *with you*, as a partner in the community, not as an object of pity.
+Deuteronomy 16:20 supplies the doubled imperative: "Justice, justice shall you pursue." The repetition is not decoration. It insists that the means and the end must both be just. How you pursue justice is as morally weighty as whether you pursue it.
 
-**Deuteronomy 16:20**  
-*"Justice, justice shall you pursue..."*
+### Maimonides (1138 to 1204)
 
-The doubled imperative. Justice pursued through just means. The "how" matters as much as the "what."
-
-### Maimonides (1138-1204)
-**Work:** Mishneh Torah, Hilkhot Mattenot Aniyim 10:7-14  
-**Key Concept:** Eight Rungs of *Tzedakah*
-
-Maimonides ranked eight levels of charity (*tzedakah*), ascending from anonymous giving to **partnership** (*shutafut*) with the recipient. The highest form isn't giving *to* the poor; it's engaging *with* them as partners in creating their own livelihood.
+In *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7 to 14, Maimonides ranked eight levels of *tzedakah* in ascending order of moral merit. The highest is *shutafut*, partnership with the recipient: strengthening his hand so that he need not beg. The climactic insight is that engaging the poor person *as a partner* in creating his own livelihood is more just than any form of giving, however generous or anonymous.
 
 The eight rungs, from lowest to highest:
 
-1. **Giving reluctantly** - the donor's heart is pained
-2. **Giving with a smile** - cheerful giving, but still one-directional
-3. **Giving *after* being asked** - passive response
-4. **Giving *before* being asked** - proactive but still one-directional
-5. **Giving where the recipient knows the donor, but the donor doesn't know the recipient** - anonymity for the giver's benefit
-6. **Giving where the donor knows the recipient, but the recipient doesn't know the donor** - anonymity for the recipient's benefit
-7. **Giving where neither party knows the other** - complete anonymity
-8. **Partnership (*shutafut*)** - enabling the poor person to support themselves through employment or business partnership
+1. Giving reluctantly, with a pained heart
+2. Giving cheerfully, but still one-directional
+3. Giving after being asked
+4. Giving before being asked
+5. Giving where the recipient knows the donor but the donor does not know the recipient
+6. Giving where the donor knows the recipient but the recipient does not know the donor
+7. Giving where neither party knows the other
+8. *Shutafut* (partnership): enabling the poor person to support themselves through employment or business partnership
 
-**Why partnership is highest:** It restores dignity, creates mutual obligation, aligns interests, and builds community rather than creating dependency.
+Partnership ranks highest because it restores dignity by creating mutual obligation rather than dependence. The recipient becomes a partner with a stake in the outcome, not an object of another person's virtue.
 
 ---
 
 ## Convergence: one principle, two routes
 
-Despite operating in different theological frameworks, both traditions reach the same practical and moral conclusion:
+The two traditions reason from different premises through different methods and arrive at the same place. Aquinas names *societas* as the just form of capital; Maimonides names *shutafut* as the highest rung of justice. The principle is one: capital deployed in genuine partnership at genuine risk is just, and capital that secures a fixed return by transferring risk to the other party is not.
 
-> **The just form of engaging capital with those in poverty is partnership at shared risk, not charity at transferred risk.**
-
-- **Aquinas** says: *Societas* is the just form of capital
-- **Maimonides** says: *Shutafut* is the highest rung of justice
-- Both reject: Fixed-interest extraction, one-way charity, externalized risk
+> The just form of engaging capital with those in poverty is partnership at shared risk.
 
 ---
 
 ## The year-theme as application
 
-The program treats entrepreneurship as a contested terrain:
+The program treats entrepreneurship as a contested question, not an affirmed answer. One reading holds entrepreneurship as the direct route out of poverty: job creation, wealth generation, entrepreneurial agency as the exercise of dignity. The other holds it as a producer of poverty through wage suppression, risk externalization, and winner-take-all dynamics.
 
-**Argument 1:** Entrepreneurship is the answer to poverty  
-*Evidence:* Job creation, wealth generation, market expansion, innovation
-
-**Argument 2:** Entrepreneurship is a producer of poverty  
-*Evidence:* Wage suppression, risk externalization, winner-take-all dynamics, environmental degradation
-
-**The LEP Approach:** The answer depends on the *form* of entrepreneurship. Partnership-based models (employee ownership, profit-sharing, co-ops, mutual aid enterprises) can align with the *societas*/*shutafut* framework. Extraction-based models contradict it.
+The *societas*/*shutafut* framework provides the test. The answer turns on the form of the enterprise: whether workers and investors share risk and return in genuine partnership, or whether the structure extracts value from one side while concentrating upside on the other. The year-theme asks which fact patterns fall on which side of that line.
 
 ---
 
 ## Further reading
-
-Primary and secondary sources for the traditions documented on this page.
 
 ### Primary Sources
 - Thomas Aquinas, *Summa Theologiae* II-II, Questions 78-79

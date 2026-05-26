@@ -1,0 +1,90 @@
+{% comment %}
+  Click-to-expand breakout dialogs for the lineage diagrams.
+  Three data sources: catholic-ancient, catholic-modern, jewish.
+  Schema varies; render every field that is present.
+{% endcomment %}
+
+<div class="figure-modals" aria-hidden="true">
+
+{% for fig in site.data.figures.catholic-ancient %}
+<dialog class="figure-dialog" id="fig-{{ fig.id }}">
+  <article>
+    <button class="figure-close" aria-label="Close" onclick="this.closest('dialog').close()">×</button>
+    <header>
+      <h2>{{ fig.name }}</h2>
+      {% if fig.dates %}<p class="figure-dates">{{ fig.dates }}</p>{% endif %}
+    </header>
+    {% if fig.identity %}<p class="figure-identity">{{ fig.identity }}</p>{% endif %}
+    {% if fig.work %}<p><strong>Work.</strong> {{ fig.work }}</p>{% endif %}
+    {% if fig.move %}<p><strong>The move.</strong> {{ fig.move }}</p>{% endif %}
+    {% if fig.quote and fig.quote != "" %}<blockquote class="figure-quote">{{ fig.quote }}</blockquote>{% endif %}
+    {% if fig.lep_relevance %}<p><strong>For the program.</strong> {{ fig.lep_relevance }}</p>{% endif %}
+    {% if fig.further_reading.size > 0 %}
+    <details class="figure-reading">
+      <summary>Further reading</summary>
+      <ul>
+        {% for cite in fig.further_reading %}<li>{{ cite }}</li>{% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+  </article>
+</dialog>
+{% endfor %}
+
+{% for fig in site.data.figures.catholic-modern %}
+<dialog class="figure-dialog" id="fig-{{ fig.id }}">
+  <article>
+    <button class="figure-close" aria-label="Close" onclick="this.closest('dialog').close()">×</button>
+    <header>
+      <h2>{{ fig.pope }}, <em>{{ fig.encyclical }}</em></h2>
+      {% if fig.date %}<p class="figure-dates">{{ fig.date }}</p>{% endif %}
+    </header>
+    {% if fig.identity %}<p class="figure-identity">{{ fig.identity }}</p>{% endif %}
+    {% if fig.move %}<p><strong>The move.</strong> {{ fig.move }}</p>{% endif %}
+    {% if fig.quote and fig.quote != "" %}<blockquote class="figure-quote">{{ fig.quote }}</blockquote>{% endif %}
+    {% if fig.paragraph_anchors.size > 0 %}
+    <p><strong>Paragraph anchors.</strong></p>
+    <ul>
+      {% for a in fig.paragraph_anchors %}<li>{{ a }}</li>{% endfor %}
+    </ul>
+    {% endif %}
+    {% if fig.lep_relevance %}<p><strong>For the program.</strong> {{ fig.lep_relevance }}</p>{% endif %}
+    {% if fig.vatican_url %}<p><a href="{{ fig.vatican_url }}" target="_blank" rel="noopener">Read at vatican.va →</a></p>{% endif %}
+  </article>
+</dialog>
+{% endfor %}
+
+{% for fig in site.data.figures.jewish %}
+<dialog class="figure-dialog" id="fig-{{ fig.id }}">
+  <article>
+    <button class="figure-close" aria-label="Close" onclick="this.closest('dialog').close()">×</button>
+    <header>
+      <h2>{{ fig.name }}</h2>
+      {% if fig.hebrew %}<p class="figure-hebrew" dir="rtl">{{ fig.hebrew }}</p>{% endif %}
+      {% if fig.transliteration %}<p class="figure-translit"><em>{{ fig.transliteration }}</em></p>{% endif %}
+      {% if fig.dates_or_dating %}<p class="figure-dates">{{ fig.dates_or_dating }}</p>{% endif %}
+    </header>
+    {% if fig.identity %}<p class="figure-identity">{{ fig.identity }}</p>{% endif %}
+    {% if fig.move %}<p><strong>The move.</strong> {{ fig.move }}</p>{% endif %}
+    {% if fig.primary_text.hebrew %}
+    <blockquote class="figure-quote">
+      <p dir="rtl" lang="he">{{ fig.primary_text.hebrew }}</p>
+      {% if fig.primary_text.transliteration %}<p><em>{{ fig.primary_text.transliteration }}</em></p>{% endif %}
+      {% if fig.primary_text.translation %}<p>{{ fig.primary_text.translation }}</p>{% endif %}
+      {% if fig.primary_text.cite %}<cite>{{ fig.primary_text.cite }}</cite>{% endif %}
+    </blockquote>
+    {% endif %}
+    {% if fig.lep_relevance %}<p><strong>For the program.</strong> {{ fig.lep_relevance }}</p>{% endif %}
+    {% if fig.further_reading.size > 0 %}
+    <details class="figure-reading">
+      <summary>Further reading</summary>
+      <ul>
+        {% for cite in fig.further_reading %}<li>{{ cite }}</li>{% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+  </article>
+</dialog>
+{% endfor %}
+
+</div>
