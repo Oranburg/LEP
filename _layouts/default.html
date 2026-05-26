@@ -45,15 +45,7 @@
   {% include header-updated.html %}
 
   <main class="site-content" id="main-content">
-    {% include breadcrumbs.html %}
-    
-    {% if page.layout == 'page' %}
-      {% include table-of-contents.html %}
-    {% endif %}
-    
     {{ content }}
-    
-    {% include related-content.html %}
   </main>
 
   {% include footer-updated.html %}
