@@ -1,0 +1,9 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="site-tagline">{{ site.subtitle }}</p>
+    {% if page.hero_subtitle %}<p class="site-hero-subtitle">{{ page.hero_subtitle }}</p>{% endif %}
+  </div>
+</header>
+
+{% include nav-updated.html %}

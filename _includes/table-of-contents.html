@@ -1,0 +1,16 @@
+<!-- Table of Contents for Long Pages -->
+{% if page.content | size > 3000 %}
+<nav class="table-of-contents" aria-label="Table of contents">
+  <h3>On this page</h3>
+  <ul>
+    {% assign headers = page.content | split: '<h2' %}
+    {% for header in headers %}
+      {% if header contains 'id=' %}
+        {% assign id = header | split: 'id="' | last | split: '"' | first %}
+        {% assign title = header | split: '>' | last | split: '<' | first %}
+        <li><a href="#{{ id }}">{{ title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+{% endif %}
