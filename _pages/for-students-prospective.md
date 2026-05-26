@@ -6,7 +6,7 @@ permalink: /for-students/prospective/
 
 # For prospective students
 
-You are deciding between law schools. This page is for that decision. It tells you what the Law and Entrepreneurship Program at CUA is, what it offers, what it does not yet have, who it is being built to compete with, and how to engage with us before you deposit.
+You are deciding between law schools. This page tells you what the Law and Entrepreneurship Program at CUA is, what it offers, who it is being built to compete with, and how to engage with us before you deposit.
 
 ## The short version
 
@@ -37,25 +37,27 @@ The program's wager is that Washington taken seriously, plus the Catholic intell
 
 **A transactional simulation course.** Launching Spring 2028. Two credits, capped at twenty. You take one deal from term sheet to closing. The course is modeled on Case Western's LLEAP 3.
 
-**A Business Boot Camp.** Launching Fall 2026. One credit, pass-fail. Designed for 1Ls with no prior business background; the English major, the History major, the career-changer, the Engineer. The point is orientation, not coverage.
+**A Business Boot Camp.** Launching Fall 2026. One credit, pass-fail. Designed for 1Ls with no prior business background: the English major, the history major, the career-changer, the engineer. The point is orientation, not coverage.
 
 **A curated curriculum.** The substantive business law electives (Business Associations, Securities Regulation, M&A, Tax, Antitrust, Bankruptcy, Banking Law) are taught by CUA Law's existing faculty and open to all students. LEP cohort members get sequencing recommendations and faculty advising on which courses to take in which order.
 
-**A Washington advantage actually used.** The federal regulatory state is where business law is being written: SEC, CFTC, FDIC, OCC, FTC, DOJ Antitrust, IRS, CFPB, FCC. The fintech and digital-asset bar runs through DC. K Street is two metro stops away. The program's practitioner network gives access to specific opportunities the standard externship office does not maintain relationships with.
+**A Washington advantage actually used.** The federal regulatory state is where business law is being written: SEC, CFTC, FDIC, OCC, FTC, DOJ Antitrust, IRS, CFPB, FCC. The fintech and digital-asset bar runs through DC. K Street is two metro stops away. The program's practitioner network gives access to specific opportunities outside the standard externship office's relationships.
 
 **Conference funding.** Working target: up to one thousand dollars per cohort student per year for one conference relevant to the program.
 
 **An intellectual frame that is doctrine, not branding.** The Catholic tradition's *societas* doctrine and the Jewish tradition's *shutafut* doctrine converge on the same conclusion: partnership at shared risk is the just form of capital deployment. The frame shows up in the substantive courses as the vocabulary the lawyer uses to read deal documents (liquidation preferences, drag-along provisions, vesting schedules) for what they actually do to the partnership-versus-loan question.
 
-## What the program does not yet have
+**A vocation, named.** The program's working paper *Architects of the Void* (in submission) treats the lawyer at the founding moment as a sub-creator who constitutes the legal forms within which the venture will live. The curriculum is built to form lawyers who can do that work: who can sit with founders before any entity exists and architect the constitution of the firm, not merely paper an exchange the parties have already agreed to. The companion pedagogy paper *In the Shadow of the Law* (in submission) is the program's account of how that work is taught to students who arrive with operational fluency in law-adjacent practice.
 
-The program has not graduated its first dedicated cohort. The first will graduate in 2029. The LEP-specific placement data set therefore does not exist yet. CUA Law's school-wide placement data is published in its annual Standard 509 report, available from the CUA Law career office and at law.edu.
+## What is still in development
 
-A dedicated LEP Fellowship that would carry stipend support, conference travel, and research funding for cohort members is in development. It is not yet announced. Standard CUA Law need-based and merit-based aid is administered through the regular admissions process.
+The program has not graduated its first dedicated cohort. The first will graduate in 2029. LEP-specific placement data will be published as the first cohort moves through the program. CUA Law's school-wide placement data is published in its annual Standard 509 report, available from the CUA Law career office and at law.edu.
+
+A dedicated LEP Fellowship carrying stipend support, conference travel, and research funding for cohort members is in development and has not yet been announced. Standard CUA Law need-based and merit-based aid is administered through the regular admissions process.
 
 A formal LEP cohort designation on the transcript or diploma (akin to Penn's Wharton certificate or Northwestern's transactional-law certificate) is under discussion with the CUA Law administration. The form it will take has not yet been finalized.
 
-Named practitioner mentors at specific firms cannot be published until those mentors have committed to specific pairings. The program is deliberately conservative about publishing names before they are real commitments.
+Named practitioner mentors at specific firms will be published once those mentors have committed to specific pairings. The program is deliberately conservative about publishing names before commitments are confirmed.
 
 ## What it costs
 

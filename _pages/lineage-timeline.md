@@ -11,7 +11,7 @@ The LEP intellectual framework draws from two complementary religious and philos
 
 ---
 
-## The Timeline
+## Catholic tradition: from Roman law to *Magnifica Humanitas*
 
 ```mermaid
 timeline
@@ -47,7 +47,7 @@ timeline
 
 ---
 
-## Catholic Lineage Details
+## Catholic tradition: figure notes
 
 ### Saint Benedict (440-461)
 **Work:** Rule of Saint Benedict  
@@ -85,7 +85,7 @@ Leo XIII brought Catholic moral teaching into dialogue with industrial capitalis
 
 JPII reframed work through a personalist lens: the person is the subject of work, not its object. Notably, Section 14 explicitly endorses **employee shareholding** as a model where workers share in ownership, risk, and reward.
 
-### Pope Francis & Magnifica Humanitas (2026)
+### Pope Leo XIV and *Magnifica Humanitas* (2026)
 **Recent Work:** *Magnifica Humanitas* (2026)  
 **Key Concepts:** AI Age Restatement; Babel and Nehemiah
 
@@ -93,7 +93,7 @@ The most recent articulation of this lineage addresses the challenges of artific
 
 ---
 
-## Jewish Lineage
+## Jewish tradition: Torah to Maimonides to the *heter isqa*
 
 The Jewish tradition arrives at the same destination through different paths.
 
@@ -115,7 +115,7 @@ The doubled imperative. Justice pursued through just means. The "how" matters as
 
 Maimonides ranked eight levels of charity (*tzedakah*), ascending from anonymous giving to **partnership** (*shutafut*) with the recipient. The highest form isn't giving *to* the poor; it's engaging *with* them as partners in creating their own livelihood.
 
-#### The Eight Rungs (from lowest to highest):
+The eight rungs, from lowest to highest:
 
 1. **Giving reluctantly** - the donor's heart is pained
 2. **Giving with a smile** - cheerful giving, but still one-directional
@@ -130,7 +130,7 @@ Maimonides ranked eight levels of charity (*tzedakah*), ascending from anonymous
 
 ---
 
-## The Convergence
+## Convergence: one principle, two routes
 
 Despite operating in different theological frameworks, both traditions reach the same practical and moral conclusion:
 
@@ -142,7 +142,7 @@ Despite operating in different theological frameworks, both traditions reach the
 
 ---
 
-## Modern Application
+## The year-theme as application
 
 ### The Year-Theme: *Entrepreneurship v. Poverty*
 
@@ -158,7 +158,7 @@ The program treats entrepreneurship as a contested terrain:
 
 ---
 
-## Further Reading
+## Further reading
 
 ### Primary Sources
 - Thomas Aquinas, *Summa Theologiae* II-II, Questions 78-79
@@ -175,7 +175,7 @@ The program treats entrepreneurship as a contested terrain:
 
 ---
 
-## Discussion Questions
+## Questions for seminar use
 
 1. What makes partnership fundamentally different from charity in terms of human dignity?
 2. How does the *societas* doctrine apply to modern corporation structures?

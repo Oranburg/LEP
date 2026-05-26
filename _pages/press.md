@@ -31,9 +31,9 @@ Seth Oranburg, co-director (incoming, August 20, 2026): seth.oranburg@gmail.com.
 
 For formal CUA Law press inquiries, contact the Columbus School of Law communications office.
 
-## What this site is and is not
+## About this site
 
-This site (oranburg.law/LEP) is the personal working space of the co-directors. It is not a CUA-authorized communication. CUA-authorized program communications will appear on the CUA Law website at law.edu when the program is formally constituted through the standard institutional process for AY 2026-27. The clinic, the courses, and the degree credit are administered through CUA Law in the standard way.
+This site (oranburg.law/LEP) is the personal working space of the co-directors. CUA-authorized program communications will appear on the CUA Law website at law.edu when the program is formally constituted through the standard institutional process for AY 2026-27. The clinic, the courses, and the degree credit are administered through CUA Law in the standard way.
 
 ## Approved short bios
 

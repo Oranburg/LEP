@@ -6,7 +6,7 @@ permalink: /for-students/
 
 # For Students
 
-This page is for students. The two cards below take you to the page that matches where you are.
+The two cards below take you to the page that matches where you are.
 
 <div class="audience-cards">
 

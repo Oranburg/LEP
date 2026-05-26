@@ -6,7 +6,7 @@ permalink: /for-students/current/
 
 # For current CUA students
 
-You are at CUA Law and want to know what to do. This page is action-oriented. Find your year, take the next step.
+You are at CUA Law and want to know what to do. Find your year, take the next step.
 
 ## If you are a 1L (Spring 2026)
 
@@ -50,7 +50,7 @@ If you have not taken a business or economics course before, you are not behind.
 - **Mentorship pairings:** one faculty mentor and one practitioner mentor, minimum two meetings per semester
 - **The clinic:** ABA-approved clinical course with real client ventures, the target portfolio described on the [prospective students page]({{ '/for-students/prospective/' | relative_url }})
 - **The Boot Camp:** one credit pass-fail entry course, launching Fall 2026
-- **The Transactional Practicum:** two credit deal simulation, launching Spring 2028
+- **The Transactional Practicum:** two-credit deal simulation, launching Spring 2028
 - **The lecture series:** practitioners and entrepreneurs through the academic year
 - **Conference funding:** up to one thousand dollars per cohort student per year for one relevant conference
 - **The intellectual frame:** the *societas* and *shutafut* tradition as the doctrinal vocabulary you use to read deal documents

@@ -71,17 +71,13 @@ Law schools treat poverty as a client condition for legal aid and public-benefit
 
 A year-themed event series, a clinic-deepening initiative, and a curriculum overlay. The AY 2026-27 year theme is *Entrepreneurship v. Poverty*. The event slate includes the Magatte Wade keynote (entrepreneurship as the answer to poverty), an SBA capital-policy panel, a DOJ Antitrust panel on the JetBlue / Spirit decision (the conditions for entrepreneurial partnership in regulated markets), and a practitioner panel on transactional drafting. The clinic deepens its service to early-stage ventures led by low-and-moderate-income founders, modeled on Cardozo's Entrepreneurship and Community Business Clinic. The curriculum overlay introduces a reading lens (partnership at shared risk as the just form of capital) to Business Associations, Securities Regulation, and the transactional practicum.
 
-## Deliverables, timeline, budget, metrics
+## The intervention, deliverables, timeline, budget, and metrics
 
 Identical to the Catholic version above. Three-year total: **$450,000 to $700,000**, same line items, same client-outcome metrics in the annual report.
 
 </div>
 
 ---
-
-## Why this is the recommended lead for DDSF
-
-DDSF treats entrepreneurship as the lever that lifts people out of poverty; the Magatte Wade keynote and the clinic's measurable client outcomes operationalize that conviction inside a law school. The budget range fits cleanly inside the indicated DDSF ask band.
 
 ## How to engage
 

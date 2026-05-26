@@ -34,7 +34,11 @@ Take a Series Seed term sheet. Six provisions in that document carry the partner
 
 A lawyer trained in the *societas* vocabulary reads these clauses with the partnership-versus-loan question in hand. The point is not to argue Aquinas with the client. The point is to see the structural reality of what the document does, and to advise accordingly.
 
-## Why this matters for the practice
+## Sub-creation: drafting as constitution-making
+
+The program's working paper *Architects of the Void* (in submission) develops the constitutional reading of this drafting work at length. The argument is that the lawyer who structures a founding (the operating agreement, the term sheet, the cap table, the vesting schedule, the protective provision) is not reducing transaction costs around an exchange that already exists. The lawyer is constituting the legal forms within which commercial life will take shape. The vocabulary is sub-creation in J.R.R. Tolkien's sense and jurisgenesis in Robert Cover's sense: building a secondary world with inner consistency adequate to survive the stress the primary world will impose on it. The *societas* tradition supplies the substantive criterion for that constitution. The drafting choices above are the lawyer's constitutional clauses. Each one specifies who is a co-owner who shares the loss and who is a creditor whose return is fixed in advance.
+
+## The lawyer the program produces
 
 The lawyer who reads deal documents through this frame is a different lawyer than the one who treats every provision as a market default to be negotiated for whichever side hired her. The first lawyer can tell a founder which terms preserve the venture as a partnership and which terms make it something else. The second lawyer cannot, because she does not have the conceptual structure that lets her name the difference.
 

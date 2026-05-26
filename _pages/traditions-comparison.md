@@ -154,7 +154,7 @@ Both traditions agree:
 
 ---
 
-## Modern Application: The Year-Theme
+## The year-theme as application
 
 ### *Entrepreneurship v. Poverty*
 
@@ -197,7 +197,7 @@ How do we know if an entrepreneurial venture is just or unjust?
 
 ---
 
-## Drawing from Both Traditions
+## How the program uses both traditions
 
 The LEP approach weaves both traditions together:
 
@@ -207,7 +207,7 @@ The LEP approach weaves both traditions together:
 
 ---
 
-## Questions for Reflection
+## Questions for seminar use
 
 1. **Where do you see *societas* or *shutafut* principles in modern business?**
 
@@ -238,7 +238,7 @@ The LEP approach weaves both traditions together:
 
 ---
 
-## Next Steps
+## Further reading and related pages
 
 - Explore [the full Doctrinal Lineage](/LEP/lineage-timeline/)
 - Read about [*Societas* in practice](/LEP/societas/)
