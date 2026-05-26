@@ -6,12 +6,24 @@ permalink: /about/
 
 # About this site
 
-This is Seth Oranburg's working space for the intellectual identity of the law and entrepreneurship program he will co-direct at the Catholic University of America Columbus School of Law beginning August 2026. The program will be formally launched, named, and authorized by CUA through the standard institutional process. This site is not an official CUA program site, and nothing on it constitutes a CUA-authorized communication.
+This is the personal working space of the co-directors of the Law and Entrepreneurship Program at the Catholic University of America Columbus School of Law. The program is operating now under founding Director Alexander Hoffarth. Seth Oranburg joins as co-director on August 20, 2026, from the University of New Hampshire Franklin Pierce School of Law.
 
-The site exists for two purposes. First, to give collaborators a single place to read the doctrinal and intellectual frame of the program as it develops. Second, to stage materials that will, in mature form, eventually live on a CUA-hosted site.
+The site exists for two purposes. First, to give collaborators, prospective students, and current students a single place to read what the program is, what it does, and what it is becoming. Second, to stage the intellectual identity of the program in public so that the doctrine, the curriculum, and the cohort design are visible as they develop.
 
-Until August 20, 2026, Seth remains on the faculty of the University of New Hampshire Franklin Pierce School of Law. Materials on this site reflect personal scholarship and program design work, not institutional positions of either school.
+This site (oranburg.law/LEP) is not an official CUA program site. Nothing on it constitutes a CUA-authorized communication. CUA-authorized program communications will appear on the CUA Law website at law.edu when the program is formally constituted through the standard institutional process. The clinic, the courses, the degree credit, and the cohort structure are administered through CUA Law in the standard way.
+
+## Where to go from here
+
+- [For Students]({{ '/for-students/' | relative_url }}): three landing pages for prospective applicants, current CUA students, and mentors / employers
+- [The year theme]({{ '/theme/' | relative_url }}): *Entrepreneurship v. Poverty*
+- [Doctrinal lineage]({{ '/lineage/' | relative_url }}): how the Catholic *societas* and Jewish *shutafut* traditions converge
+- [Societas]({{ '/societas/' | relative_url }}): the partnership form of justice, as the program's intellectual center
+- [Magnifica Humanitas]({{ '/magnifica-humanitas/' | relative_url }}): close reading of Leo XIV's encyclical
+- [People]({{ '/people/' | relative_url }}): who runs the program
+- [Working papers]({{ '/working-papers/' | relative_url }}): drafts in development
 
 ## Contact
 
-seth.oranburg@gmail.com
+Alexander Hoffarth, founding Director: hoffarth@cua.edu
+
+Seth Oranburg, co-director (incoming): seth.oranburg@gmail.com
