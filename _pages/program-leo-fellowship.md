@@ -74,17 +74,9 @@ The Entrepreneurial Private Law Fellowship funds two-year faculty fellowships at
 
 The intellectual commitment of the fellowship is concrete. Partnership at shared risk is the form of capital deployment in which entrepreneur and investor share both upside and downside, and it is the institutional form that has generated the most productive innovation across centuries. The fellowship trains scholars and teachers to treat that institutional form as substantive doctrine.
 
-## Deliverables
+## Deliverables, timeline, budget, and metrics
 
-1. Two named fellows on the faculty page by August 2027, each producing one peer-reviewed article and one practitioner-facing piece per fellowship year.
-2. One visiting senior scholar per academic year, with a public lecture and a faculty workshop.
-3. A working-paper series on partnership, capital deployment, and entrepreneurial law, with three to five papers per year.
-4. A documented junior-faculty mentorship structure.
-5. A five-year retention metric tracking each fellow's path.
-
-## Timeline, budget, and metrics
-
-Identical to the Catholic version above. Three-year total: **$750,000 to $1.2M**, same line items.
+Five deliverables (two named fellows, one visiting senior scholar per year, a working-paper series on partnership and entrepreneurial law, a documented junior-faculty mentorship structure, a five-year retention metric); Year 1 through Year 3 timeline; three-year total of **$750,000 to $1.2M**. All identical to the Catholic version above.
 
 </div>
 

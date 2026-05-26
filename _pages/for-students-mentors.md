@@ -35,7 +35,7 @@ Email Alexander Hoffarth at hoffarth@cua.edu with a brief note:
 3. The kind of student you would be most useful to (transactional, regulatory, entrepreneurial, in-house, fintech, public-interest, mission organization)
 4. Any specific limit on availability (geographic, time, sector)
 
-Mentorship slots are limited. The program is deliberately conservative about how many pairings are opened per year so each pairing can be substantive.
+Mentorship slots are limited. The program keeps the pairing count small enough that each one is substantive.
 
 ## To hire from the program
 

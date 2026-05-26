@@ -44,6 +44,16 @@ The program is interested in correspondence and co-programming with peer busines
 
 The program is also interested in correspondence with the small set of business-law programs grounded in the Catholic or natural-law intellectual tradition: Notre Dame, Pepperdine, Ave Maria, and the law school at Universidad Panamericana in Mexico City.
 
+## Catholic-AI ethics organizations
+
+The program sits inside a three-way alignment of Catholic-AI institutions, each operating from a different institutional position and engaging the same set of questions about work, dignity, and the AI age that *Magnifica Humanitas* (15 May 2026) addresses. The natural co-programming triangle:
+
+- **The Cluny Institute** (Luke Burgis, CUA, Templeton-funded). Academic Catholic-AI, working across technology, religion, and culture. Already listed above as a CUA-internal program partner.
+- **Builders AI Forum (BAIF)** (Matthew Harvey Sanders, founder; Vincent Higgins, CEO since May 2026). Corporate Catholic-AI, convening CEOs, AI executives, and Catholic Church leaders. Founded October 2024; first major conference at the Vatican in November 2025. Higgins's framing of the Fifth Industrial Revolution as the Leo XIII (Second Revolution / *Rerum Novarum*) to Leo XIV (Fifth Revolution / *Magnifica Humanitas*) parallel maps directly onto the program's intellectual identity.
+- **Law and Entrepreneurship Program at CUA Law.** Legal and curricular Catholic-AI, training lawyers who draft the legal forms in which AI-age commercial life takes shape. The *societas* tradition at the level of the document.
+
+The three institutions occupy non-overlapping institutional positions (academy, corporate boardroom, law school) and address the same intellectual terrain from each. Co-programming where the three meet is welcome. To propose joint convening, contact: hoffarth@cua.edu.
+
 ## Foundation and funder partners
 
 The program is in development on multiple foundation relationships. The Cluny Institute provides a Templeton-funded peer-grantee data point at CUA. Other prospective foundation partners include the Diana Davis Spencer Foundation (J.C. Boggs of King & Spalding is brokering an introduction in mid-2026), the John Templeton Foundation (targeted for AY 2027-28), and Catholic philanthropic networks. For foundation conversations, see the [Support page]({{ '/support/' | relative_url }}).

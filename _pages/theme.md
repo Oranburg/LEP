@@ -16,6 +16,8 @@ The second reads entrepreneurship as a producer of poverty: the engine of data c
 
 The year holds both as adversarial parties and asks which fact patterns lie on which side of the line. The program does not foreclose the question. The convening events, the readings, and the practitioners are arranged so that the evidence on both sides can be heard.
 
+The lawyer sits inside that question rather than outside it. The program's working paper *Architects of the Void* (in submission) names the lawyer at the founding moment as a sub-creator who constitutes the institutional body in which entrepreneurial work becomes possible. The same drafting capacity can build a firm that strengthens the recipient's hand in the Maimonidean sense, or a structure that extracts the upside while pushing the downside onto workers, users, or communities. The year-theme is therefore the lawyer's question as much as it is the economist's or the policymaker's: which structures, drafted by which lawyers under which intellectual frames, produce *societas* and which produce *mutuum* dressed up as partnership.
+
 ## The event slate
 
 The inaugural year-theme runs through four convening events:

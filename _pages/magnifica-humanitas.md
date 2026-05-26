@@ -8,6 +8,12 @@ permalink: /magnifica-humanitas/
 
 Pope Leo XIV's encyclical *Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence*, given at Rome on 15 May 2026, restates the social doctrine of the Church for the AI age. The text is published at [vatican.va](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html). A full close-reading essay is in development.
 
+## The historical position of the encyclical
+
+Leo XIV stands in the same position Leo XIII stood in. *Rerum Novarum* (15 May 1891) addressed the disruption of work, labor, and dignity produced by the Second Industrial Revolution: mass production, electrification, the migration from country to city, the rise of the factory and the modern wage relation. Vincent Higgins (CEO, Builders AI Forum) names the parallel directly in his September 2025 essay "Faith, Reason, AI, and the Fifth Revolution": Leo XIV writes at the opening of the Fifth Industrial Revolution (human-machine collaboration, cobots, humanoid robots, personalization at scale, the AI-driven reorganization of the wage relation). The encyclical's choice of regnal name signals the historical claim. The Church's social doctrine speaks again, in this moment, to the labor question of a new industrial revolution.
+
+The conceptual symmetry matters for the program. The *societas* tradition, which Leo XIII drew on and which runs through *Quadragesimo Anno*, *Laborem Exercens*, and *Caritas in Veritate*, is the same tradition Leo XIV draws on to address the Fifth Revolution's questions. The form of capital deployment that constitutes partnership rather than dependence is the same form whether the labor is loom work in a Manchester mill or content-moderation work in a Nairobi annotation center.
+
 ## Paragraph anchors most relevant to the program
 
 The verified paragraph anchors below come from a research pass on the encyclical text and are the most directly relevant to the *societas* spine of the Law and Entrepreneurship Program. Reading the encyclical against these anchors gives a fast orientation to the passages a business lawyer would want to see first.
@@ -21,6 +27,10 @@ The verified paragraph anchors below come from a research pass on the encyclical
 **§ 173. The hidden labor chain.** Data labelers, content moderators, and mineral extractors in the supply chains of large AI systems are named as the hidden labor on which the apparent automation depends. The implication for employment counsel, vendor counsel, and supply-chain counsel is that the partnership-form analysis extends beyond the named investors to the workers whose labor the partnership consumes.
 
 **§ 178. Data colonialism.** The extraction of value from populations whose data is collected without informed participation in the upside is named as a new form of dependence. The *societas* / *mutuum* distinction reads the data-collection contract directly: a partnership structure shares the value generated; an extractive structure does not.
+
+## The encyclical and the lawyer's vocation in the AI age
+
+The program's working paper *Architects of the Void* (in submission) reads the entrepreneurial lawyer's drafting work as sub-creation: the constitution of the institutional body in which the founder's animating purpose can act in the material world. The argument lands directly on the diagnosis *Magnifica Humanitas* makes about work, dignity, and the new forms of dependence the AI age produces. What artificial intelligence can do is recombine patterns and optimize within established frameworks. What it cannot do is exercise the judgment by which a new legal form is constituted, named, and held accountable to a purpose. The encyclical's account of the subjective dimension of work and the working paper's account of the lawyer's authorship over the legal forms of the firm name the same capacity from different traditions. The hidden labor chains of § 173 and the data-colonialism diagnosis of § 178 are then the cases in which that authorship most matters: the lawyer who drafts the platform's worker-classification structure, the supply-chain vendor agreement, or the data-collection consent flow is constituting the legal form that determines whether the venture builds a peer or maintains a dependent.
 
 ## What the close-reading essay will do
 
