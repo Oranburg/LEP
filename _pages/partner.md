@@ -56,7 +56,23 @@ The three institutions occupy non-overlapping institutional positions (academy, 
 
 ## Foundation and funder partners
 
-The program is in development on multiple foundation relationships. The Cluny Institute provides a Templeton-funded peer-grantee data point at CUA. Other prospective foundation partners include the Diana Davis Spencer Foundation (J.C. Boggs of King & Spalding is brokering an introduction in mid-2026), the John Templeton Foundation (targeted for AY 2027-28), and Catholic philanthropic networks. For foundation conversations, see the [Support page]({{ '/support/' | relative_url }}).
+The program is in development on multiple foundation relationships.
+
+**The Diana Davis Spencer Foundation (DDSF).** J.C. Boggs of King and Spalding is brokering an introduction in mid-2026. Peggy Kacergis (CUA Advancement) is the institutional partner. Recommended lead-with program for the meeting is *Building the Legal Infrastructure for Dignified Work* (the secular framing of the *Entrepreneurship v. Poverty* program).
+
+**The John Templeton Foundation.** Sandra Zupan in the CUA Office of Research is the institutional liaison. An initial OFI proposal in the "Educational Innovations for Freedom" track (under the broader "Individual Freedom and Free Markets" funding area) was developed in spring 2026 and held for the right cycle per Sandra's guidance. Targeted for AY 2027-28 once the program has graduated its first cohort milestones and the institutional brief has thickened. The Cluny Institute at CUA, Templeton-funded at $2.5M in 2024, provides the peer-grantee data point that the foundation funds CUA programs in this intellectual space.
+
+**Catholic philanthropic networks.** Knights of Columbus, Our Sunday Visitor, Lilly Endowment, and parallel networks. The *Leo Fellowship in Entrepreneurial Lawyering* is the program designed to fit this category of funder.
+
+For foundation conversations, see the [Support page]({{ '/support/' | relative_url }}).
+
+## Scholarly-programming institutional partners
+
+A separate kind of institutional partnership: organizations that convene scholars, run summer programs, fund speakers, and provide platforms for substantive presentation rather than direct program funding.
+
+**Institute for Humane Studies (IHS), George Mason University.** Long-standing institutional relationship through Stephen Wong, Andrew Morgan, and Michael Brodrick. Active 2026 engagements include the IHS Bitcoin, Energy, and the Permissionless Future conference (Nashville, summer 2026) and the Building AI for Classical Liberal Alignment workshop. The Law and Entrepreneurship Program treats IHS as a natural co-programming partner on questions where the *societas* tradition's substantive analytic commitments and the classical-liberal account of free enterprise intersect; the secular framings of the program's funded initiatives are designed to fit funder networks IHS supports. The DAO governance and fintech regulatory work Seth is co-authoring with Peter Gianiodis is in development as an IHS-sponsored project.
+
+For scholarly-programming conversations, contact: hoffarth@cua.edu or seth.oranburg@gmail.com.
 
 ## Convening, co-hosting, and joint research
 
