@@ -10,6 +10,8 @@ Drafts in development that grow out of the program's intellectual work. Working 
 
 ## Current
 
+Two papers are in submission; drafts are not in circulation.
+
 ### *Architects of the Void*
 
 A law-review essay arguing that the entrepreneurial lawyer is a sub-creator, not a gatekeeper and not a transaction-cost engineer. The essay reads the lawyer who counsels a founder before any entity exists, before any contract has parties, and before any offering has shares to issue as the architect of the institutional body in which the founder's animating purpose can act. The frame draws on Maimonides on the eight degrees of *tzedakah*, where partnership, loan, and employment that strengthen another's hand stand at the summit; on Aristotle on *phronesis* as the practical wisdom that governs action under genuine uncertainty; on Tolkien on sub-creation and the inner consistency of the secondary world; and on Robert Cover on the jurisgenerative function of law. The essay reads the lawyer's drafting work (the operating agreement, the term sheet, the charter, the vesting schedule, the protective provision) as constitution-making for a new polity rather than as friction reduction within an existing market. The imagined readers are business-law faculty rethinking the transactional curriculum, practitioners who recognize the gap between Gilson's transaction-cost engineer and the work they actually do at the formation stage, and Catholic-tradition scholars working at the intersection of *Laborem Exercens* and the firm. The essay is the program's most direct statement of what kind of lawyer the LEP curriculum is built to produce. *Status: in submission. Draft not circulated.*

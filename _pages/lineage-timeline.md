@@ -49,6 +49,8 @@ timeline
 
 ## Catholic tradition: figure notes
 
+Each figure below contributed a distinct move: from the dignity of work (Benedict), to the doctrinal distinction (Aquinas), to the commercial moral theology (Salamanca), to the modern social-encyclical arc (Leo XIII through Leo XIV).
+
 ### Saint Benedict (440-461)
 **Work:** Rule of Saint Benedict  
 **Key Concept:** *Ora et labora* (Prayer and Work)
@@ -144,8 +146,6 @@ Despite operating in different theological frameworks, both traditions reach the
 
 ## The year-theme as application
 
-### The Year-Theme: *Entrepreneurship v. Poverty*
-
 The program treats entrepreneurship as a contested terrain:
 
 **Argument 1:** Entrepreneurship is the answer to poverty  
@@ -159,6 +159,8 @@ The program treats entrepreneurship as a contested terrain:
 ---
 
 ## Further reading
+
+Primary and secondary sources for the traditions documented on this page.
 
 ### Primary Sources
 - Thomas Aquinas, *Summa Theologiae* II-II, Questions 78-79

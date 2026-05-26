@@ -35,6 +35,8 @@ graph LR
 
 ## Detailed framework comparison
 
+Both traditions share a starting commitment and a goal; the two frameworks below compare each from its own premises.
+
 ### Catholic framework
 **Starting Point:** *"Ora et labora"* (Prayer and Work)
 
@@ -77,9 +79,11 @@ graph LR
 
 ---
 
-### The Solution Both Propose
+### The shared solution
 
-#### Catholic: *Societas* (Partnership at Shared Risk)
+Each tradition arrives at partnership as the answer, through its own doctrinal path.
+
+#### Catholic: *societas* (partnership at shared risk)
 
 **Definition:** Two or more persons entering into partnership where:
 - All parties contribute capital, labor, or expertise
@@ -95,7 +99,7 @@ graph LR
 - Joint ventures with shared liability
 - Employee-owned businesses
 
-#### Jewish: *Shutafut* (Partnership with the Recipient)
+#### Jewish: *shutafut* (partnership with the recipient)
 
 **Definition:** The highest form of *tzedakah* where:
 - Helper enables recipient to create own livelihood
@@ -113,7 +117,7 @@ graph LR
 
 ---
 
-### Key Differences in Approach
+### Key differences
 
 | Dimension | Catholic | Jewish |
 |-----------|----------|--------|
@@ -126,7 +130,7 @@ graph LR
 
 ---
 
-### Key Similarities in Conclusion
+### Key convergences
 
 Both traditions agree:
 
@@ -154,6 +158,8 @@ Both traditions agree:
 
 ## The year-theme as application
 
+The program's inaugural year-theme runs the *societas*/*shutafut* framework through a contested empirical question.
+
 ### *Entrepreneurship v. Poverty*
 
 How do we know if an entrepreneurial venture is just or unjust?
@@ -173,7 +179,7 @@ How do we know if an entrepreneurial venture is just or unjust?
 - Does it create conditions for future generations?
 - Or does it depend on depleting resources/people?
 
-### Examples Through This Lens
+### Examples
 
 **Just: Employee-Owned Tech Cooperative**
 - ✓ Workers own equity (shared risk)
@@ -219,7 +225,9 @@ The LEP approach weaves both traditions together:
 
 ---
 
-## Further Reading
+## Further reading
+
+Primary and secondary sources for the traditions compared on this page.
 
 ### Primary Sources
 - Thomas Aquinas, *Summa Theologiae* II-II, Q. 78-79 on partnership (*societas*)
