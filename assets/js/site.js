@@ -49,3 +49,37 @@ function handleArticleKey(event, element) {
     toggleAbstract(element);
   }
 }
+
+// Catholic / Secular framing toggle on program pages
+(function () {
+  var tabs = document.querySelectorAll('.framing-tab');
+  if (!tabs.length) return;
+
+  function selectFraming(frame) {
+    document.querySelectorAll('.framing-tab').forEach(function (t) {
+      t.classList.toggle('active', t.dataset.frame === frame);
+      t.setAttribute('aria-selected', t.dataset.frame === frame ? 'true' : 'false');
+    });
+    document.querySelectorAll('.framing-content').forEach(function (c) {
+      if (c.dataset.frame === frame) {
+        c.removeAttribute('hidden');
+      } else {
+        c.setAttribute('hidden', '');
+      }
+    });
+    try { localStorage.setItem('lep-framing', frame); } catch (e) {}
+  }
+
+  // Restore preference; default to catholic
+  var saved = null;
+  try { saved = localStorage.getItem('lep-framing'); } catch (e) {}
+  if (saved === 'catholic' || saved === 'secular') {
+    selectFraming(saved);
+  }
+
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      selectFraming(tab.dataset.frame);
+    });
+  });
+})();

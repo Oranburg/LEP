@@ -1954,3 +1954,59 @@ details.embed[open] summary {
 .footer-coda p {
   margin: 0 0 0.6rem;
 }
+
+/* ==========================================================================
+   Framing Toggle (Catholic / Secular on program pages)
+   ========================================================================== */
+
+.framing-toggle {
+  display: flex;
+  gap: 0;
+  margin: var(--space-lg) 0 var(--space-xl);
+  border-bottom: 1px solid var(--border);
+}
+
+.framing-tab {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-bottom: none;
+  padding: 0.75rem 1.5rem;
+  cursor: pointer;
+  font-family: var(--font-headline);
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+  color: var(--muted);
+  transition: color 0.2s, background 0.2s;
+  margin-bottom: -1px;
+  border-top-left-radius: var(--radius-sm);
+  border-top-right-radius: var(--radius-sm);
+}
+
+.framing-tab + .framing-tab {
+  margin-left: var(--space-xs);
+}
+
+.framing-tab:hover,
+.framing-tab:focus-visible {
+  color: var(--accent);
+  background: var(--bg-secondary);
+}
+
+.framing-tab.active {
+  color: var(--text);
+  background: var(--bg);
+  border-bottom: 1px solid var(--bg);
+  font-weight: 500;
+}
+
+.framing-content[hidden] {
+  display: none;
+}
+
+.framing-note {
+  font-family: var(--font-accent);
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-style: italic;
+  margin: 0 0 var(--space-lg);
+}
