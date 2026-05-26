@@ -6,6 +6,8 @@ permalink: /press/
 
 # Press
 
+Media resources for journalists and editors covering Catholic legal education, entrepreneurship and poverty, or the program's intellectual frame.
+
 ## The program in one paragraph
 
 The Law and Entrepreneurship Program at the Catholic University of America Columbus School of Law is a small-cohort business-law program built around a clinic, a transactional simulation course, and the substantive intellectual frame of the *societas* tradition (the Catholic doctrine, going back to Aquinas, that capital deployed into a partnership at shared risk is the just form of business; the parallel Jewish *shutafut* doctrine in Maimonides reaches the same conclusion through independent reasoning). The program is operating now under founding Director Alexander Hoffarth; Seth Oranburg joins as co-director on August 20, 2026.

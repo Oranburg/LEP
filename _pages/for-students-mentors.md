@@ -8,7 +8,7 @@ permalink: /for-students/mentors/
 
 You want to give back, hire from the program, or otherwise engage. This page is short on purpose.
 
-## Mentor the program needs
+## The mentor pool
 
 The mentor pool is being built across Summer 2026 for the first AY 2026-27 cohort. Target categories:
 
@@ -22,7 +22,7 @@ The mentor pool is being built across Summer 2026 for the first AY 2026-27 cohor
 
 Existing CUA Law alumni in any of the categories above are particularly welcome.
 
-## What the program asks of a mentor
+## The commitment
 
 A minimum of two meetings per semester with a paired student. Format and venue are flexible: coffee, video call, walk-and-talk, working session, whatever fits. The program runs the pairing process so the match fits your practice and the student's direction.
 

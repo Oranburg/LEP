@@ -44,6 +44,8 @@ The toggle on each page lets a reader switch between the two without leaving the
 
 ## Other gift opportunities
 
+Three additional giving opportunities sit alongside the four named programs.
+
 ### The LEP Fellowship (student)
 
 A dedicated student fellowship that carries stipend support, conference travel, and research funding for a small number of cohort students per class. The Fellowship is in development. Gift opportunities range from named annual fellowships to endowed perpetual fellowships.

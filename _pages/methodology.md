@@ -14,7 +14,7 @@ The year-theme makes sharp claims about the addressable side of the distinction.
 
 The methodology is developed at length in the companion project *Equally Poor: Wealth, Inequality and Law in America*, which presents the longitudinal data and the policy case studies that ground the distinction. The book is in development.
 
-## Why the distinction matters for the program
+## The poverty-inequality distinction as the program's metric
 
 A program that conflates poverty with inequality cannot tell a useful story about entrepreneurship. If the metric is inequality, every successful venture (which by definition produces a wealthy founder and wealthy early investors) appears as an aggravation of the problem the program is supposed to solve. If the metric is poverty, the same successful venture can be evaluated on whether it produced productive work for people who would otherwise have lacked it, whether it built durable institutions, and whether it generated the kind of partnership the *societas* tradition treats as the just form of capital.
 
