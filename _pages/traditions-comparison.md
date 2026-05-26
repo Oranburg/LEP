@@ -13,7 +13,7 @@ Though using different theological frameworks and historical contexts, they arri
 
 ---
 
-## Side-by-Side Comparison
+## Side-by-side comparison
 
 ```mermaid
 graph LR
@@ -33,11 +33,9 @@ graph LR
 
 ---
 
-## Detailed Framework Comparison
+## Detailed framework comparison
 
-### Core Assumptions
-
-#### Catholic Framework
+### Catholic framework
 **Starting Point:** *"Ora et labora"* (Prayer and Work)
 
 - Work is a fundamental human activity, not punishment
@@ -47,7 +45,7 @@ graph LR
 
 **Goal:** Just structures that align incentives and respect dignity
 
-#### Jewish Framework
+### Jewish framework
 **Starting Point:** *"So that he may live with you"* (Leviticus 25:35)
 
 - The poor person is community, not charity case
@@ -59,7 +57,7 @@ graph LR
 
 ---
 
-### The Problem Both Identify
+### The shared diagnosis
 
 **Catholic Analysis (Aquinas):**
 - *Mutuum* (fixed-interest lending) is unjust because:
