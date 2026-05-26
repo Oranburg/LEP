@@ -214,6 +214,50 @@ window.addEventListener('afterprint', () => {
   document.body.classList.remove('printing');
 });
 
+// ========== Inline Term Tooltips ==========
+(function () {
+  const termTriggers = document.querySelectorAll('.term-tooltip');
+  if (!termTriggers.length) return;
+
+  const closeAllTooltips = (exceptTrigger) => {
+    termTriggers.forEach(trigger => {
+      if (exceptTrigger && trigger === exceptTrigger) return;
+      const popup = trigger.nextElementSibling;
+      if (!popup || !popup.classList.contains('term-tooltip-popup')) return;
+      trigger.setAttribute('aria-expanded', 'false');
+      popup.hidden = true;
+    });
+  };
+
+  termTriggers.forEach(trigger => {
+    const popup = trigger.nextElementSibling;
+    if (!popup || !popup.classList.contains('term-tooltip-popup')) return;
+
+    trigger.addEventListener('click', event => {
+      event.stopPropagation();
+      const isOpen = trigger.getAttribute('aria-expanded') === 'true';
+      closeAllTooltips(trigger);
+
+      if (!isOpen) {
+        trigger.setAttribute('aria-expanded', 'true');
+        popup.hidden = false;
+      }
+    });
+  });
+
+  document.addEventListener('click', event => {
+    if (!event.target.closest('.term-tooltip-wrapper')) {
+      closeAllTooltips();
+    }
+  });
+
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') {
+      closeAllTooltips();
+    }
+  });
+})();
+
 // ========== Console Message ==========
 console.log('%cLEP — Law and Entrepreneurship Program', 'font-size: 1.5rem; font-weight: bold; color: #6DACDE;');
 console.log('For more information, visit: https://oranburg.law/LEP');

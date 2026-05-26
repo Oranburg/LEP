@@ -1,0 +1,27 @@
+{% assign tooltip_status = include.status | default: 'frame' %}
+{% assign tooltip_term = include.term | default: include.text %}
+{% assign tooltip_definition = include.definition | default: '' %}
+
+<span class="term-tooltip-wrapper">
+  <button
+    type="button"
+    class="term-tooltip term-tooltip--{{ tooltip_status }}"
+    aria-expanded="false"
+    aria-haspopup="dialog"
+    aria-label="{{ tooltip_term }} (click for definition)"
+  >
+    {{ tooltip_term }}
+  </button>
+  <span class="term-tooltip-popup" role="tooltip" hidden>
+    <strong class="term-tooltip-title">{{ tooltip_term }}</strong>
+    {% if tooltip_status == 'violation' %}
+    <p class="term-tooltip-kind">Style alert: this wording may step outside the active frame or add unnecessary metaphor.</p>
+    {% endif %}
+    {% if tooltip_definition != '' %}
+    <p>{{ tooltip_definition }}</p>
+    {% endif %}
+    {% if include.context %}
+    <p class="term-tooltip-context">{{ include.context }}</p>
+    {% endif %}
+  </span>
+</span>

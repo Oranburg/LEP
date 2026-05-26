@@ -17,6 +17,12 @@ Site runs at http://localhost:4000/LEP/.
 
 Every image must have descriptive alt text. Headings must descend in order (no skipping levels). Layouts use semantic HTML (`<article>`, `<section>`, `<nav>`, `<main>`). A skip-link is included in default.html.
 
+## Inline term tooltips
+
+Use `{% raw %}{% include term-tooltip.html term="..." definition="..." %}{% endraw %}` to mark specialized terms with a faint dotted underline and click-to-toggle definition popup.
+
+Set `status="violation"` when the tooltip is a style alert (for terms that drift outside the active frame or introduce unnecessary metaphorical imagery).
+
 ## Contributing
 
 Pull requests welcome from named collaborators. Open an issue first to discuss scope.
