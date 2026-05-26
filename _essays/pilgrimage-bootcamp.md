@@ -12,11 +12,15 @@ budget: "budget developed for full Templeton proposal"
 
 # The Pilgrimage and the Bootcamp
 
+*This one-pager presents the program's summer formation track to Catholic and Templeton-adjacent funders. The same initiative is described to classical-liberal and policy-education funders in a parallel one-pager, [Field Immersion and Executive Institute](/LEP/essays/field-immersion-institute/). The intellectual structure both pieces draw on is set out in [The Three States of a Living Tradition](/LEP/essays/three-states/) and [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/). One program, two registers; the framing is editorial, not concealed.*
+
 ## The problem
 
 Formation in the tradition of practical wisdom does not happen by reading about it. The genealogy LEP claims runs Athens to Jerusalem to Rome to Washington: phronesis, chokhmat lev, prudentia, the constitutional art of governing a free people. To form students and practitioners in that tradition, the program must first encounter it where it still lives: in Athens, where the Socratic elenchus must be reclaimed from a philosophical past that modern democratic institutions have largely severed; in Jerusalem, where havruta has been practiced in voluntary institutions for two millennia without state infrastructure to carry it; in Rome, where disputatio has continued inside pontifical universities in unbroken institutional continuity. Knowing the lineage from a syllabus is not the same as having learned inside it.
 
 ## The intervention
+
+{% include figure.html name="callout-three-stations" alt="Three nodes labeled Athens (severed and reclaimed, elenchus), Jerusalem (continuous communal, havruta), Rome (continuous institutional, disputatio)." caption="The three stations the pilgrimage traces." %}
 
 Two integrated mechanisms, one for formation, one for stewardship.
 

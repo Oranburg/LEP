@@ -1,0 +1,12 @@
+%%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':60,'rankSpacing':70},'themeVariables':{'fontSize':'17px','fontFamily':'Georgia, serif'}}}%%
+flowchart LR
+  classDef catholic fill:#7B2D26,color:#FFFFFF,stroke:#4A1A14,stroke-width:2px
+  classDef jewish fill:#1E3A5F,color:#FFFFFF,stroke:#0F2235,stroke-width:2px
+  classDef convergence fill:#F5E9C2,color:#1A1A1A,stroke:#8A6A2A,stroke-width:3px
+
+  S["<i>societas</i><br/>Catholic"]:::catholic
+  H["<i>shutafut</i><br/>Jewish"]:::jewish
+  P(("Partnership<br/>at shared risk")):::convergence
+
+  S ==> P
+  H ==> P

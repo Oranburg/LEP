@@ -1,0 +1,21 @@
+%%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':45,'rankSpacing':65},'themeVariables':{'fontSize':'15px','fontFamily':'Georgia, serif'}}}%%
+flowchart TB
+  classDef provider fill:#1E3A5F,color:#FFFFFF,stroke:#0F2235,stroke-width:2px
+  classDef recipient fill:#5B5B3F,color:#FFFFFF,stroke:#3D3D2A,stroke-width:2px
+  classDef structure fill:#F5E9C2,color:#1A1A1A,stroke:#8A6A2A,stroke-width:2px
+  classDef venture fill:#8B6914,color:#FFFFFF,stroke:#5A4309,stroke-width:3px
+
+  PR["Capital provider"]:::provider
+  RE["Recipient / manager"]:::recipient
+
+  L["<b>Half as loan</b><br/><i>halva'ah</i><br/>recipient bears risk"]:::structure
+  D["<b>Half as deposit-at-risk</b><br/><i>piqadon</i><br/>provider bears risk"]:::structure
+
+  V["The venture<br/>combined capital invested<br/>profit and loss shared<br/>per the deed"]:::venture
+
+  PR --> L
+  PR --> D
+  L --> V
+  D --> V
+  V -.->|profit share<br/>from <i>piqadon</i> portion| PR
+  V -.->|profit share| RE

@@ -1,0 +1,13 @@
+%%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':40,'rankSpacing':80},'themeVariables':{'fontSize':'17px','fontFamily':'Georgia, serif'}}}%%
+flowchart TB
+  classDef catholic fill:#7B2D26,color:#FFFFFF,stroke:#4A1A14,stroke-width:2px
+  classDef terminal fill:#8B6914,color:#FFFFFF,stroke:#5A4309,stroke-width:3px
+
+  PC["Pontifical charter"]:::catholic
+  ECE["<i>Ex Corde Ecclesiae</i>"]:::catholic
+  NLT["Unbroken<br/>natural-law tradition"]:::catholic
+  CUA["CUA Columbus School of Law<br/>Law and Entrepreneurship Program"]:::terminal
+
+  PC ==> CUA
+  ECE ==> CUA
+  NLT ==> CUA
