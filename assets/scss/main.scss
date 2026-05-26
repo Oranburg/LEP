@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+// ============================================================================
+// Main stylesheet entry point
+// Loads design tokens first so shared Sass variables and mixins are available,
+// then applies a named layer order to keep the cascade predictable.
+// Breakpoints are standardized in _design-tokens.scss:
+// sm: 640px, md: 768px, lg: 1024px, xl: 1280px.
+// ============================================================================
+
+@layer tokens, base, layout, components, prose, forms, tables, media, footer, utilities, accessibility;
+
+@import 'design-tokens';
+
+@layer base {
+  @import 'base';
+}
+
+@layer layout {
+  @import 'layout';
+}
+
+@layer components {
+  @import 'components';
+}
+
+@layer prose {
+  @import 'prose';
+}
+
+@layer forms {
+  @import 'forms';
+}
+
+@layer tables {
+  @import 'tables';
+}
+
+@layer media {
+  @import 'media';
+}
+
+@layer footer {
+  @import 'footer';
+}
+
+@layer utilities {
+  @import 'utilities';
+}
+
+@layer accessibility {
+  @import 'accessibility';
+}
+
+@media (max-width: $breakpoint-xl) {
+  :root {
+    --content-gutter: var(--space-lg);
+  }
+}
+
+@media (max-width: $breakpoint-lg) {
+  :root {
+    --content-gutter: var(--space-md);
+  }
+}
+
+@media (max-width: $breakpoint-md) {
+  :root {
+    --content-gutter: var(--space-md);
+  }
+}
+
+@media (max-width: $breakpoint-sm) {
+  :root {
+    --content-gutter: var(--space-sm);
+  }
+}

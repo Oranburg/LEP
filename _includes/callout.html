@@ -1,0 +1,5 @@
+<!-- Callout/Alert Box -->
+<div class="callout callout--{{ include.type | default: 'info' }}">
+  {% if include.title %}<h4>{{ include.title }}</h4>{% endif %}
+  {{ include.content | default: include.text }}
+</div>

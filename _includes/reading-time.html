@@ -1,0 +1,8 @@
+<!-- Reading Time Estimate -->
+{% assign words = page.content | strip_html | number_of_words %}
+{% if words > 0 %}
+  {% assign reading_time = words | divided_by: 200 | plus: 1 %}
+  <span class="reading-time" aria-label="Estimated reading time">
+    <i>~{{ reading_time }} min read</i>
+  </span>
+{% endif %}
