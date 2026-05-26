@@ -1,0 +1,95 @@
+{%- comment -%}
+Pre-release access gate. Renders a SHA-256-checked password prompt and hides
+the page body until unlocked. Courtesy gate, not encryption — view-source
+can read the body. Use for pre-release essays where the bar is "don't
+casually share" not "keep secret."
+
+Activated by `gated: true` frontmatter on the page. Password hash is set in
+_config.yml as `gate_password_hash` (SHA-256 hex of the chosen password).
+
+The gate caches successful unlocks in sessionStorage so the reader doesn't
+re-enter the password as they navigate between gated pages in one session.
+{%- endcomment -%}
+<div id="lep-gate-prompt" class="lep-gate" role="dialog" aria-labelledby="lep-gate-title">
+  <div class="lep-gate__panel">
+    <h2 id="lep-gate-title">Pre-release essay</h2>
+    <p>This working paper is in pre-release and not yet for circulation. Enter the access key to read the draft. If you don't have one and would like to, email Seth at <a href="mailto:oranburg@cua.edu">oranburg@cua.edu</a>.</p>
+    <form id="lep-gate-form" autocomplete="off">
+      <label for="lep-gate-input" class="sr-only">Access key</label>
+      <input id="lep-gate-input" type="password" placeholder="Access key" autocomplete="off" required>
+      <button type="submit">Unlock</button>
+    </form>
+    <p id="lep-gate-error" class="lep-gate__error" hidden>That key does not match. Try again.</p>
+    <p class="lep-gate__note"><small>Courtesy gate. Not encryption. Please do not share.</small></p>
+  </div>
+</div>
+<div id="lep-gate-body" hidden>
+  {{ include.content }}
+</div>
+
+<style>
+  .lep-gate { display: flex; align-items: center; justify-content: center; min-height: 50vh; padding: 2rem 1rem; }
+  .lep-gate__panel { max-width: 28rem; padding: 1.5rem 1.75rem; border: 1px solid var(--og-ink-muted, #4A4A4A); border-radius: 0.25rem; background: var(--og-bg, #FFFFFF); font-family: var(--og-font-serif, Georgia, serif); }
+  .lep-gate__panel h2 { margin-top: 0; font-size: 1.25rem; }
+  .lep-gate__panel p { font-size: 0.95rem; line-height: 1.5; }
+  .lep-gate__panel form { display: flex; gap: 0.5rem; margin: 1rem 0 0.5rem; }
+  .lep-gate__panel input { flex: 1; padding: 0.5rem 0.6rem; font-family: inherit; font-size: 1rem; border: 1px solid var(--og-ink-muted, #4A4A4A); border-radius: 0.2rem; }
+  .lep-gate__panel button { padding: 0.5rem 1rem; font-family: inherit; font-size: 0.95rem; border: 1px solid var(--og-ink, #1A1A1A); background: var(--og-ink, #1A1A1A); color: var(--og-bg, #FFFFFF); border-radius: 0.2rem; cursor: pointer; }
+  .lep-gate__panel button:hover { opacity: 0.85; }
+  .lep-gate__error { color: #7B2D26; font-weight: 600; }
+  .lep-gate__note { color: var(--og-ink-muted, #4A4A4A); margin-top: 1rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+</style>
+
+<script>
+(function () {
+  var EXPECTED_HASH = {{ site.gate_password_hash | jsonify }};
+  var STORAGE_KEY = "lep-gate-unlocked";
+
+  function sha256Hex(str) {
+    var buf = new TextEncoder().encode(str);
+    return crypto.subtle.digest("SHA-256", buf).then(function (hashBuf) {
+      var bytes = new Uint8Array(hashBuf);
+      var hex = "";
+      for (var i = 0; i < bytes.length; i++) {
+        var b = bytes[i].toString(16);
+        hex += b.length === 1 ? "0" + b : b;
+      }
+      return hex;
+    });
+  }
+
+  function unlock() {
+    document.getElementById("lep-gate-prompt").hidden = true;
+    document.getElementById("lep-gate-body").hidden = false;
+  }
+
+  function ready(fn) {
+    if (document.readyState !== "loading") fn();
+    else document.addEventListener("DOMContentLoaded", fn);
+  }
+
+  ready(function () {
+    if (sessionStorage.getItem(STORAGE_KEY) === EXPECTED_HASH) {
+      unlock();
+      return;
+    }
+    var form = document.getElementById("lep-gate-form");
+    var input = document.getElementById("lep-gate-input");
+    var err = document.getElementById("lep-gate-error");
+    form.addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      sha256Hex(input.value).then(function (hex) {
+        if (hex === EXPECTED_HASH) {
+          sessionStorage.setItem(STORAGE_KEY, EXPECTED_HASH);
+          err.hidden = true;
+          unlock();
+        } else {
+          err.hidden = false;
+          input.select();
+        }
+      });
+    });
+  });
+})();
+</script>

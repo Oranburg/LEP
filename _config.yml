@@ -9,8 +9,20 @@ baseurl: "/LEP"
 
 permalink: /:title/
 
+# SHA-256 of the pre-release access key. Pages with `gated: true` in
+# frontmatter hide their body until a visitor enters the key that hashes to
+# this value. Courtesy gate, not encryption — see _includes/access-gate.html.
+# Current key: lep-2026-may
+gate_password_hash: "01f77d850df0564be60ae9f79698ad50acb2790e55fe887637c285a3e46eb622"
+
+collections:
+  essays:
+    output: true
+    permalink: /essays/:slug/
+
 include:
   - _pages
+  - _essays
 
 markdown: kramdown
 kramdown:
@@ -52,6 +64,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "essays"
+    values:
+      layout: "page"
 
 exclude:
   - Gemfile
