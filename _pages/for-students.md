@@ -29,8 +29,8 @@ The page you need depends on where you are.
 
 ## Deeper references
 
-- [Frequently asked questions]({{ '/for-students/faq/' | relative_url }}) — about thirty-five questions drawn from a student focus group, organized into nine themed sections
-- [Glossary]({{ '/glossary/' | relative_url }}) — the Latin and Hebrew terms that appear on the intellectual-frame pages, in plain English
+- [Frequently asked questions]({{ '/for-students/faq/' | relative_url }}): about thirty-five questions drawn from a student focus group, organized into nine themed sections
+- [Glossary]({{ '/glossary/' | relative_url }}): the Latin and Hebrew terms that appear on the intellectual-frame pages, in plain English
 
 ## Program status, May 2026
 

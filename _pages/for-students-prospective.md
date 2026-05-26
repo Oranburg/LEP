@@ -25,7 +25,7 @@ The honest comparison set is not Stanford, Harvard, or Georgetown. The honest co
 | Case Western | 100 | 55 |
 | CUA Columbus | 70 | 92 |
 
-The program's wager is that Washington taken seriously, plus the Catholic intellectual tradition treated as substantive doctrine, plus a small cohort with real mentorship and a real clinic, will produce a better path to transactional, regulatory, and entrepreneurial practice than the schools you are weighing against. The wager is being tested now.
+The program's wager is that Washington taken seriously, plus the Catholic intellectual tradition treated as substantive doctrine, plus a small cohort with genuine mentorship and a working clinic, will produce a better path to transactional, regulatory, and entrepreneurial practice than the schools you are weighing against. The wager is being tested now.
 
 ## What you actually get
 
@@ -70,7 +70,7 @@ See the [Frequently Asked Questions]({{ '/for-students/faq/' | relative_url }}#t
 ## How to engage with us before you deposit
 
 1. **Email the program directors** at hoffarth@cua.edu with a brief note about your interests and what you are weighing.
-2. **Read the [Frequently Asked Questions]({{ '/for-students/faq/' | relative_url }})** — about thirty-five questions drawn from a student focus group, organized into nine themed sections.
+2. **Read the [Frequently Asked Questions]({{ '/for-students/faq/' | relative_url }})**: about thirty-five questions drawn from a student focus group, organized into nine themed sections.
 3. **Apply to CUA Columbus School of Law** through the regular admissions process. There is no separate LEP application; you self-identify your interest.
 4. **If you want to talk to a current LEP-aligned CUA student**, ask the directors to put you in touch.
 
