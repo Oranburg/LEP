@@ -1,9 +1,9 @@
 ---
 slug: pilgrimage-bootcamp
 gated: true
-excerpt: "Formation in the tradition of practical wisdom requires traveling to where it lives. The pilgrimage traces Athens to Jerusalem to Rome to Washington as learners, not observers, then brings the method back."
+excerpt: "A summer student cohort traces Athens, Jerusalem, and Rome under practitioners who teach the formation methods, then returns for a Business Boot Camp that puts the formation against live transactional work."
 title: "The Pilgrimage and the Bootcamp"
-program: Pilgrimage and Bootcamp (Catholic framing)
+program: Pilgrimage and Bootcamp (LEP student formation track)
 date: 2026-05-26
 authors: Seth Oranburg and Alexander Hoffarth
 audience: Templeton, Bradley, Catholic foundations
@@ -12,49 +12,49 @@ budget: "budget developed for full Templeton proposal"
 
 # The Pilgrimage and the Bootcamp
 
-*This one-pager presents the program's summer formation track to Catholic and Templeton-adjacent funders. The same initiative is described to classical-liberal and policy-education funders in a parallel one-pager, [Field Immersion and Executive Institute](/LEP/essays/field-immersion-institute/). The intellectual structure both pieces draw on is set out in [The Three States of a Living Tradition](/LEP/essays/three-states/) and [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/). One program, two registers; the framing is editorial, not concealed.*
+*The student formation arm of the Program's flagship summer. The faculty research and executive education arm is described separately in [Field Immersion and Executive Institute](/LEP/essays/field-immersion-institute/). The two arms share infrastructure and the three-station genealogy but address different audiences, generate different deliverables, and require different funders. The intellectual structure both draw on is set out in [The Three States of a Living Tradition](/LEP/essays/three-states/) and [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/).*
 
 ## The problem
 
-Formation in the tradition of practical wisdom does not happen by reading about it. The genealogy LEP claims runs Athens to Jerusalem to Rome to Washington: phronesis, ḥokhmat lev, prudentia, the constitutional art of governing a free people. To form students and practitioners in that tradition, the program must first encounter it where it still lives: in Athens, where the Socratic elenchus must be reclaimed from a philosophical past that modern democratic institutions have largely severed; in Jerusalem, where ḥavruta has been practiced in voluntary institutions for two millennia without state infrastructure to carry it; in Rome, where disputatio has continued inside pontifical universities in unbroken institutional continuity. Knowing the lineage from a syllabus is not the same as having learned inside it.
+A doctrinal legal education that ends in the seminar produces a lawyer who has read about practical wisdom but has not been formed in it. The genealogy of practical wisdom in the West passes through three classical formation stations: Athens (elenchus, *phronesis*), Jerusalem (ḥavruta, *ḥokhmat lev*), and Rome (disputatio, *prudentia*). Each station preserved a method of forming judgment, and each method survives today inside specific institutions that still practice it. A cohort of law students sitting in Washington can read about these methods. They cannot, by reading alone, be formed in them. Formation requires sustained encounter with practitioners who have never stopped using the method, in the settings where the method still works.
 
 ## The intervention
 
-{% include figure.html name="callout-three-stations" alt="Three nodes labeled Athens (severed and reclaimed, elenchus), Jerusalem (continuous communal, ḥavruta), Rome (continuous institutional, disputatio)." caption="The three stations the pilgrimage traces." %}
+{% include figure.html name="callout-three-stations" alt="Three nodes labeled Athens (severed and reclaimed, elenchus), Jerusalem (continuous communal, ḥavruta), Rome (continuous institutional, disputatio)." caption="The three classical formation stations the cohort traces in sequence." %}
 
-Two integrated mechanisms, one for formation, one for stewardship.
+A summer formation track for the inaugural LEP student cohort, with two integrated phases.
 
-The first is a founding-cohort pilgrimage. A small inaugural cohort of LEP students, faculty, and practitioners traces the program's intellectual genealogy in sequence: Athens (Socratic elenchus as recovered wisdom); Jerusalem (ḥavruta as voluntarily-sustained tradition); Rome (disputatio as institutionally-transmitted practice). The co-investigators travel as learners first, studying each method under practitioners who have never stopped using it. DC functions as the home station, where the formation is brought into contact with the legal and regulatory questions the program is built to answer. The pilgrimage seeds the community of formation that every subsequent cohort will grow into.
+**Phase one: the pilgrimage.** A three-week cohort residency across the three formation stations. Twelve to twenty cohort students plus six practitioner-mentors and two LEP faculty travel together. At Athens the cohort works with classical-philosophy faculty on the Socratic elenchus and the conditions of its modern reconstruction. At Jerusalem the cohort sits in ḥavruta with yeshiva practitioners who teach the practice as living method, not historical artifact. At Rome the cohort participates in disputation at one of the pontifical universities (the Angelicum or the Gregorian) under instructors whose teaching authority is the unbroken inheritance of the medieval studium generale. The cohort travels as learners, not observers. They are graded inside each tradition's own criteria of competence; they leave each station with documented evidence of having been formed by the method, not merely exposed to it.
 
-The second is an executive bootcamp modeled on the George Mason Law and Economics Center. A short, intensive summer institute for business executives, in-house counsel, and senior practitioners brings the program's substantive commitments (judgment, stewardship, the law as a carrier of formed practical wisdom) to the people already responsible for the decisions that shape institutions. The LEC precedent is directly applicable: one discipline encountering another's tradition as a source of wisdom rather than as a service function. The bootcamp is a dissemination channel, a revenue source, and a visible sign of institutional seriousness.
+**Phase two: the Boot Camp.** A two-week intensive residency in Washington at the close of the summer, on the CUA campus. The formed cohort is brought into contact with substantive business-law content under live constraint. A Series Seed term sheet is read against the *societas* / *mutuum* distinction; a comment letter is drafted on an actual rulemaking docket; a transactional simulation runs from term sheet to closing; an SEC open meeting is attended together. The cohort writes a redacted document portfolio that each member takes into 2L recruitment. The Boot Camp is the deployment side of the pilgrimage: the moment at which the formation done abroad encounters the work the cohort will be paid to do.
 
 ## Deliverables
 
-1. A founding-cohort pilgrimage to Athens, Jerusalem, Rome, and DC, with documented learning outcomes and a published record of the formation experience.
-2. A pilgrimage design document replicable by subsequent cohorts, with host partnerships confirmed at each station.
-3. An inaugural executive bootcamp (three to five days, summer 2028), with curriculum, enrolled participants, and published materials.
-4. A recurring bootcamp schedule by AY 2028-29, generating partial program self-sufficiency.
-5. A pedagogy paper documenting the pilgrimage model for replication at other institutions.
+1. A formed inaugural cohort of twelve to twenty students with documented evidence of formation at each station.
+2. A redacted document portfolio per cohort member: formation package, founder agreement, term-sheet read, comment letter, regulatory analysis, transactional simulation closing memo.
+3. A pilgrimage curriculum that subsequent LEP cohorts will follow, with confirmed host institutions at each station.
+4. A cohort identification on the resumes of program graduates and a continuing alumni network committed to mentoring the cohorts that follow.
+5. A short documentary record of the inaugural pilgrimage that the Program publishes to recruit subsequent cohorts.
 
 ## Timeline
 
-**Year 1 (AY 2026-27):** Confirm host partnerships in Athens, Jerusalem, and Rome. Design pilgrimage curriculum. Draft bootcamp structure and recruit inaugural faculty.
+**Year 1 (AY 2026-27):** Confirm host partnerships at the three stations. Recruit practitioner-mentors. Design the Boot Camp curriculum against the program's substantive doctrinal frame.
 
-**Year 2 (AY 2027-28):** Co-investigator immersion. First founding-cohort pilgrimage. Bootcamp curriculum finalized.
+**Year 2 (AY 2027-28):** Inaugural pilgrimage (June and July 2027). Inaugural Boot Camp (August 2027). Cohort enters 2L year with the document portfolio in hand for fall recruiting.
 
-**Year 3 (AY 2028-29):** Inaugural executive bootcamp. Pilgrimage model documented and published. Bootcamp recurses with Year 2 cohort.
+**Year 3 (AY 2028-29):** Second cohort pilgrimage and Boot Camp. Curriculum refinement based on first-cohort experience. First documentary record published.
 
 ## Budget
 
-Budget developed for full Templeton proposal. The pilgrimage component (two co-investigators, founding-cohort travel, host honoraria, documentation, research assistant) falls within the $250,000 to $450,000 range identified in program planning for a single twelve-month immersion year. The executive bootcamp carries its own revenue model; net cost to the grant is estimated to be modest after participant fees. Full budget table will accompany the formal proposal.
+Budget developed for full Templeton proposal. Per-cohort cost (twenty students, six practitioner-mentors, two faculty, three-week travel plus two-week Boot Camp, host honoraria, documentation) falls within the $300,000 to $500,000 range. The Boot Camp portion has a tuition revenue model offset because participants pay or are sponsored by their summer employers. Full budget table accompanies the formal proposal.
 
 ## Metrics
 
-Pilgrimage cohort size and completion. Host partnerships confirmed at all three stations. Bootcamp enrollment, participant seniority, and post-bootcamp practitioner engagement with LEP programming. Pedagogy paper submitted for publication. Annual report to the funder.
+Cohort completion rate. Host partnerships confirmed at each station. Document portfolio quality (assessed by mentor panel). 2L recruiting outcomes for cohort members against a comparable non-cohort control. Alumni mentor commitments to subsequent cohorts. The program treats sustained alumni engagement as the long-term metric: a pilgrimage that does not seed a continuing community has produced a trip, not a formation.
 
 ## Why this funder
 
-The founding-cohort pilgrimage is the program's most distinctively Catholic mechanism: it physically traces the genealogy of practical wisdom through the institutions that have carried it, treats that act of tracing as itself a formation method, and seeds a community formed by the tradition rather than merely informed about it. The executive bootcamp answers the stewardship question Catholic social teaching poses at the level of institutions: lawyers and executives who are responsible for decisions that shape how organizations treat workers, partners, and communities need formation, not only information. Both mechanisms belong at CUA, the only American university with a pontifical charter and an unbroken claim on the natural law tradition from which this genealogy descends.
+The pilgrimage is the program's most distinctively Catholic mechanism. It treats the act of physically tracing the genealogy as itself a formation method, in the way the medieval pilgrimage tradition treated travel through specific places as constitutive of the spiritual practice the places served. The Rome station carries the disputation in unbroken institutional continuity from the medieval cathedral schools, and the cohort that has sat in disputation at the Angelicum or the Gregorian has been formed inside the tradition that produced the conception of practical wisdom the Program teaches. The Boot Camp brings the formation back into the work the program is built to prepare lawyers for. Catholic and Templeton-adjacent foundations support both halves naturally: the formation is in the tradition's vocabulary, and the application is in the world that tradition has always claimed responsibility for.
 
 ## Contact
 

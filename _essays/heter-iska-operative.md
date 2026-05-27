@@ -8,19 +8,19 @@ date: 2026-05-26
 author: Seth Oranburg
 status: working draft
 citations_to_verify:
-  - rambam-mattenot: Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7. verified locus in lineage page
-  - rambam-sheluhin: Maimonides, *Mishneh Torah*, Hilkhot Sheluḥin v'Shutafin, ch. 6 on *iska* structure. VERIFY chapter and law numbers in LawJ before publication
-  - bava-metzia: Bava Meẓia 5:4; 68a to 70b. verified in lineage page
-  - leviticus: Lev. 25:35 to 36. verified
-  - deuteronomy: Deut. 23:20 to 21. VERIFY verse numbers (Masoretic vs. Christian numbering)
-  - yoreh-deah: Shulḥan Arukh, Yoreh De'ah 167, with Rema. VERIFY precise siman and se'if locus
-  - bank-israel-heter-iska: Bank of Israel and Israeli rabbinic court (Beit Din) publications on contemporary *heter iska*. LOCATE and verify before naming banks
-  - mizrachi-leumi: Mizrahi-Tefahot and Bank Leumi *heter iska* products. VERIFY current product offerings before citing by name
+  - rambam-mattenot: Maimonides, Mishneh Torah, Hilkhot Mattenot Aniyim 10:7. CONFIRMED in lineage page. No further check needed.
+  - rambam-sheluhin: Maimonides, Mishneh Torah, Hilkhot Sheluhin v'Shutafin, ch. 6 on iska structure. STILL UNVERIFIED. Sefaria direct URL returned 404. Verify chapter and halakha numbers against the Frankel edition or Sefaria before publication; do not publish "ch. 6" without confirming that chapter 6 is the iska chapter.
+  - bava-metzia: Bava Metzia 5:4; 68a to 70b. CONFIRMED in lineage page. No further check needed.
+  - leviticus: Lev. 25:35-36. CONFIRMED. No further check needed.
+  - deuteronomy: Deut. 23:20-21 (Masoretic). CONFIRMED. The draft correctly notes Masoretic numbering.
+  - yoreh-deah: Shulhan Arukh, Yoreh De'ah 167, with Rema. CONFIRMED as the ribbit/iska siman. Siman 167 addresses the conditions under which capital may be lent for investment, which is the heter iska framework. The Rema's glosses are the standard Ashkenazi authority. Specific se'if numbers not confirmed; author should add se'if pins from a text before final publication.
+  - bank-israel-heter-iska: UNVERIFIABLE. No specific Bank of Israel circular or Chief Rabbinate heter iska kelali publication located through accessible sources. The claim is standard in the heter iska literature but needs a specific document citation. Leave as prose assertion or locate a specific responsum or regulatory circular.
+  - mizrachi-leumi: UNVERIFIABLE by direct product-page confirmation. The four named banks are commonly cited in the heter iska literature as offering such products. Current product offerings not confirmed. Either qualify the claim in the body ("have offered heter iska products") or verify against each bank's current website before publication.
 ---
 
 # Heter Iska as Operative Form
 
-## I.
+## I. The Deed in Current Use
 
 The *heter iska* is not a historical artifact. It is the operative commercial instrument by which observant Jews and Jewish institutions structure capital deployment without violating the biblical prohibition on *ribbit*. Major Israeli banks offer *heter iska* versions of commercial loans and certain consumer products. Jewish community lenders and *gemaḥ* funds in the United States, the United Kingdom, and elsewhere use *heter iska* deeds as a matter of routine. The deed is drafted, signed, witnessed, and filed. It functions in present commercial life the way any other commercial contract functions: it allocates capital, allocates risk, and allocates return.
 

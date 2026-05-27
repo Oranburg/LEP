@@ -29,7 +29,7 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 ## Institutional briefs
 
 ### [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/)
-*Pre-release.* Athens, Jerusalem, and Rome formed the methods of practical wisdom. Washington is the fourth station, where those methods meet the live constraint of the federal regulatory state and the encounter is itself a formation site.
+*Pre-release.* Athens, Jerusalem, and Rome formed the methods of practical wisdom. Washington is the deployment site where the methods meet the live constraint of the federal regulatory state, and the encounter is what completes the formation.
 
 ### [CUA as Home](/LEP/essays/cua-as-home/)
 *Pre-release.* Three structural facts make LEP possible at CUA and impossible anywhere else: the pontifical charter, the *Ex Corde Ecclesiae* mission, and an unbroken natural-law tradition no other American law school holds.
