@@ -149,7 +149,7 @@ graph TD
 
 ### The halakhic mechanism
 
-The eight-rung doctrine is not abstract ethics. It is operationalized in Jewish commercial law through the *iska* (עִסְקָא) structure developed in the Talmud and formalized in the medieval *heter iska* contract. Capital is deployed half as loan and half as deposit-at-risk, which lets a return follow shared risk rather than fixed interest. The mechanism is the practical-law cousin of the highest rung.
+The eight-rung doctrine is not abstract ethics. It is carried out in Jewish commercial law through the *iska* (עִסְקָא) structure developed in the Talmud and formalized in the medieval *heter iska* contract. Capital is deployed half as loan and half as deposit-at-risk, which lets a return follow shared risk rather than fixed interest. The mechanism is the practical-law cousin of the highest rung.
 
 <div class="mermaid" markdown="0">
 %%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':40,'rankSpacing':60},'themeVariables':{'fontSize':'16px','fontFamily':'Georgia, serif'}}}%%

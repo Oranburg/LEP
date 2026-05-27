@@ -16,7 +16,7 @@ These terms come up on the program's intellectual-frame pages ([Lineage]({{ '/li
 
 ***Ẓedakah*** *(צְדָקָה, Hebrew).* Justice-and-charity. The Hebrew term has no English equivalent; it carries both meanings without separating them. The point is that what English calls "charity" Hebrew treats as a matter of justice.
 
-***Iska*** *(עִסְקָא, Aramaic).* The Talmudic half-loan, half-deposit commercial partnership structure that lets Jewish commercial law treat capital deployment as partnership rather than as interest-bearing debt. Developed in Bava Meẓia. The mechanism that operationalizes the highest rung in actual commercial life.
+***Iska*** *(עִסְקָא, Aramaic).* The Talmudic half-loan, half-deposit commercial partnership structure that lets Jewish commercial law treat capital deployment as partnership rather than as interest-bearing debt. Developed in Bava Meẓia. The mechanism that carries the highest rung into actual commercial life.
 
 ***Heter iska*** *(Hebrew + Aramaic).* The medieval and modern legal instrument that formally structures business arrangements as *iska* partnerships to satisfy the Jewish-law prohibition on interest. Still used today.
 

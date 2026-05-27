@@ -41,7 +41,7 @@ The program's wager is that Washington taken seriously, plus the Catholic intell
 
 **A curated curriculum.** The substantive business law electives (Business Associations, Securities Regulation, M&A, Tax, Antitrust, Bankruptcy, Banking Law) are taught by CUA Law's existing faculty and open to all students. LEP cohort members get sequencing recommendations and faculty advising on which courses to take in which order.
 
-**A Washington advantage actually used.** The federal regulatory state is where business law is being written: SEC, CFTC, FDIC, OCC, FTC, DOJ Antitrust, IRS, CFPB, FCC. The fintech and digital-asset bar runs through DC. K Street is two metro stops away. The program's practitioner network gives access to specific opportunities outside the standard externship office's relationships.
+**A Washington advantage actually used.** The federal regulatory state is where business law is being written: SEC, CFTC, FDIC, OCC, FTC, DOJ Antitrust, IRS, CFPB, FCC. The fintech and digital-asset bar is centered in DC. K Street is two metro stops away. The program's practitioner network gives access to specific opportunities outside the standard externship office's relationships.
 
 **Conference funding.** Working target: up to one thousand dollars per cohort student per year for one conference relevant to the program.
 

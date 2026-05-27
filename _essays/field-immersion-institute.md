@@ -1,7 +1,7 @@
 ---
 slug: field-immersion-institute
 gated: true
-excerpt: "The secular framing of the same summer formation track. Funder-facing one-pager."
+excerpt: "No professional school has studied Athens, Jerusalem, and Rome as a set of surviving pedagogical traditions. This track sends co-investigators in as learners, generates primary evidence, and brings it back to DC."
 title: "Field Immersion and Executive Institute"
 program: Field Immersion and Executive Institute (secular framing)
 date: 2026-05-26

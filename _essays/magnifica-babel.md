@@ -18,11 +18,9 @@ citations_to_verify:
 
 # Magnifica Humanitas and the Babel Question
 
-## Opening
+Pope Leo XIV's *Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence*, given at Rome on 15 May 2026, takes Babel and Nehemia as the governing biblical images for the AI age. The opposition is not decorative. It is the most precise doctrinal frame the Church has yet produced for the question of who shares in the upside of an AI venture. The encyclical reads the present industrial moment between two opposed Old Testament structures, names the configuration each represents in commercial life, and applies the older *societas* / *mutuum* distinction to the new technology.
 
-Pope Leo XIV's *Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence*, given at Rome on 15 May 2026, takes Babel and Nehemia as the governing biblical images for the AI age. The opposition is not decorative. It is the most precise doctrinal frame the Church has yet produced for the question of who shares in the upside of an AI venture. The encyclical reads the present industrial moment between two opposed Old Testament structures, names the configuration each represents in commercial life, and applies the older *societas* / *mutuum* distinction to the new technology. The argument that follows works the opposition through in three moves: Babel as the platform structure, Nehemia as the partnership structure, and what Leo XIV is doing when he sets the two against each other. Three contemporary cases test the frame. Two short closing sections name the encyclical's demand on business law and the convergence with the pedagogical question treated in [AI as Ḥavruta](/LEP/essays/ai-as-havruta/).
-
-The claim to be argued is simple. The Babel arrangement and the Nehemian arrangement are not metaphors for AI commerce. They are the two structures AI commerce can actually take. The first one is taken by default. The second one has to be drafted.
+The Babel arrangement and the Nehemian arrangement are not metaphors for AI commerce. They are the two structures AI commerce can actually take. The first one is taken by default. The second one has to be drafted.
 
 ## I. Babel as the platform structure
 
@@ -62,7 +60,7 @@ The doctrinal move is identical to the *societas* / *mutuum* distinction Aquinas
 <figcaption>The Babel and Nehemia configurations as Leo XIV uses them in <i>Magnifica Humanitas</i>. The same test that distinguishes <i>societas</i> from <i>mutuum</i> in a commercial deed distinguishes Nehemia from Babel in a platform's documents.</figcaption>
 </figure>
 
-The encyclical's § 7 sets the frame. § 67 brings the new forms of property, the algorithm, the platform, and the dataset, under the principle of the universal destination of goods. § 163 names the insufficiency of the invisible hand for the AI age, restating the *Centesimus Annus* claim that market coordination is not a moral substitute for moral reasoning. § 173 names the hidden labor chain, the annotators and content moderators and mineral extractors whose work the apparent automation depends on. § 178 names data colonialism, the extraction of value from populations whose data is collected without informed participation in the upside. Read together, the five paragraphs operationalize the Babel and Nehemia framing across the structural points where an AI venture's documents do their work.
+The encyclical's § 7 sets the frame. § 67 brings the new forms of property, the algorithm, the platform, and the dataset, under the principle of the universal destination of goods. § 163 names the insufficiency of the invisible hand for the AI age, restating the *Centesimus Annus* claim that market coordination is not a moral substitute for moral reasoning. § 173 names the hidden labor chain, the annotators and content moderators and mineral extractors whose work the apparent automation depends on. § 178 names data colonialism, the extraction of value from populations whose data is collected without informed participation in the upside. Read together, the five paragraphs apply the Babel and Nehemia framing across the structural points where an AI venture's documents do their work.
 
 ## IV. The Babel question applied
 
@@ -78,9 +76,9 @@ Three contemporary configurations illustrate what the test produces in practice.
 
 Leo XIV's § 67 brings algorithms, platforms, and data under the universal destination of goods. The principle is old; its application to these forms is new. The application is that ownership of these new forms is not a matter of indifference. A platform that concentrates the residual at the top while consuming the labor of contributors at the bottom is a form of property that fails the doctrine, and the documents that constitute it are documents that constitute a moral configuration as well as a commercial one.
 
-§ 163 names the insufficiency of the invisible hand. The implication for transactional practice is direct. The lawyer who treats market coordination as a substitute for moral reasoning produces deals that work in the short term and fail in the long term. The deals fail not because they violate a rule of law but because they constitute arrangements the underlying anatomy cannot sustain. The terms of service that capture all of the residual; the data-collection consent flow that returns no share of the value generated; the worker-classification structure that strips portable claims from the contributors who built the platform; these are clauses the encyclical reads under the *societas* / *mutuum* test and names accordingly.
+§ 163 names the insufficiency of the invisible hand. The lawyer who treats market coordination as a substitute for moral reasoning produces deals that work in the short term and fail in the long term. The deals fail not because they violate a rule of law but because they constitute arrangements the underlying anatomy cannot sustain. The terms of service that capture all of the residual; the data-collection consent flow that returns no share of the value generated; the worker-classification structure that strips portable claims from the contributors who built the platform; these are clauses the encyclical reads under the *societas* / *mutuum* test and names accordingly.
 
-The implication for the lawyer is concrete. How a venture's documents treat data ownership, algorithm licensing, platform-access provisions, training-data rights, and contributor compensation matters morally and not only commercially. The lawyer who drafts these clauses without the doctrinal vocabulary is not drafting in a neutral register. She is drafting Babel by default, because the default contractual furniture supplied by the standard AI-platform stack is Babel furniture. The Nehemian alternative requires deliberate drafting against the default. It requires the lawyer to know that the default exists, to know what it constitutes, and to know what the alternatives look like in built form.
+How a venture's documents treat data ownership, algorithm licensing, platform-access provisions, training-data rights, and contributor compensation matters morally and not only commercially. The lawyer who drafts these clauses without the doctrinal vocabulary is not drafting in a neutral register. She is drafting Babel by default, because the default contractual furniture supplied by the standard AI-platform stack is Babel furniture. The Nehemian alternative requires deliberate drafting against the default. It requires the lawyer to know that the default exists, to know what it constitutes, and to know what the alternatives look like in built form.
 
 ## VI. The ḥavruta question, briefly
 
@@ -95,8 +93,6 @@ Babel scattered the workers because the project was not theirs. Nehemia held the
 The doctrine holds when the residual sits with the parties that bore the risk. It fails when the residual sits with the party that gathered the capital while the labor and the data were given by others. The test is older than the technology. It is older than the corporation. It is older than the joint-stock form. It is older than usury law. It is as old as the wall of Jerusalem and the tower at Shinar, and the encyclical's contribution is to insist that the age of the question does not exempt the present generation of lawyers from answering it.
 
 The instruments are new. The doctrine is not. The drafting is the work.
-
----
 
 [Doctrinal lineage]({{ '/lineage/' | relative_url }})
 

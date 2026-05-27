@@ -7,7 +7,7 @@ description: "Working papers, essays, and short briefs developing the intellectu
 
 # Essays and Working Papers
 
-These pieces develop the intellectual identity of the Law and Entrepreneurship Program: the doctrinal lineage that supports it, the institutional setting it grows in, and the cluster of arguments about formation, work, and the firm that gives the Program its shape. Items marked *Pre-release* are working drafts available behind a courtesy access key; email Seth at <a href="mailto:oranburg@cua.edu">oranburg@cua.edu</a> to request one. Public pieces are linked at the bottom.
+These pieces develop the intellectual identity of the Law and Entrepreneurship Program: the doctrinal lineage that supports it, the institutional setting it grows in, and the cluster of arguments about formation, work, and the firm that gives the Program its shape. Items marked *Pre-release* are working drafts available behind a courtesy access key; email Seth at <a href="mailto:seth.oranburg@gmail.com">seth.oranburg@gmail.com</a> to request one. Public pieces are linked at the bottom.
 
 ## Working papers
 
@@ -21,7 +21,7 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 *Pre-release.* Every deal makes private law. The transactional lawyer at the founding moment is a Coverian jurisgenerator, and what the deskilling loop forecloses in this profession is precisely the act of legal creation that defines it.
 
 ### [Heter Iska as Operative Form](/LEP/essays/heter-iska-operative/)
-*Pre-release.* The *heter iska* is not a historical curiosity. It is the live halakhic deed by which observant Jewish commercial life structures capital deployment as partnership at shared risk, used in Israeli banking today and operating on the same doctrinal commitment the lineage page traces from Leviticus through Maimonides.
+*Pre-release.* The *heter iska* is the live halakhic deed by which observant Jewish commercial life structures capital deployment as partnership at shared risk, used in Israeli banking today and carrying the same doctrinal commitment the lineage page traces from Leviticus through Maimonides.
 
 ### [Magnifica Humanitas and the Babel Question](/LEP/essays/magnifica-babel/)
 *Pre-release.* Leo XIV's 2026 encyclical takes Babel and Nehemia as opposed AI-venture structures. The opposition applies the older *societas* / *mutuum* test to compute, data, and platform equity, and shows where the lawyer drafts Babel by default.
@@ -29,21 +29,21 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 ## Institutional briefs
 
 ### [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/)
-*Pre-release.* The genealogy of practical wisdom has four stations, not three. Athens, Jerusalem, and Rome formed the method. Washington is where the inherited methods meet the live constraint of the federal regulatory state, and the encounter is itself a formation site.
+*Pre-release.* Athens, Jerusalem, and Rome formed the methods of practical wisdom. Washington is the fourth station, where those methods meet the live constraint of the federal regulatory state and the encounter is itself a formation site.
 
 ### [CUA as Home](/LEP/essays/cua-as-home/)
 *Pre-release.* Three structural facts make LEP possible at CUA and impossible anywhere else: the pontifical charter, the *Ex Corde Ecclesiae* mission, and an unbroken natural-law tradition no other American law school holds.
 
 ### [AI as Ḥavruta](/LEP/essays/ai-as-havruta/)
-*Pre-release.* AI deskills by default because it is deployed oracularly. Configured as a ḥavruta partner that resists rather than confirms, it can form judgment instead. The prompt is the pedagogy.
+*Pre-release.* AI deskills by default because it is deployed oracularly. Configured as a ḥavruta partner that presses the learner to hold a position under pressure, it forms judgment. The prompt is the pedagogy.
 
 ## Program one-pagers
 
 ### [Pilgrimage and Bootcamp](/LEP/essays/pilgrimage-bootcamp/)
-*Pre-release.* Physically tracing the Athens/Jerusalem/Rome genealogy is itself a formation method. This is the Catholic framing of LEP's summer track, funder-facing, built around pilgrimage as pedagogy rather than study tour.
+*Pre-release.* Formation in the tradition of practical wisdom requires traveling to where it lives. The pilgrimage traces the program's genealogy in sequence, as learners under practitioners who have never stopped teaching it, then brings the method back to Washington.
 
 ### [Field Immersion and Executive Institute](/LEP/essays/field-immersion-institute/)
-*Pre-release.* The secular framing of the same track, built around fieldwork on three living pedagogical traditions as primary research, not a study tour, paired with an executive institute on the George Mason LEC model.
+*Pre-release.* No professional school has studied Athens, Jerusalem, and Rome as a set of surviving pedagogical traditions. The field immersion sends co-investigators in as learners, generates primary evidence on how each method forms judgment, and brings it to an executive institute structured on the George Mason LEC model.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: cua-as-home
 gated: true
-excerpt: "Why the Law and Entrepreneurship Program belongs at the Catholic University of America. A short institutional brief."
+excerpt: "Three structural facts make LEP possible at CUA and impossible anywhere else: the pontifical charter, *Ex Corde Ecclesiae*, and an unbroken natural-law tradition no other American law school holds."
 title: "Why Catholic University Is the Only Credible Home for the Law and Entrepreneurship Program"
 author: Seth Oranburg
 date: 2026-05-26

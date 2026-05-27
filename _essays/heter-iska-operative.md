@@ -1,7 +1,7 @@
 ---
 slug: heter-iska-operative
 gated: true
-excerpt: "The *heter iska* is not a historical artifact. It is the live halakhic deed by which observant Jews and Jewish institutions deploy capital today without crossing the prohibition on *ribbit*."
+excerpt: "The *heter iska* is the live halakhic deed by which observant Jews and Jewish institutions deploy capital today as partnership at shared risk, used in Israeli banking and operative on present balance sheets."
 title: "Heter Iska as Operative Form"
 subtitle: "The Live Halakhic Instrument Behind Partnership at Shared Risk"
 date: 2026-05-26
@@ -24,9 +24,9 @@ citations_to_verify:
 
 The *heter iska* is not a historical artifact. It is the operative commercial instrument by which observant Jews and Jewish institutions structure capital deployment without violating the biblical prohibition on *ribbit*. Major Israeli banks offer *heter iska* versions of commercial loans and certain consumer products. Jewish community lenders and *gemaḥ* funds in the United States, the United Kingdom, and elsewhere use *heter iska* deeds as a matter of routine. The deed is drafted, signed, witnessed, and filed. It functions in present commercial life the way any other commercial contract functions: it allocates capital, allocates risk, and allocates return.
 
-That is the claim of this essay. The lineage page treats the *heter iska* as the halakhic mechanism that completes Maimonides on *ẓedakah*.[^fn-lineage] This essay shows that the mechanism is operative. The doctrinal commitment the Jewish tradition holds, that capital must be deployed in partnership at shared risk rather than as a fixed-interest loan to a fellow Jew, is not preserved as memory. It is practiced.
+The lineage page treats the *heter iska* as the halakhic mechanism that completes Maimonides on *ẓedakah*.[^fn-lineage] The doctrinal commitment the Jewish tradition holds, that capital must be deployed in partnership at shared risk rather than as a fixed-interest loan to a fellow Jew, is not preserved as memory. It is practiced.
 
-The Catholic twin to this argument is set out in [Jurisgenesis in Transactional Drafting](/LEP/essays/jurisgenesis-drafting/). There the *societas* is shown as a live drafting practice. Here the *heter iska* is shown as its halakhic counterpart, operative in the same hour and on the same balance sheets.
+The *societas* side of the same argument appears in [Jurisgenesis in Transactional Drafting](/LEP/essays/jurisgenesis-drafting/).
 
 ## II. The problem the *heter iska* solves
 

@@ -7,7 +7,7 @@ mermaid: true
 
 # Two Traditions, One Answer
 
-Both the Catholic and Jewish intellectual traditions ask the same fundamental question: what is the just way to engage capital with those in poverty? They reason from different premises, through different methods, and arrive at the same answer.
+The Catholic and Jewish intellectual traditions reason from different premises through different methods and arrive at the same answer: partnership at shared risk is the just form of capital deployment.
 
 ---
 
@@ -32,6 +32,8 @@ graph LR
 ---
 
 ## Detailed framework comparison
+
+Both traditions are set out below in parallel, beginning from each tradition's foundational premise, moving through its operative doctrine, and arriving at the shared conclusion.
 
 ### Catholic framework
 
@@ -59,14 +61,14 @@ Aquinas took the Roman commercial law of the *exercitor navis*, the shipowner wh
 
 #### Jewish: *shutafut* (partnership with the recipient)
 
-Maimonides names *shutafut* as the highest of the eight rungs of *ẓedakah*: the helper enables the recipient to create his own livelihood, both parties invest in the outcome, and the relationship is reciprocal rather than one-directional. The *heter iska* contract in Jewish commercial law operationalizes the same logic: capital is deployed half as loan and half as deposit-at-risk, so that return follows shared risk. Modern applications include microfinance partnerships, mentorship arrangements with an equity component, and community development corporations.
+Maimonides names *shutafut* as the highest of the eight rungs of *ẓedakah*: the helper enables the recipient to create his own livelihood, both parties invest in the outcome, and the relationship is reciprocal rather than one-directional. The *heter iska* contract in Jewish commercial law gives the same logic commercial form: capital is deployed half as loan and half as deposit-at-risk, so that return follows shared risk. Modern applications include microfinance partnerships, mentorship arrangements with an equity component, and community development corporations.
 
 ---
 
 ### Key differences
 
 | Dimension | Catholic | Jewish |
-|-----------|----------|--------|
+|---|---|---|
 | **Primary Framework** | Natural law + Theological virtue | Scriptural obligation + Talmudic reasoning |
 | **Economic Theory** | Aristotelian; property is natural | Covenant-based; property is stewardship |
 | **Historical Development** | Systematic philosophy (Scholasticism) | Interpretive tradition (Talmud) |

@@ -44,13 +44,13 @@ The Cluny Institute is a separate CUA program founded by Luke Burgis (Associate 
 No. The program is open to students of all faiths and none. There is no religious-affiliation requirement and there never will be one. Your grade and your standing in the cohort do not depend on engaging with the tradition on its own theological terms.
 
 **How does the Catholic frame show up in courses day to day?**
-The frame is the doctrinal vocabulary the lawyer uses to read the deal. Take a Series Seed term sheet. Six provisions in that document carry the partnership-versus-loan question that runs through the *societas* tradition. The liquidation preference: a 1x non-participating preferred share preserves the investor as a co-owner who shares in the loss; a 2x participating preferred share converts the investor into a senior creditor with a guaranteed return. The first honors the *societas* structure; the second slides toward *mutuum*. The drag-along provision, the vesting schedule, the participation rights, the protective provisions, the conversion mechanics: each one carries the same question. A lawyer trained in this program is taught to read these clauses with the *societas* vocabulary in hand.
+The frame is the doctrinal vocabulary the lawyer uses to read the deal. Take a Series Seed term sheet. Six provisions in that document carry the partnership-versus-loan question the *societas* tradition is built around. The liquidation preference: a 1x non-participating preferred share preserves the investor as a co-owner who shares in the loss; a 2x participating preferred share converts the investor into a senior creditor with a guaranteed return. The first honors the *societas* structure; the second slides toward *mutuum*. The drag-along provision, the vesting schedule, the participation rights, the protective provisions, the conversion mechanics: each one carries the same question. A lawyer trained in this program is taught to read these clauses with the *societas* vocabulary in hand.
 
 **I am Jewish, Muslim, or non-religious. Will I feel out of place?**
 The Jewish *shutafut* tradition is treated on the same page as the Catholic *societas* tradition because the two converge on the same conclusion through independent reasoning. The program teaches both as a single intellectual inheritance. A non-Catholic student will see the same intellectual seriousness applied to the Maimonidean tradition as to the Thomistic one. The expectation is intellectual engagement, not religious commitment.
 
 **Is the Catholic frame graded? Do I have to write a paper on Aquinas?**
-No. You will write papers and take exams in the substantive courses on the doctrinal content of those courses. The intellectual frame is the why-the-doctrine-takes-this-shape context that runs through the program; it is not a separate exam subject.
+No. You will write papers and take exams in the substantive courses on the doctrinal content of those courses. The intellectual frame is the why-the-doctrine-takes-this-shape context woven into the substantive courses; it is not a separate exam subject.
 
 ## Cohort, admissions, and cost
 
