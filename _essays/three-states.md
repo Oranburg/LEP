@@ -13,16 +13,16 @@ target_venues:
   - American Affairs
   - Modern Age
 citations_to_verify:
-  - Edwards 1992 on deskilling prediction: confirm author, title, journal, page
-  - King and Kitchener, Reflective Judgment Interview Stage 7: confirm original publication date and instrument name
-  - Michael Polanyi, The Tacit Dimension: confirm Anchor Books 1967 edition vs. other editions
-  - Sinsky 2016 on physician documentation time (49 percent figure): confirm journal and data
-  - Oakeshott, Rationalism in Politics: confirm "technical knowledge" vs. "practical knowledge" terminology in the relevant essay
-  - Hayek on tacit/local knowledge: "The Use of Knowledge in Society," American Economic Review 1945; VERIFY page
-  - Tocqueville on intermediate institutions as schools of practice: confirm Democracy in America volume and chapter
-  - Aristotle, Nicomachean Ethics, on phronesis: standard citation, verify translation used
-  - Maimonides on ḥokhmat lev: confirm source text (Mishneh Torah? Commentary on the Mishnah?)
-  - Disputatio as method at medieval universities: confirm scholarly source; Cobban, The Medieval Universities?
+  - Edwards 1992 on deskilling prediction: CONFIRMED WRONG. No 1992 Edwards work on professional deskilling exists. The real Edwards book is *Contested Terrain* (Basic Books, 1979), which does not address professional deskilling specifically. Drop or replace.
+  - King and Kitchener, Reflective Judgment Interview Stage 7: still unverified; not checked in this pass.
+  - Michael Polanyi, The Tacit Dimension: still unverified; not checked in this pass.
+  - Sinsky 2016 on physician documentation time: CONFIRMED. Christine A. Sinsky et al., 165 Annals of Internal Medicine 753, 753-60 (2016). The 49.2% figure covers EHR plus desk work combined.
+  - Oakeshott, Rationalism in Politics: still unverified; not checked in this pass.
+  - Hayek on tacit/local knowledge: CONFIRMED. F.A. Hayek, The Use of Knowledge in Society, 35 Am. Econ. Rev. 519, 519-30 (1945). Vol. 35, no. 4, September 1945.
+  - Tocqueville on intermediate institutions: still unverified; not checked in this pass.
+  - Aristotle, Nicomachean Ethics, on phronesis: standard citation; not checked in this pass.
+  - Maimonides on ḥokhmat lev: still unverified; not checked in this pass.
+  - Disputatio at medieval universities, Cobban: STILL VOID. Cobban's The Medieval Universities (Methuen, 1975) is the likely source but page/argument not confirmed.
 ---
 
 # The Three States of a Living Tradition
@@ -51,7 +51,7 @@ What the West recovered from Athens was, for many centuries, primarily the text.
 
 The Langdellian elenchus was a reconstruction from text rather than a transmission from practice. This matters because it introduced a structural instability that the unbroken traditions do not share. A method reconstructed from text is vulnerable to a specific kind of drift: it can be further reconstructed, in a different direction, by the next generation that reads the same texts more conveniently or more efficiently. The Langdellian case method has been eroded and simplified over the past fifty years not because anyone decided to abandon Socratic pedagogy but because no institutional force maintained the transmission. Each generation of law professors trained in large research universities with research incentives that reward scholarship over teaching, received an increasingly attenuated version of the original method and passed on an even more attenuated version to their students.
 
-This is what a severed tradition looks like when it is nominally maintained but not truly transmitted. The text remains. The label remains. The practice hollows out. By the time a thoughtful observer (an Edwards, writing in 1992, predicting that professional education would complete its deskilling loop) [^void-edwards] notices the drift, the gap between the label and the practice has become too wide for incremental repair. Recovery requires not incremental adjustment but a deliberate act of reconstruction: going back to the source, studying what the method actually required, and rebuilding institutional conditions that can support those requirements.
+This is what a severed tradition looks like when it is nominally maintained but not truly transmitted. The text remains. The label remains. The practice hollows out. By the time the drift is named in the literature on professional deskilling, the gap between the label and the practice has become too wide for incremental repair. Recovery requires not incremental adjustment but a deliberate act of reconstruction: going back to the source, studying what the method actually required, and rebuilding institutional conditions that can support those requirements.
 
 The severed-and-reclaimed condition is not a failed condition. It is, in fact, the condition in which most of the West now operates with respect to classical pedagogy. And it has distinctive virtues. The act of reclamation demands conscious articulation of what one is trying to recover. It requires the would-be practitioner to study the tradition from outside, to develop an explicit account of its requirements, and to construct the conditions for practice deliberately rather than inheriting them. This is intellectually expensive and institutionally precarious, but it produces a kind of reflective clarity about the method that unbroken traditions do not always maintain. Athens, in the reclaimed state, is hyperconscious of what it lost and why.
 
@@ -155,14 +155,13 @@ That understanding is not currently available in any systematic form. It is the 
 
 ---
 
-[^void-edwards]: VOID. Edwards 1992 deskilling-prediction citation needs verification. Author first name, full title, journal, and page unknown. Source: v2 Templeton draft. Do not use without confirming.
 
-[^hayek-tacit]: F.A. Hayek, "The Use of Knowledge in Society," *American Economic Review* 35, no. 4 (1945): 519–530. [VERIFY page range and issue number before publication.]
+[^hayek-tacit]: F.A. Hayek, *The Use of Knowledge in Society*, 35 Am. Econ. Rev. 519, 519–30 (1945). [CONFIRMED: vol. 35, no. 4, pp. 519–530, September 1945. Issue number and page range verified.]
 
-[^void-havruta-scholarship]: VOID. Secondary scholarship on ḥavruta as institutional phenomenon needs identification. Possible sources: Elie Holzer and Orit Kent, *A Philosophy of Ḥavruta* (2013); Tzvi Septimus's work on ḥavruta in the yeshiva context. Neither confirmed as addressing the resilience-without-infrastructure question specifically.
+[^void-havruta-scholarship]: VOID — STILL VOID. No single scholarly work confirmed as addressing ḥavruta specifically as an institutional-resilience-without-state-infrastructure phenomenon. Holzer and Kent, *A Philosophy of Ḥavruta* (Academic Studies Press, 2013), is the leading secondary work and may contain relevant material, but the specific argument (resilience without institutional infrastructure) has not been confirmed as their thesis. Leave void or verify against the Holzer and Kent text directly.
 
-[^void-disputatio-decline]: VOID. Claim that the disputatio declined from genuine inquiry to formal demonstration by the late medieval / early modern period needs a source. Cobban's *The Medieval Universities* (1975) may support this but page/argument not confirmed.
+[^void-disputatio-decline]: VOID — STILL VOID. Cobban, *The Medieval Universities: Their Development and Organization* (Methuen, 1975), is the standard secondary source for medieval university pedagogy, but the specific argument about disputatio hollowing out by the late medieval period has not been confirmed in Cobban's text. Leave void until the page argument is verified.
 
-[^void-disputatio-survival]: VOID. Claim about differential survival of Scholastic pedagogical techniques needs historical sourcing. No citation currently available.
+[^void-disputatio-survival]: VOID — STILL VOID. No citation available for differential survival of Scholastic pedagogical techniques. Remain void.
 
-[^void-thomistic-revival]: Aeterni Patris (1879) is a confirmed Leo XIII encyclical. The characterization of the Thomistic revival as a partial-continuity-enabling-reconstruction pattern is the author's framing; no secondary source cited here.
+[^void-thomistic-revival]: Leo XIII, Aeterni Patris (Aug. 4, 1879), available at vatican.va. [CONFIRMED: this is a real encyclical, dated August 4, 1879, ordering the restoration of Thomistic philosophy in Catholic educational institutions. The characterization of the Thomistic revival as a partial-continuity-enabling-reconstruction pattern is the author's framing; no secondary source is cited for that framing, which is acceptable as the author's original argument.]

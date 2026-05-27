@@ -7,16 +7,16 @@ date: 2026-05-26
 author: Seth Oranburg
 status: working draft
 citations_to_verify:
-  - havruta-1: Holzer & Kent (2013) — VERIFY in LawJ before citing; ISBN 978-0-8197-1649-1
-  - havruta-2: Lerner, "Listening to One's Partner" (2004) — VERIFY page range; Journal of Jewish Education
-  - havruta-3: Wimpfheimer, The Talmud (2018) — VERIFY pp. cited; Princeton UP
-  - havruta-4: Weiss, "The Art of Ḥavruta" (2000) — VERIFY; appears in Holzer & Kent anthology
-  - leo-xiv: Magnifica Humanitas §140 (15 May 2026) — verified in source file
+  - havruta-1: Holzer & Kent (2013) — CONFIRMED: Academic Studies Press, 2013. Correct hardcover ISBN is 9781618112903; paperback is 9781618113856. The draft ISBN 978-0-8197-1649-1 is wrong and must be removed. No page pin confirmed; cite without pin or supply one from the text.
+  - havruta-2: Lerner, "Listening to One's Learning Partner" (2004) — UNVERIFIABLE: could not locate in any accessible database. Do not cite without library access to Journal of Jewish Education vol. 70 (2004).
+  - havruta-3: Wimpfheimer, The Talmud (2018) — CONFIRMED publisher and year (Princeton UP, 2018). No specific havruta page pin locatable without direct text access. Do not cite without page pin.
+  - havruta-4: Weiss, "The Art of Ḥavruta" — UNVERIFIABLE: no essay under that title found in the Holzer & Kent anthology or as a standalone Weiss publication. Do not cite until source located.
+  - leo-xiv: Magnifica Humanitas §140 (15 May 2026) — PARTIALLY CONFIRMED: encyclical exists, dated 15 May 2026, released 25 May 2026 (vatican.va). Para. 140 linked in secondary sources to AI/education concerns; Plato/flint passage paragraph pin not confirmed by direct text access. Verify §140 against the official Vatican text before publication.
 ---
 
 # AI as Ḥavruta: Adversarial Pairing as a Pedagogy for Judgment
 
-## I.
+## I. The Mechanism
 
 There is a moment in Talmudic study when the text stops being an object of analysis and becomes an interlocutor. This happens not because the text speaks on its own but because the study partner, the ḥavruta, forces a reading back out of the learner. "What do you mean?" "That cannot be what the text says." "What follows from your interpretation?" The adversarial pressure of ḥavruta is not a rhetorical device. It is the mechanism by which the learner's judgment is sharpened.[^fn-holzer-kent] The partner does not answer for the learner; the partner makes answering harder, and therefore more generative.
 
@@ -24,7 +24,7 @@ This essay advances a single claim: an artificial intelligence can serve as a �
 
 The argument is pedagogical, not theological, though both vocabularies reach the same place.
 
-## II.
+## II. Four Features of the Practice
 
 Ḥavruta is a Hebrew word meaning, roughly, fellowship or companionship. As a pedagogical practice it refers to paired study in which two learners read a text together, question each other's interpretations, and press each argument to its limit before moving on.[^fn-lerner] The practice is ancient (its roots are in the Talmudic academies), but its logic is simple: you do not know whether you understand a text until someone else challenges your understanding. Comprehension that survives no challenge is not comprehension; it is recognition. The goal of ḥavruta is not to reach consensus but to surface what a reading actually requires the reader to commit to.
 
@@ -32,7 +32,7 @@ Several features of ḥavruta as practice are worth marking for the argument tha
 
 None of these features requires a human partner. They require a partner that pushes back, that holds alternative readings credibly, that does not capitulate when the learner insists, and that can sustain the adversarial posture across a session. A well-configured AI can do all of this. The question is whether anyone configures it to do so.
 
-## III.
+## III. Oracular Versus Adversarial Deployment
 
 {% include figure.html name="callout-judgment-vs-procedure" alt="Two opposed boxes: Judgment under uncertainty (tacit, particular, formed) versus Procedure under audit (explicit, general, documented), connected by a bidirectional arrow labeled 'the deskilling loop displaces'." caption="The opposition the ḥavruta configuration is meant to defend against." %}
 
@@ -44,13 +44,13 @@ The ḥavruta configuration answers yes. An AI configured to take a position on 
 
 This is a deployment choice, and it is entirely within an instructor's control. The same model that returns helpful summaries when asked can be prompted to serve as an adversarial reader, a devil's advocate, a persistent dissenter. The prompt is the pedagogy.
 
-## IV.
+## IV. Two Framings, One Pedagogical Claim
 
 Leo XIV, writing in *Magnifica Humanitas*, diagnosed the same problem from a different angle. "The speed and ease with which answers or summaries can be accessed," he wrote, "risk extinguishing the desire to ask questions, which is a process that bears fruit only over time." His reference point was Plato's image of flint: the deepest things are learned by "striking upon" ideas and experiences together until the spark of understanding is kindled. The metaphor is not far from ḥavruta. What Leo XIV calls the "desire to ask questions" is what ḥavruta practice builds: the conviction that the question matters and that the answer must come from the learner, not the medium.[^fn-leo-magnifica] The broader doctrinal reading of Leo XIV's encyclical is the work of a separate essay, [Magnifica Humanitas and the Babel Question](/LEP/essays/magnifica-babel/).
 
 The Catholic framing and the Jewish framing converge on the same pedagogical claim. An external tool (text, commentary, partner, AI) is generative when it forces the learner into greater precision and depth. It is deformative when it provides the precision and depth without requiring the learner to produce them. Ḥavruta is the former. Default AI use is the latter. The adversarial AI configuration is an attempt to recover the former from a medium that defaults to the latter.
 
-## V.
+## V. Three Notes for Educators
 
 Three practical observations for educators who want to implement the adversarial configuration.
 
@@ -64,12 +64,12 @@ The pedagogy of ḥavruta is not new. It has been practiced continuously, withou
 
 ---
 
-[^fn-holzer-kent]: Elie Holzer and Orit Kent, *A Philosophy of Ḥavruta: Understanding and Teaching the Art of Text Study in Pairs* (Boston: Academic Studies Press, 2013). [VERIFY: ISBN 978-0-8197-1649-1; confirm publisher and page range for the structural account of adversarial alignment.]
+[^fn-holzer-kent]: Elie Holzer and Orit Kent, *A Philosophy of Ḥavruta: Understanding and Teaching the Art of Text Study in Pairs* (Boston: Academic Studies Press, 2013). [CONFIRMED: publisher and year verified against academicstudiespress.com. The draft ISBN 978-0-8197-1649-1 does not match the publisher's records (hardcover: 9781618112903; paperback: 9781618113856); remove the ISBN from any public-facing cite. Page pin for the adversarial-alignment discussion needs author to supply from the text.]
 
-[^fn-lerner]: Anne Eaton Lerner, "Listening to One's Learning Partner: Notes on Ḥavruta," *Journal of Jewish Education* 70, no. 3 (2004): 3–18. [VERIFY: volume number, page range, and correct author name before citing.]
+[^fn-lerner]: Anne Eaton Lerner, "Listening to One's Learning Partner: Notes on Ḥavruta," *Journal of Jewish Education* 70, no. 3 (2004): 3–18. [UNVERIFIABLE: author, volume, page range, and exact title could not be confirmed through accessible databases. Do not publish this footnote until verified against the journal directly.]
 
-[^fn-wimpfheimer]: Barry Scott Wimpfheimer, *The Talmud: A Biography* (Princeton: Princeton University Press, 2018). [VERIFY: identify specific pages discussing ḥavruta as cumulative practice; do not cite without page pin.]
+[^fn-wimpfheimer]: Barry Scott Wimpfheimer, *The Talmud: A Biography* (Princeton: Princeton University Press, 2018). [CONFIRMED publisher and year. Page pin for havruta-as-cumulative-practice not locatable without direct text access; do not cite without pin.]
 
-[^fn-weiss]: Avraham Weiss, "The Art of Ḥavruta," in Holzer and Kent, *A Philosophy of Ḥavruta*. [VERIFY: confirm this essay appears in this anthology; if it does not, locate the correct locus for Weiss on ḥavruta practice and institutional continuity.]
+[^fn-weiss]: [VOID — Avraham Weiss, "The Art of Ḥavruta" could not be confirmed as an essay in the Holzer and Kent anthology or as a standalone publication. Remove this footnote or replace with a verified source on havruta's institutional continuity.]
 
-[^fn-leo-magnifica]: Leo XIV, *Magnifica Humanitas* §140 (15 May 2026). The Plato reference in context is to *Epistle VII*, 341c–d.
+[^fn-leo-magnifica]: Leo XIV, *Magnifica Humanitas* (Vatican City: Libreria Editrice Vaticana, 2026). [PARTIALLY CONFIRMED: encyclical exists; signed 15 May 2026, released 25 May 2026. Paragraph 140 associated with AI/education concerns in secondary sources; the Plato/flint passage and exact paragraph number require verification against the official Vatican text at vatican.va before publication. Do not publish §140 as a confirmed pin.]

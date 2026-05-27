@@ -86,7 +86,7 @@ The same encyclical that frames the capital question (Babel against Nehemia) als
 
 The point is not that the two questions are identical. The point is that they fail together when they fail. A pedagogy that forms students into oracle-consumers produces founders who do not know how to read a terms-of-service grant against the *societas* test. A drafting culture that accepts the standard platform furniture produces deals that train the next generation of founders to expect Babel as the natural shape of AI commerce. The encyclical addresses both atrophies because they are atrophies of the same capacity, the capacity for judgment held under one's own stake.
 
-## Closing
+## VII. The Drafting Is the Work
 
 Babel scattered the workers because the project was not theirs. Nehemia held the city because each section was. Leo XIV applies the older doctrine to the newest instrument, and the application reads cleanly across compute, data, training corpora, and the founder's own arrangement with the platform the founder builds on. The lawyer's job is to read the instrument through the doctrine and to draft so that the doctrine holds.
 

@@ -1,0 +1,19 @@
+%%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':40,'rankSpacing':70},'themeVariables':{'fontSize':'16px','fontFamily':'Georgia, serif'}}}%%
+flowchart LR
+  classDef secular fill:#5B5B3F,color:#FFFFFF,stroke:#3D3D2A,stroke-width:2px
+  classDef jewish fill:#1E3A5F,color:#FFFFFF,stroke:#0F2235,stroke-width:2px
+  classDef catholic fill:#7B2D26,color:#FFFFFF,stroke:#4A1A14,stroke-width:2px
+  classDef deployment fill:#8B6914,color:#FFFFFF,stroke:#5A4309,stroke-width:3px
+  classDef header fill:#F5F2EC,color:#1A1A1A,stroke:#A89B7D
+
+  subgraph FORMATION ["Three classical formation stations"]
+    A["<b>Athens</b><br/><i>phronesis</i><br/>elenchus"]:::secular
+    J["<b>Jerusalem</b><br/><i>ḥokhmat lev</i><br/>ḥavruta"]:::jewish
+    R["<b>Rome</b><br/><i>prudentia</i><br/>disputatio"]:::catholic
+  end
+
+  W["<b>Washington</b><br/>the deployment site<br/>where the method meets<br/>live regulatory constraint"]:::deployment
+
+  A ==> W
+  J ==> W
+  R ==> W

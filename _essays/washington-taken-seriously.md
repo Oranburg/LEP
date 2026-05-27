@@ -1,9 +1,9 @@
 ---
 slug: washington-taken-seriously
 gated: true
-excerpt: "Athens, Jerusalem, and Rome formed the method of practical wisdom. Washington is the fourth station, where that method meets the live constraint of the federal regulatory state and the encounter is itself formation."
+excerpt: "Athens, Jerusalem, and Rome formed the methods of practical wisdom. Washington is the deployment site that completes the formation by setting the method against live regulatory constraint."
 title: "Washington Taken Seriously"
-subtitle: "The Fourth Station of Practical Wisdom"
+subtitle: "Where the Classical Method Meets Live Constraint"
 date: 2026-05-26
 author: Seth Oranburg
 status: working draft
@@ -11,9 +11,9 @@ status: working draft
 
 # Washington Taken Seriously
 
-The genealogy of practical wisdom in the West has four stations, not three. Athens formed *phronesis* through the elenchus. Jerusalem formed *ḥokhmat lev* through ḥavruta and halakhic argument. Rome formed *prudentia* through disputation in the schools and the codification of the canon. These three are the customary lineage, and the Program teaches them as such. They are insufficient on their own. Each station preserved a method of forming judgment under conditions that no longer obtain. The fourth station is Washington, where the inherited methods meet the live constraint of the federal regulatory state, and where the encounter with that constraint is itself a formation site.
+The Program teaches a genealogy with three formation stations and one deployment site. Athens formed *phronesis* through the elenchus. Jerusalem formed *ḥokhmat lev* through ḥavruta and halakhic argument. Rome formed *prudentia* through disputation in the schools and the codification of the canon. These three stations supplied the methods. They did so under conditions that no longer obtain, and the methods they supplied are not finished by the act of preserving them. They are finished by the act of applying them against constraint. Washington is the place where the contemporary lawyer applies the inherited methods against the live constraint of the federal regulatory state, and the encounter is constitutive of the formation.
 
-Washington is not added to the lineage as a job-market posture or a placement strategy. It is added because the formation the first three stations supply is incomplete without the friction the fourth station provides. The Program teaches the method in Washington because Washington is where the method is finished.
+Washington belongs in the genealogy not as a fourth classical station alongside the three but as the deployment site that finishes what the three begin. It is not a parallel source. It is the place where the inherited sources are put under load. The Program teaches the method in Washington because Washington is where the method is exercised, and the exercise is what completes the formation.
 
 ## I. The Conditions Each Station Required
 
@@ -37,19 +37,19 @@ The judicial review is concrete. The United States Court of Appeals for the Dist
 
 The bar that practices before all of this is concrete. It includes the firms that draft the comment letters in which industry tells the agency what the rule should say, the firms that defend the enforcement actions when the agency disagrees with how the rule was followed, the in-house counsel who translate the rule into operational policy at the regulated entity, and the lobbyists and trade associations that work the legislative side of the same problem. The think tanks supply the doctrinal frame the courts cite. The students at a Washington law school walk past all of this on the way to a class on Administrative Law.
 
-The convergence is what makes Washington a station. No other American city has it at this density. New York has the markets but not the rule-writing. Chicago has the futures pit but not the agency that supervises it. Boston has the academy but not the docket. Washington is the only American city in which the lawyer who is forming her judgment can encounter, in the same week, the agency that wrote the rule, the firm that argued against it, the court that will review it, and the legislator who can change it. That density is the condition the fourth station supplies.
+The convergence is what makes Washington a deployment site rather than a market. No other American city has the live regulatory constraint at this density. New York has the markets but not the rule-writing. Chicago has the futures pit but not the agency that supervises it. Boston has the academy but not the docket. Washington is the only American city in which the lawyer who is forming her judgment can encounter, in the same week, the agency that wrote the rule, the firm that argued against it, the court that will review it, and the legislator who can change it. That density is what the deployment site supplies and what the three formation stations cannot.
 
-{% include figure.html name="four-stations-genealogy" alt="Four sequential nodes: Athens (phronesis, severed and reclaimed), Jerusalem (ḥokhmat lev, continuous communal), Rome (prudentia, continuous institutional), Washington (live constraint, where method meets friction)." caption="The four stations of the LEP genealogy. Athens, Jerusalem, and Rome formed the method. Washington tests it." %}
+{% include figure.html name="formation-and-deployment" alt="Three formation stations (Athens, Jerusalem, Rome) converging into a single deployment site (Washington), where the inherited methods meet live regulatory constraint." caption="Three classical stations supplied the methods. Washington is the deployment site where the methods meet live constraint and the formation is completed." %}
 
 ## III. Phronesis Under Live Constraint
 
-Aristotle's account of *phronesis* in Book VI of the *Nicomachean Ethics* makes the point on which the four-station claim depends. *Phronesis* is the virtue of practical reason. It lives in particulars, not rules. The phronetic agent is the one who can see what the situation requires when the rule does not say. The rule supplies a starting point. The judgment supplies the answer.
+Aristotle's account of *phronesis* in Book VI of the *Nicomachean Ethics* makes the point on which the deployment claim depends. *Phronesis* is the virtue of practical reason. It lives in particulars, not rules. The phronetic agent is the one who can see what the situation requires when the rule does not say. The rule supplies a starting point. The judgment supplies the answer.
 
 A method that forms *phronesis* must therefore terminate in encounter with a particular. The seminar that teaches doctrine in the abstract has done only part of the work. The student who has read the SEC's rule on insider trading has not yet formed phronetic judgment about insider trading until she has tried to apply the rule against a counterparty who reads it differently, in a setting where the application matters. The counterparty in question, for a Washington-trained lawyer, is the SEC enforcement attorney who is herself a phronetic agent formed by the same encounter from the opposite side of the table.
 
 This is the pedagogical claim, not the placement claim. The Program is not asserting that students should go to Washington because there are jobs in Washington. The Program is asserting that the formation the first three stations begin is finished by the encounter with live regulatory constraint, and that the encounter happens at the highest density and with the most pedagogical value where the regulatory authority itself resides. The student who reads the same rule from the same casebook in a law school remote from the agencies has read the rule. The student who has read it, attended the open meeting at which the commissioners discussed it, observed the oral argument in the D.C. Circuit at which it was challenged, and clerked at the firm that drafted the comment letter the agency cited, has formed something the first student has not formed.
 
-What is formed in that encounter is the recognition that the rule has a writer, a regulator, a challenger, and a reviewer, and that the lawyer's judgment is exercised in the field constituted by all four. The encounter is constitutive of the judgment. This is what it means to say Washington is a station, not a market.
+What is formed in that encounter is the recognition that the rule has a writer, a regulator, a challenger, and a reviewer, and that the lawyer's judgment is exercised in the field constituted by all four. The encounter is constitutive of the judgment. This is what it means to say Washington is a deployment site, not a market.
 
 ## IV. The Catholic University Inheritance
 
@@ -61,14 +61,14 @@ The two halves of the inheritance reinforce each other. The disputation supplies
 
 ## V. The Risk and the Discipline
 
-The four-station claim carries a risk, and the risk has to be named. Washington formation can degenerate into careerism, networking, or technical mastery without judgment. The student who treats the federal agency as a credential pipeline, the appellate clerkship as a résumé item, and the regulatory practice as a billable specialty has not learned what Washington teaches. She has learned what Washington delivers when it is misused. The fourth station, like the first three, can be reduced to its instrumental shell.
+The deployment claim carries a risk, and the risk has to be named. Washington formation can degenerate into careerism, networking, or technical mastery without judgment. The student who treats the federal agency as a credential pipeline, the appellate clerkship as a résumé item, and the regulatory practice as a billable specialty has not learned what Washington teaches. She has learned what Washington delivers when it is misused. The deployment site, like the three formation stations, can be reduced to its instrumental shell.
 
 The discipline against the reduction is the substantive doctrinal frame the Program teaches. [The Three States of a Living Tradition](/LEP/essays/three-states/) describes the recovery of elenchus, the continuity of ḥavruta, and the unbroken disputatio. [Partnership at Shared Risk](/LEP/partnership-at-shared-risk/) supplies the doctrinal content the student carries into the encounter. The frame is what makes the encounter formative rather than merely consequential. The student who walks into the SEC's open meeting having read the social encyclicals on the just form of capital, having worked through *Bava Meẓia* on the *iska*, and having argued the disputed question in the seminar the week before, sees the rulemaking differently from the student who has done none of that. The student who has done none of that sees the rulemaking as a process. The student who has done all of that sees the rulemaking as a question about whether the commercial form being shaped is one that shares risk justly or one that does not.
 
 The discipline is therefore not a check on Washington formation. It is the content that makes Washington formation possible as a station rather than a market. The Program teaches the doctrine first because the doctrine is what is brought to the encounter. The encounter then tests the doctrine. Both directions are necessary.
 
-## Closing: The Four-Station Commitment
+## VI. Three Formations, One Deployment
 
-The Program teaches a four-station genealogy because the work of forming judgment requires all four. Athens supplies the elenchus, the questioning method by which the student learns what she does not know. Jerusalem supplies the ḥavruta, the disciplined partnership in which the text yields under sustained pressure. Rome supplies the disputatio, the institutional form in which the disputed question is settled by argument under teaching authority. Washington supplies the live constraint against which the formed judgment is exercised, and which the formed judgment must answer.
+The Program teaches three formation stations and one deployment site because the work of forming judgment requires both kinds. Athens supplies the elenchus, the questioning method by which the student learns what she does not know. Jerusalem supplies the ḥavruta, the disciplined partnership in which the text yields under sustained pressure. Rome supplies the disputatio, the institutional form in which the disputed question is settled by argument under teaching authority. Washington supplies the live constraint against which the formed judgment is exercised, and which the formed judgment must answer.
 
-Athens, Jerusalem, Rome, Washington. The first three formed the method. The fourth tests it. Both are necessary, and the Program teaches them as one lineage with four stations because that is what the recovery of judgment formation now requires.
+Athens, Jerusalem, and Rome are the formation. Washington is where the formation is finished. The Program teaches all four because the recovery of judgment formation requires both halves: the classical method that supplies the capacity, and the modern setting that supplies the friction against which the capacity is exercised.

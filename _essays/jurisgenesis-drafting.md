@@ -19,7 +19,7 @@ The generative act is the vocation. Its formation is the central pedagogical wor
 
 The argument begins with Cover. *Nomos and Narrative*, the foreword to the Supreme Court's 1982 Term in the *Harvard Law Review*, sets out a picture of legal life that the academy has spent four decades half-using. Law, Cover wrote, is the bridge between the world that is and the world that ought to be. A *nomos* is a normative universe held in place by the stories a community tells about itself. Law is what crosses from story to conduct. Legal meaning is generated wherever a community of meaning organizes itself around a commitment strong enough to constitute a way of life.[^cover-1983]
 
-[^cover-1983]: Robert M. Cover, *Foreword: Nomos and Narrative*, 97 Harv. L. Rev. 4 (1983) (the Supreme Court 1982 Term foreword). [VERIFY page pin before publication.]
+[^cover-1983]: Robert M. Cover, *Foreword: Nomos and Narrative*, 97 Harv. L. Rev. 4 (1983). [CONFIRMED: vol. 97, starting page 4, 1983. The article title is correctly rendered. Specific page pin for "Jurisgenesis takes place always through an essentially cultural medium" not confirmed from accessible sources; the full text PDF at Yale Open Library returned 403. Supply pin from a library copy of 97 Harv. L. Rev. before publication.]
 
 That is jurisgenesis: the proliferation of normative meaning out of communities. Cover's examples are large. Insular religious communities generate law. Social movements generate law. Resistant minorities generate law. The state, faced with the abundance, performs *jurispathy*: it picks one meaning and authorizes it, and the others die or go underground. The picture inverts the conventional account. The state is not the source of law. The state is the editor.
 
@@ -42,7 +42,7 @@ The implication is that drafting is not clerical. Drafting is the act through wh
 <aside class="lawj-annotated-quote" role="complementary">
 <blockquote>
 <p>"Jurisgenesis takes place always through an essentially cultural medium."</p>
-<small>Robert M. Cover, <i>Nomos and Narrative</i>, 97 Harv. L. Rev. 4 (1983). [citation_to_verify: confirm page pin before publication.]</small>
+<small>Robert M. Cover, <i>Nomos and Narrative</i>, 97 Harv. L. Rev. 4 (1983). [citation_to_verify: page pin for this specific quotation not confirmed; supply from 97 Harv. L. Rev. before publication. Article existence and vol/page confirmed.]</small>
 </blockquote>
 
 <p><strong>A clause that makes the law:</strong></p>
