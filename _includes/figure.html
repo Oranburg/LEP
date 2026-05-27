@@ -14,23 +14,22 @@ Required parameters:
 Optional parameters:
   caption rendered as <figcaption> below the figure
   class   extra CSS class for the <figure> wrapper
+
+Implementation notes:
+  - The `markdown="0"` attribute on the <figure> tag tells kramdown not to
+    parse markdown inside the figure block. Without it, kramdown's
+    parse_block_html option treats the indented <picture> / <img> lines as
+    markdown text and corrupts the closing </figure> tag.
+  - URLs go through Jekyll's relative_url filter so the site baseurl
+    (/LEP) is prepended correctly.
 {%- endcomment -%}
 
 {%- assign og_name = include.name -%}
 {%- assign og_alt = include.alt -%}
 {%- assign og_caption = include.caption -%}
 {%- assign og_class = include.class | default: "" -%}
-{%- assign og_base = "/assets/figures/web/" | append: og_name -%}
+{%- assign og_path = "/assets/figures/web/" | append: og_name -%}
+{%- assign og_svg = og_path | append: ".svg" | relative_url -%}
+{%- assign og_png = og_path | append: ".png" | relative_url -%}
 
-<figure class="og-figure {{ og_class }}" role="figure" aria-label="{{ og_alt | escape }}">
-  <picture>
-    <source srcset="{{ og_base }}.svg" type="image/svg+xml">
-    <img src="{{ og_base }}.png"
-         alt="{{ og_alt | escape }}"
-         loading="lazy"
-         decoding="async">
-  </picture>
-  {%- if og_caption %}
-  <figcaption>{{ og_caption }}</figcaption>
-  {%- endif %}
-</figure>
+<figure class="og-figure {{ og_class }}" role="figure" aria-label="{{ og_alt | escape }}" markdown="0"><picture><source srcset="{{ og_svg }}" type="image/svg+xml"><img src="{{ og_png }}" alt="{{ og_alt | escape }}" loading="lazy" decoding="async"></picture>{%- if og_caption %}<figcaption>{{ og_caption }}</figcaption>{%- endif %}</figure>
