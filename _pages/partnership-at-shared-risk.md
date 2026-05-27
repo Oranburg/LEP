@@ -11,7 +11,7 @@ permalink: /partnership-at-shared-risk/
 
 *Societas* requires that the capital provider share the venture's risk. *Mutuum* extracts a fixed return regardless of outcome. Every commercial instrument resolves into one or the other once the label is stripped away. Modern drafting hides which one a deal is doing behind language that floats free of the structure underneath. A preferred share can be a partnership stake or a disguised debenture. A token can be an equity-like claim on a shared venture or a fixed-yield instrument dressed in governance theater. A loan can be a pure debt or, by its participation and contingency terms, a partnership in commercial substance. The lawyer's work is to read past the label to the structure, and to draft so that the structure matches what the parties say they are doing.
 
-The convergent doctrine on which the rule rests is set out at [the lineage page]({{ '/lineage/' | relative_url }}). Two traditions, Catholic and Jewish, reasoning independently across two millennia, arrive at the same conclusion: partnership at shared risk is the just form of capital deployment. This page takes the conclusion as given and applies it to instruments a transactional lawyer drafts this year.
+The convergent doctrine on which the rule rests is set out at [the lineage page]({{ '/lineage/' | relative_url }}). Two traditions, Catholic and Jewish, reasoning independently across two millennia, arrive at the same conclusion: partnership at shared risk is the just form of capital deployment.
 
 ## I. The clause-level test
 

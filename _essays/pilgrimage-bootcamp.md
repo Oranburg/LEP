@@ -1,7 +1,7 @@
 ---
 slug: pilgrimage-bootcamp
 gated: true
-excerpt: "The Catholic framing of the Program's flagship summer formation track. Funder-facing one-pager."
+excerpt: "Formation in the tradition of practical wisdom requires traveling to where it lives. The pilgrimage traces Athens to Jerusalem to Rome to Washington as learners, not observers, then brings the method back."
 title: "The Pilgrimage and the Bootcamp"
 program: Pilgrimage and Bootcamp (Catholic framing)
 date: 2026-05-26
@@ -50,7 +50,7 @@ Budget developed for full Templeton proposal. The pilgrimage component (two co-i
 
 ## Metrics
 
-Pilgrimage cohort size and completion. Host partnerships confirmed at all four stations. Bootcamp enrollment, participant seniority, and post-bootcamp practitioner engagement with LEP programming. Pedagogy paper submitted for publication. Annual report to the funder.
+Pilgrimage cohort size and completion. Host partnerships confirmed at all three stations. Bootcamp enrollment, participant seniority, and post-bootcamp practitioner engagement with LEP programming. Pedagogy paper submitted for publication. Annual report to the funder.
 
 ## Why this funder
 

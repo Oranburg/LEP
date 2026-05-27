@@ -77,8 +77,6 @@ Identical to the Catholic version above. Three-year total: **$450,000 to $700,00
 
 </div>
 
-This is the recommended lead for the Diana Davis Spencer Foundation conversation. DDSF treats entrepreneurship as the lever that lifts people out of poverty; the Magatte Wade keynote and the clinic's measurable client outcomes put that conviction to work inside a law school. The budget range fits cleanly inside the indicated DDSF ask band.
-
 ---
 
 ## To make a gift

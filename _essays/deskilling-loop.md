@@ -1,7 +1,7 @@
 ---
 slug: deskilling-loop
 gated: true
-excerpt: "How modern professions engineer out professional judgment. A diagnosis across medicine, law, finance, and aviation; an argument about what professional formation must defend."
+excerpt: "Across medicine, law, finance, and aviation, compliance pressure runs the same four-stage mechanism that converts professional judgment into atrophied deference. The problem is structural; the intervention is formation before the loop closes."
 title: "The Deskilling Loop"
 subtitle: "How Modern Professions Engineer Out Professional Judgment"
 author: Seth Oranburg
@@ -135,4 +135,4 @@ The deskilling loop has a structure, and a structure has intervention points. Th
 
 The point this essay closes on is narrower. A profession whose members can execute procedures but cannot exercise judgment when procedures run out is not a profession in any sense its founders would recognize. The physician who can diagnose the ordinary case reliably but cannot recognize when she is facing an extraordinary one is not a better physician for having better checklists. She is a more dangerous one. The documentation requirements and compliance frameworks that drive the loop serve real functions and will not disappear. The question is whether anything else remains.
 
-*This working paper is a product of the Law and Entrepreneurship Program, Columbus School of Law, The Catholic University of America. Comments welcome: seth.oranburg@cua.edu.*
+*This working paper is a product of the Law and Entrepreneurship Program, Columbus School of Law, The Catholic University of America. Comments welcome: seth.oranburg@gmail.com.*

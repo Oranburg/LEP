@@ -1,7 +1,7 @@
 ---
 slug: washington-taken-seriously
 gated: true
-excerpt: "The genealogy of practical wisdom has four stations, not three. Athens, Jerusalem, and Rome formed the method. Washington is where the method meets live constraint."
+excerpt: "Athens, Jerusalem, and Rome formed the method of practical wisdom. Washington is the fourth station, where that method meets the live constraint of the federal regulatory state and the encounter is itself formation."
 title: "Washington Taken Seriously"
 subtitle: "The Fourth Station of Practical Wisdom"
 date: 2026-05-26
@@ -13,9 +13,9 @@ status: working draft
 
 The genealogy of practical wisdom in the West has four stations, not three. Athens formed *phronesis* through the elenchus. Jerusalem formed *ḥokhmat lev* through ḥavruta and halakhic argument. Rome formed *prudentia* through disputation in the schools and the codification of the canon. These three are the customary lineage, and the Program teaches them as such. They are insufficient on their own. Each station preserved a method of forming judgment under conditions that no longer obtain. The fourth station is Washington, where the inherited methods meet the live constraint of the federal regulatory state, and where the encounter with that constraint is itself a formation site.
 
-This essay states the four-station claim and defends it as a pedagogical commitment. Washington is not added to the lineage as a job-market posture or a placement strategy. It is added because the formation the first three stations supply is incomplete without the friction the fourth station provides. The Program teaches the method in Washington because Washington is where the method is finished.
+Washington is not added to the lineage as a job-market posture or a placement strategy. It is added because the formation the first three stations supply is incomplete without the friction the fourth station provides. The Program teaches the method in Washington because Washington is where the method is finished.
 
-## I. What the First Three Stations Are Not
+## I. The Conditions Each Station Required
 
 The first three stations are method-preserving institutions. Each of them protected a way of forming judgment, and each of them protected it under particular conditions that allowed the method to compound.
 
@@ -61,7 +61,7 @@ The two halves of the inheritance reinforce each other. The disputation supplies
 
 ## V. The Risk and the Discipline
 
-The four-station claim carries a risk, and the risk has to be named. Washington formation can degenerate into careerism, networking, or technical mastery without judgment. The student who treats the federal agency as a credential pipeline, the appellate clerkship as a résumé item, and the regulatory practice as a billable specialty has not learned what Washington teaches. She has learned only what Washington can also be misused to teach. The fourth station, like the first three, can be reduced to its instrumental shell.
+The four-station claim carries a risk, and the risk has to be named. Washington formation can degenerate into careerism, networking, or technical mastery without judgment. The student who treats the federal agency as a credential pipeline, the appellate clerkship as a résumé item, and the regulatory practice as a billable specialty has not learned what Washington teaches. She has learned what Washington delivers when it is misused. The fourth station, like the first three, can be reduced to its instrumental shell.
 
 The discipline against the reduction is the substantive doctrinal frame the Program teaches. [The Three States of a Living Tradition](/LEP/essays/three-states/) describes the recovery of elenchus, the continuity of ḥavruta, and the unbroken disputatio. [Partnership at Shared Risk](/LEP/partnership-at-shared-risk/) supplies the doctrinal content the student carries into the encounter. The frame is what makes the encounter formative rather than merely consequential. The student who walks into the SEC's open meeting having read the social encyclicals on the just form of capital, having worked through *Bava Meẓia* on the *iska*, and having argued the disputed question in the seminar the week before, sees the rulemaking differently from the student who has done none of that. The student who has done none of that sees the rulemaking as a process. The student who has done all of that sees the rulemaking as a question about whether the commercial form being shaped is one that shares risk justly or one that does not.
 

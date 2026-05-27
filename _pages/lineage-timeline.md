@@ -7,7 +7,7 @@ mermaid: true
 
 # Doctrinal Lineage: A Living Tradition
 
-The LEP intellectual framework draws from two complementary religious and philosophical traditions that converge on a single answer: partnership is the just form of capital.
+Two traditions, Catholic and Jewish, converge on a single answer: partnership at shared risk is the just form of capital.
 
 ---
 
@@ -123,6 +123,8 @@ The *societas*/*shutafut* framework provides the test. The answer turns on the f
 ---
 
 ## Further reading
+
+The texts listed here are the primary and secondary sources the timeline draws on directly.
 
 ### Primary Sources
 - Thomas Aquinas, *Summa Theologiae* II-II, Questions 78-79

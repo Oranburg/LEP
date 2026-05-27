@@ -8,9 +8,9 @@ permalink: /working-papers/
 
 Drafts in development that grow out of the program's intellectual work. Working papers are not for citation without the author's permission.
 
-## Current
+## Papers in submission to outside venues
 
-Two papers are in submission; drafts are not in circulation.
+These two papers are in submission to law reviews and academic presses. Drafts are not in circulation. Pre-publication correspondence on the arguments is welcome at <a href="mailto:seth.oranburg@gmail.com">seth.oranburg@gmail.com</a>.
 
 ### *Architects of the Void*
 
@@ -19,6 +19,27 @@ A law-review essay arguing that the entrepreneurial lawyer is a sub-creator, not
 ### *In the Shadow of the Law*
 
 A pedagogy essay on what changes in the doctrinal classroom when the students arrive with operational fluency in law-adjacent work and the teacher's task is to produce doctrinal understanding through the dismantling of the operational framework rather than to build on top of it. The essay names the cognitive passage between the two the Valley of Despair, draws on Maimonides on the obstacle of habituated opinion (*Guide* I.31) and Aquinas on the *ordo disciplinae* (Prologue to the *Summa*), and reads the case-dialogue tradition through the cognitive-science literature on desirable difficulties. The argument is that the Socratic method is kindness, that mid-career students in online and hybrid J.D. programs present the problem of adjacent competence in its sharpest form, and that the obligation to produce the Valley runs to the clients and the profession the graduate will serve, not only to the student in the room. The imagined readers are doctrinal faculty teaching mid-career and hybrid populations, clinical and skills faculty negotiating the operational/doctrinal divide in their own classrooms, and legal-education scholars working in the lineage of Carnegie, Mertz, Guinier, Schulze, and Colker. The essay supplies the pedagogical counterpart to the substantive argument *Architects of the Void* makes about what the entrepreneurial lawyer's work is. *Status: in submission. Draft not circulated.*
+
+## Site essays in pre-release
+
+Ten pieces developing the intellectual identity of the Program live on the site as gated working drafts. They sit behind a courtesy access key; the full list and short pitches are at the [Essays index]({{ '/essays/' | relative_url }}). To request a key, email <a href="mailto:seth.oranburg@gmail.com">seth.oranburg@gmail.com</a>.
+
+The working-paper-length pieces in that set are:
+
+- [*The Three States of a Living Tradition*]({{ '/essays/three-states/' | relative_url }}) — Athens, Jerusalem, and Rome as three institutional conditions under which a pedagogical tradition survives.
+- [*The Deskilling Loop*]({{ '/essays/deskilling-loop/' | relative_url }}) — How modern professions engineer out professional judgment, diagnosed across medicine, law, finance, and aviation.
+- [*Jurisgenesis in Transactional Drafting*]({{ '/essays/jurisgenesis-drafting/' | relative_url }}) — The transactional lawyer as Coverian jurisgenerator; the prescriptive companion to *The Deskilling Loop*.
+- [*Heter Iska as Operative Form*]({{ '/essays/heter-iska-operative/' | relative_url }}) — The live halakhic deed by which observant Jewish commercial life structures capital as partnership at shared risk.
+- [*Magnifica Humanitas and the Babel Question*]({{ '/essays/magnifica-babel/' | relative_url }}) — Leo XIV's 2026 encyclical applied to AI-platform equity.
+
+Briefs, institutional pieces, and funder one-pagers in that set are listed at the [Essays index]({{ '/essays/' | relative_url }}).
+
+## Public companion pages
+
+Two longer pages are public on the site rather than gated:
+
+- [*The Moral Anatomy of Enterprise*]({{ '/lineage/' | relative_url }}) — The doctrinal lineage the Program rests on, traced through Roman law, Aquinas, the Salamanca school, the social encyclicals, and the parallel Jewish tradition.
+- [*Partnership at Shared Risk*]({{ '/partnership-at-shared-risk/' | relative_url }}) — The doctrinal rule applied to transactional drafting.
 
 ## Forthcoming
 

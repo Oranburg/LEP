@@ -1,7 +1,7 @@
 ---
 slug: three-states
 gated: true
-excerpt: "Athens, Jerusalem, Rome as three different answers to the same question: how does a living tradition survive when its conditions change? An argument about what a university owes its founding tradition and what the tradition owes the university."
+excerpt: "Athens was severed and reclaimed. Jerusalem survived without state infrastructure. Rome persisted within institutional continuity. Each survival encodes a different answer to the same question, and judgment formation requires knowing which condition you occupy."
 title: "The Three States of a Living Tradition: Notes on Pedagogical Continuity in the West"
 subtitle: "How Athens, Jerusalem, and Rome Survived: What That Survival Teaches"
 author: Seth Oranburg
