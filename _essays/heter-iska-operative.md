@@ -9,11 +9,11 @@ author: Seth Oranburg
 status: working draft
 citations_to_verify:
   - rambam-mattenot: Maimonides, Mishneh Torah, Hilkhot Mattenot Aniyim 10:7. CONFIRMED in lineage page. No further check needed.
-  - rambam-sheluhin: Maimonides, Mishneh Torah, Hilkhot Sheluhin v'Shutafin, ch. 6 on iska structure. STILL UNVERIFIED. Sefaria direct URL returned 404. Verify chapter and halakha numbers against the Frankel edition or Sefaria before publication; do not publish "ch. 6" without confirming that chapter 6 is the iska chapter.
+  - rambam-sheluhin: Maimonides, Mishneh Torah, Hilkhot Sheluhin v'Shutafin, ch. 6 on iska structure. VERIFIED via Sefaria (canonical title "Laws of Agents and Partners"). Chapter 6:1 introduces the eseq/iska distinction — the managed-partnership arrangement where one party provides capital (ba'al hame'ot) and the other operates (mitasek). "Ch. 6" is correct. Individual halakha pin within ch. 6 to be added before final publication.
   - bava-metzia: Bava Metzia 5:4; 68a to 70b. CONFIRMED in lineage page. No further check needed.
   - leviticus: Lev. 25:35-36. CONFIRMED. No further check needed.
   - deuteronomy: Deut. 23:20-21 (Masoretic). CONFIRMED. The draft correctly notes Masoretic numbering.
-  - yoreh-deah: Shulhan Arukh, Yoreh De'ah 167, with Rema. CONFIRMED as the ribbit/iska siman. Siman 167 addresses the conditions under which capital may be lent for investment, which is the heter iska framework. The Rema's glosses are the standard Ashkenazi authority. Specific se'if numbers not confirmed; author should add se'if pins from a text before final publication.
+  - yoreh-deah: Shulhan Arukh, Yoreh De'ah 177, with Rema. VERIFIED against Sefaria. Siman 177 is the comprehensive iska siman (40+ seifim covering the full iska partnership structure, including the half-loan / half-deposit allocation, the manager's wage, and oath requirements). Siman 167 is a separate narrow provision (one seif) about profit-sharing lending and is NOT the heter iska siman. The draft body and footnote originally cited YD 167 in error; corrected to YD 177 throughout. Se'if pins not yet confirmed; add before final publication.
   - bank-israel-heter-iska: UNVERIFIABLE. No specific Bank of Israel circular or Chief Rabbinate heter iska kelali publication located through accessible sources. The claim is standard in the heter iska literature but needs a specific document citation. Leave as prose assertion or locate a specific responsum or regulatory circular.
   - mizrachi-leumi: UNVERIFIABLE by direct product-page confirmation. The four named banks are commonly cited in the heter iska literature as offering such products. Current product offerings not confirmed. Either qualify the claim in the body ("have offered heter iska products") or verify against each bank's current website before publication.
 ---
@@ -30,7 +30,7 @@ The *societas* side of the same argument appears in [Jurisgenesis in Transaction
 
 ## II. The problem the *heter iska* solves
 
-The Torah prohibits lending at interest to a fellow Jew. Leviticus directs the Israelite to uphold his brother and to take no *neshekh* or *tarbit* from him.[^fn-lev] Deuteronomy repeats the prohibition and contrasts the foreigner, from whom interest may be taken, with the brother, from whom it may not.[^fn-deut] The prohibition is biblical, not rabbinic. It binds the lender and the borrower alike; later authorities will hold that a Jew who pays interest to another Jew transgresses no less than the one who collects it.
+The Torah prohibits lending at interest to a fellow Jew. Leviticus directs the Israelite to uphold his brother and to take no *neshekh* or *tarbit* from him.[^fn-lev] Deuteronomy repeats the prohibition and contrasts the foreigner, from whom interest may be taken, with the brother, from whom it may not.[^fn-deut] The prohibition is biblical, not rabbinic. It binds the lender and the borrower alike; the Talmud holds that a Jew who pays interest to another Jew transgresses no less than the one who collects it.[^fn-bm-75b]
 
 The prohibition rules out the *mutuum* form: a loan of fungible capital that the borrower must repay with a fixed premium regardless of what the capital earned. The borrower bears all the risk. The lender keeps the capital safe and adds a return on top. That is what the Torah forbids and what the Talmudic literature elaborates.
 
@@ -42,7 +42,7 @@ Maimonides places the *iska* structure in its doctrinal context. In Hilkhot Matt
 
 The medieval period generated the *shtar iska*, the formal deed by which two parties enter the Talmudic structure. By the early modern period the Ashkenazi authorities had settled on a standardized deed, the *heter iska*, literally a "permission of partnership," that could be appended to or recited over what would otherwise look like an interest-bearing loan and convert it into a halakhically permitted partnership-at-shared-risk.
 
-The Rema, Rabbi Moshe Isserles of sixteenth-century Krakow, plays the formative role for the Ashkenazi tradition. His glosses on the Shulḥan Arukh treat the *heter iska* as the standard remedy in Yoreh De'ah 167, the section that codifies the laws of *ribbit*.[^fn-ya] The deed is not a loophole. It is a redrafting of the deal as the Talmud has authorized it to be drafted. The two parties have not avoided the prohibition; they have written a different contract from the one the prohibition forbids.
+The Rema, Rabbi Moshe Isserles of sixteenth-century Krakow, plays the formative role for the Ashkenazi tradition. His glosses on the Shulḥan Arukh treat the *heter iska* as the standard remedy in Yoreh De'ah 177, the comprehensive *iska* siman.[^fn-ya] The deed is not a loophole. It is a redrafting of the deal as the Talmud has authorized it to be drafted. The two parties have not avoided the prohibition; they have written a different contract from the one the prohibition forbids.
 
 The point is worth pausing on. A loophole presupposes that the underlying transaction is the prohibited one and that the form is a way of dressing it up. The *heter iska* tradition does not see itself this way. The underlying transaction, when properly executed, *is* a partnership at shared risk. The deed is the document that makes that fact legible to the parties, to the rabbinic court, and to any later party who needs to know which kind of deal this was. The Rema and the authorities who follow him insist on the substantive requirements: the provider's capital must in fact be at risk in the venture; the deal must be witnessed; the manager-borrower owes the truth about losses; the wage component for the manager's labor must be real.
 
@@ -60,7 +60,7 @@ The modern banking deed adds an overlay. A bank that issues a commercial loan un
 
 ## V. The *heter iska* in modern banking
 
-The *heter iska* is used today. The major Israeli banks, including Mizrahi-Tefahot, Bank Leumi, Bank Hapoalim, and Discount Bank, offer commercial loans and certain consumer products structured under a *heter iska* deed. Customers who wish to transact under halakhic terms request the *heter iska* version; the bank treats the request as ordinary business. Bank of Israel and the rabbinic authorities have issued guidance on what a compliant *heter iska* requires for institutional use, and the Chief Rabbinate's *heter iska kelali*, a general communal deed, supplies a baseline form that many institutions adopt.
+The *heter iska* is used today. The major Israeli banks, including Mizrahi-Tefahot, Bank Leumi, Bank Hapoalim, and Discount Bank, have offered commercial loans and certain consumer products structured under a *heter iska* deed.[^fn-bank-israel-unverified] Customers who wish to transact under halakhic terms request the *heter iska* version; the bank treats the request as ordinary business. Bank of Israel and the rabbinic authorities have issued guidance on what a compliant *heter iska* requires for institutional use, and the Chief Rabbinate's *heter iska kelali*, a general communal deed, supplies a baseline form that many institutions adopt.
 
 Outside Israel, the institutional footprint is smaller but real. In the United States, Jewish community lenders, *gemaḥ* operations, and certain private credit funds use *heter iska* deeds as a matter of standard practice for loans between Jewish parties. Some American banks with a substantial observant Jewish customer base will execute a *heter iska* on request. The *gemaḥ* networks in Brooklyn, Lakewood, Baltimore, Cleveland, and elsewhere extend interest-free loans by default, and where a structured return is appropriate, the *heter iska* is the form.
 
@@ -94,8 +94,12 @@ The work for the practitioner is the same work the lineage page describes for th
 
 [^fn-rambam-mat]: Maimonides, *Mishneh Torah*, Hilkhot Mattenot Aniyim 10:7. The eight rungs of *ẓedakah*; the highest is *shutafut*, partnership with one who has fallen.
 
-[^fn-rambam-shel]: Maimonides, *Mishneh Torah*, Hilkhot Sheluḥin v'Shutafin, ch. 6, on the *iska* and the law of the partnership-manager. Chapter and law numbers to be verified against the Frankel edition before publication.
+[^fn-rambam-shel]: Maimonides, *Mishneh Torah*, Hilkhot Sheluḥin v'Shutafin, ch. 6, on the *iska* and the law of the partnership-manager. Chapter 6 verified against Sefaria as the *iska* chapter (introducing *eseq*, the managed-partnership with capital provider and operator). Individual halakha pin within ch. 6 to be added before final publication.
 
-[^fn-ya]: Shulḥan Arukh, Yoreh De'ah 167, with the glosses of the Rema. The precise *siman* and *se'if* numbers to be verified before publication.
+[^fn-ya]: Shulḥan Arukh, Yoreh De'ah 177 (שו"ע יו"ד קע"ז), with the glosses of the Rema. Siman 177 is the comprehensive *iska* siman in the Shulhan Arukh (not siman 167, which is a narrow one-seif provision on profit-sharing lending). Se'if pins not yet confirmed; add before final publication.
 
 [^fn-jurisgen]: See [Jurisgenesis in Transactional Drafting](/LEP/essays/jurisgenesis-drafting/), treating the Catholic twin of this argument and the venture, ESOP, and tokenized-venture instruments through which the *societas* form is presently being recovered.
+
+[^fn-bm-75b]: Bava Metzia 75b. The Mishnah at 75b enumerates the parties who transgress (וְאֵלּוּ עוֹבְרִין בְּלֹא תַעֲשֶׂה, *ve-elu overin be-lo taʿaseh*, "these transgress a negative commandment"): the lender, the borrower, the guarantor, and the witnesses — and the Sages add the scribe as a fifth. Both lender and borrower transgress. Verified against Sefaria.
+
+[^fn-bank-israel-unverified]: Product availability subject to change and not confirmed by direct inspection of each bank's current offerings. The four named banks are the standard reference in the heter iska literature. Specific product confirmation and any Bank of Israel or Chief Rabbinate guidance cited in Section V to be verified before publication. See citations_to_verify in the frontmatter.
