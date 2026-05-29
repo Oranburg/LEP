@@ -23,7 +23,7 @@ The bird was banging on my window again. He comes in the evenings, when I work l
 
 I was not paying attention to him that night. On the screen was the new encyclical from Pope Leo XIV: *Magnifica Humanitas*, released on a Monday in May, addressed to the world. On the desk beside the laptop was my Chumash, open to *Bamidbar*, the Book of Numbers. I had been with it since before Shabbat, working my way slowly through the parsha the way a person works slowly through a foreign city with a pocket map. I know the Hebrew alphabet. I go to shul. I get through the pointed text with a finger on the line.
 
-I am not a scholar. I need to say this early, before the letters get involved, because the letters are going to get involved and I have learned from experience that if I let them get too far without the disclaimer they will look bigger than they are. I noticed a few things in the Hebrew, the way a person notices something from a bus window, which means I cannot verify what I think I saw and I may have the address wrong. I noticed. That is the honest verb.
+I am not a scholar. I noticed a few things in the Hebrew, the way a person notices something from a bus window: I cannot verify what I think I saw and I may have the address wrong. I noticed. That is the honest verb.
 
 What I was doing that night, mostly, was stalling. The screen had a half dozen unanswered emails, a platform-services agreement that needed three more rounds before it was right, a data-governance memo I had been arguing with for two days, and the encyclical, which I had downloaded that morning and promised myself I would read before bed. And the Chumash was on the desk because it had been there all week, the way a book gets there when you mean to return to it and keep finding reasons not to.
 
@@ -61,21 +61,19 @@ Leo reads this and sees subsidiarity: governance at the lowest competent level, 
 
 The night I made this connection I went looking in the Hebrew for things I might have missed. I looked up the modern Hebrew for artificial intelligence, because the encyclical is about artificial intelligence and I had been reading it all evening and I was curious whether the Hebrew had anything to say that Leo's Italian didn't. It is בינה מלאכותית (*bina melakhutit*). The first word is understanding, the kind the tradition says God gave Solomon when Solomon asked not for riches but for a heart that could judge his people wisely. The second word is the adjective form of מלאכה (*melakha*), which means work or craft.
 
-And then I noticed something I had not expected. The root of *melakha*, the consonants underneath the word, are the same consonants as the root of מלאך (*malach*), the Hebrew word for messenger, which the Christian tradition translates as angel. The intelligence of craft and the messenger share their letters, because both are sent. Both have a job. Neither chooses.
-
-I had known the word *malach* my whole life. I had not noticed that it lived inside the word for artificial intelligence until I looked.
+The root of *melakha*, the consonants underneath the word, are the same consonants as the root of מלאך (*malach*), the Hebrew word for messenger, which the Christian tradition translates as angel. The intelligence of craft and the messenger share their letters, because both are sent. Both have a job. Neither chooses.
 
 The tradition holds that an angel has no inclination to fall and, for the same reason, no inclination to rise. It cannot disobey, cannot repent, cannot love, and cannot enter a covenant, because entering a covenant requires the freedom to break it. An angel performs the mission of whoever sent it, exactly, and the only question that has ever mattered about a messenger is who did the sending.
 
-Leo says this about AI at paragraph 99, in a list of negations: the machine does not undergo experiences, does not possess a body, does not feel joy or pain, does not have a moral conscience. The Hebrew root is older than his sentence. A thing that executes a mission without conscience is a thing the tradition already had a name for.
+Leo says this about AI at paragraph 99, in a list of negations: the machine does not undergo experiences, does not possess a body, does not feel joy or pain, does not have a moral conscience. A thing that executes a mission without conscience is a thing the tradition already had a name for.
 
-I drafted the platform-services agreement the next morning. *Shall* is a different country from *may*. The clause governs the machine, and the machine does not pause to ask whether the clause is wise. The lawyer is writing the angel's instructions, setting down what the messenger is permitted to carry and what it is not. I had not put it together in quite that way before. It is not a discovery; it is the kind of thing you notice when you finally look down. The Hebrew had been there the whole time.
+I drafted the platform-services agreement the next morning. *Shall* is a different country from *may*. The clause governs the machine, and the machine does not pause to ask whether the clause is wise. The lawyer is writing the angel's instructions, setting down what the messenger is permitted to carry and what it is not. The Hebrew had been there the whole time.
 
-What I had been circling all week, I think, is the question of what it means to carry a tradition into a room where the tradition is not the official one. To be the Jewish professor at the Catholic university, or the Jewish cupbearer at the Persian court, or the Jewish lawyer drafting contracts that will bind an algorithm that has no יצר הרע (*yetzer hara*) and no יצר הטוב (*yetzer tov*) and will do exactly what the clause says, no more and no less, for as long as the clause runs. In each case the tradition is not on the letterhead. In each case the tradition is the thing you carry.
+What I had been circling all week is the question of what it means to carry a tradition into a room where the tradition is not the official one. The Jewish professor at the Catholic university, the Jewish cupbearer at the Persian court, the Jewish lawyer drafting clauses to bind an algorithm with no יצר הרע (*yetzer hara*) and no יצר הטוב (*yetzer tov*). The tradition is not on the letterhead. It is the thing you carry.
 
 Nehemiah prays before he answers the king. The prayer happens in the space of a breath, between the question and the answer. He is standing at the king's side with the cup, and he is also, in that same moment, standing inside the covenant. The two things are not at war with each other. The court position gives him the timber to build the gates. The covenant gives him the reason to go home.
 
-I have been thinking about what I carry to the Catholic university. Not as an apologist for Judaism, not as a representative of my people's positions, not as the designated Jewish voice in a Catholic room, but just as a scholar who learned to think from a tradition and carries that tradition into the work. The tradition shows up in the questions I ask, in the sources I reach for, in the things I notice when I look. I do not need to announce it. I do not need to hide it. I need to grip my section of the wall.
+I have been thinking about what I carry to the Catholic university. Not as the designated Jewish voice in a Catholic room, but as a scholar who learned to think from a tradition and carries it into the work. The tradition shows up in the questions I ask, in the sources I reach for, in the things I notice when I look. I do not need to announce it. I do not need to hide it. I need to grip my section of the wall.
 
 Leo's Nehemiah rebuilds relationships before rebuilding with stones. That is his phrase, and I have been reading it for weeks now, turning it over. You do not build the wall first. You count the people first, by name, by family, raising each head. The census in the wilderness comes before the march toward any city. The Chumash was on the desk all week for a reason, and the reason was that the wilderness is the place where the work of counting people happens before any stone is laid.
 
@@ -83,8 +81,6 @@ The night Bangy Bird stopped banging I was still at the desk with both books ope
 
 I closed the Chumash. I left the encyclical open.
 
-Tomorrow there is a platform-services agreement with three more rounds to go, and a faculty appointment that starts in August, and a clause to revise on a model I do not fully understand yet, and a section of wall that has my name on it. The Holy Language, in which these stories were first told, has been speaking all along. I am just now beginning to hear what it has been saying about my particular position.
-
----
+Tomorrow there is a platform-services agreement with three more rounds to go, and a faculty appointment that starts in August, and a clause to revise on a model I do not fully understand yet, and a section of wall that has my name on it.
 
 *Seth Oranburg is a professor of business law at The Catholic University of America Columbus School of Law, where he writes on law, technology, and the governance of emerging systems from a Jewish legal perspective.*
