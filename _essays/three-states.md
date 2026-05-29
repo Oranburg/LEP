@@ -91,7 +91,7 @@ This inheritance is also a burden. An institution that has maintained a form acr
 
 ## Three States, Three Different Problems
 
-{% include figure.html name="callout-three-stations" alt="Three parallel nodes labeled Athens (severed and reclaimed, elenchus), Jerusalem (continuous communal, ḥavruta), Rome (continuous institutional, disputatio)." caption="Three traditions, three institutional conditions, one underlying question." %}
+{% include figure.html name="callout-three-stations" alt="Three nodes: Athens (severed and reclaimed, elenchus), Jerusalem (continuous communal, ḥavruta), Rome (continuous institutional, disputatio). Each tradition encodes a different answer to how pedagogical methods survive." caption="**Three traditions, three institutional conditions, one underlying question.** The structural weakness of each state is named in the paragraphs that follow." %}
 
 The typology is now clear enough to state precisely.
 
