@@ -26,6 +26,21 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 ### [Magnifica Humanitas and the Babel Question](/LEP/essays/magnifica-babel/)
 *Pre-release.* Leo XIV's 2026 encyclical takes Babel and Nehemia as opposed AI-venture structures. The opposition applies the older *societas* / *mutuum* test to compute, data, and platform equity, and shows where the lawyer drafts Babel by default.
 
+### [Who Is Sending the Messenger](/LEP/essays/magnifica-who-is-sending/)
+*Pre-release.* The encyclical's operative claim is an agency claim: the machine is a messenger with no will, and the lawyer drafting the platform-services agreement is writing the angel's instructions. The clause is where the *persona*/*res* allocation becomes binding. Target venue: Public Discourse.
+
+### [What Nehemiah Knew](/LEP/essays/magnifica-nehemia-asymmetry/)
+*Pre-release.* Classical Jewish exegesis left Nehemiah 2-6 undeveloped as a governance parable. Leo XIV built the interior the tradition did not, and this essay accepts the invitation — through *dina d'malkhuta dina*, the *kehilla* model, *issurei hana'ah*, and the *sachir* law. Target venue: Tikvah / Mosaic.
+
+### [The Third Place](/LEP/essays/magnifica-third-place/)
+*Pre-release.* The wilderness between Leo's two cities is not a failure to choose — it is where persons are counted by name before any project begins, and it is the only honest standpoint for a lawyer reading the encyclical in the AI age. Personal essay. Target venue: Plough.
+
+### [The Cup-Bearer's Position](/LEP/essays/magnifica-cup-bearer/)
+*Pre-release.* The Jewish professional's position inside a non-Jewish institution is the instrument, not the embarrassment: Nehemiah built Jerusalem's wall because he first kept the Persian king's cup. Lyrical-confessional essay. Target venue: Judith Magazine.
+
+### [The Ground Nobody Owns](/LEP/essays/magnifica-ground-nobody-owns/)
+*Pre-release.* Roman law's *res nullius* / *res communes omnium* taxonomy misses the *hefker* category — the ground that must remain ownerless as a condition of what can be received there. Personal data is not air, not abandoned property, and the law of capture cannot honor it without corrupting it. Target venue: Sapir Journal.
+
 ## Institutional briefs
 
 ### [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/)
