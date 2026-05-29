@@ -22,7 +22,7 @@ The frame is substantive doctrine, not branding. The program's claim is that the
 
 **Visiting-scholar arrangements.** The Leo Fellowship in Entrepreneurial Lawyering (in development) supports visiting-scholar slots. Reach out to discuss fit, timing, and topic. The program is particularly interested in scholars working in private law (contracts, business associations, securities, commercial law) who treat partnership and capital deployment as substantive doctrine.
 
-**Co-authoring.** The program's working-paper pipeline has room for co-authored projects, particularly in three places: the *Laborem Exercens / exercitor navis* article currently in folder embargo pending the Salamanca-school recovery search; the close-reading essay on *Magnifica Humanitas*; and a forthcoming piece on Maimonides and *shutafut* as the Jewish parallel to *societas*.
+**Co-authoring.** The program's working-paper pipeline has room for co-authored projects, particularly in three places: the *Laborem Exercens / exercitor navis* article currently in folder embargo pending the Salamanca-school recovery search; the engagement with *Magnifica Humanitas*; and a forthcoming piece on Maimonides and *shutafut* as the Jewish parallel to *societas*.
 
 **Cross-program co-hosting.** The program co-hosts events with the Cluny Institute (also at CUA, run by Luke Burgis) where their themes meet. The Institute's flagship ZOË Conference (July 26 to 28, 2026, Napa) is the immediate co-program-able event.
 

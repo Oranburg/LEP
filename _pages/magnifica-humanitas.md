@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Magnifica Humanitas: A Close Reading"
+title: "Magnifica Humanitas: A Reading"
 permalink: /magnifica-humanitas/
 ---
 
-# Magnifica Humanitas: A Close Reading
+# Magnifica Humanitas: A Reading
 
-Pope Leo XIV's encyclical *Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence*, given at Rome on 15 May 2026, restates the social doctrine of the Church for the AI age. The text is published at [vatican.va](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html). A full close-reading essay is in development.
+<!-- LABEL VOID: per Seth's 2026-05-26 memory rule, "close reading" is not the term for this engagement. "A Reading" is a neutral placeholder pending Seth's replacement label. -->
+
+Pope Leo XIV's encyclical *Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence*, given at Rome on 15 May 2026, restates the social doctrine of the Church for the AI age. The text is published at [vatican.va](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html). A full engagement with the encyclical is in development.
 
 ## The historical position of the encyclical
 
@@ -32,15 +34,25 @@ The verified paragraph anchors below come from a research pass on the encyclical
 
 The program's working paper *Architects of the Void* (in submission) reads the entrepreneurial lawyer's drafting work as sub-creation: the constitution of the institutional body in which the founder's animating purpose can act in the material world. The argument lands directly on the diagnosis *Magnifica Humanitas* makes about work, dignity, and the new forms of dependence the AI age produces. What artificial intelligence can do is recombine patterns and optimize within established frameworks. What it cannot do is exercise the judgment by which a new legal form is constituted, named, and held accountable to a purpose. The encyclical's account of the subjective dimension of work and the working paper's account of the lawyer's authorship over the legal forms of the firm name the same capacity from different traditions. The hidden labor chains of § 173 and the data-colonialism diagnosis of § 178 are then the cases in which that authorship most matters: the lawyer who drafts the platform's worker-classification structure, the supply-chain vendor agreement, or the data-collection consent flow is constituting the legal form that determines whether the venture builds a peer or maintains a dependent.
 
-## What the close-reading essay will do
+## Essays in the cluster
 
-The essay (in development) will:
+Three pieces engage the encyclical from distinct angles.
 
-1. Read the encyclical against the *societas* spine of the program's intellectual identity (Aquinas through Salamanca through *Rerum Novarum* through *Laborem Exercens* through *Magnifica Humanitas*).
-2. Read it alongside the parallel Jewish-tradition convergence at Maimonides and the *heter iska* development.
-3. Treat the practical implications for transactional and regulatory practice in the fintech, AI, and digital-asset sectors.
+- [*Magnifica Humanitas and the Babel Question*]({{ '/essays/magnifica-babel/' | relative_url }}) reads the encyclical's Babel/Nehemia opposition through the *societas / mutuum* distinction and applies it to the central question of AI ventures: who shares in the upside.
+- *The Aleph Bet of A.I.: Reading Magnifica Humanitas through the Holy Language* (in development) reads the encyclical's chosen Hebrew Bible images letter by letter, treating the Hebrew of *Babel*, *Hevel*, *bilbul*, *shomer*, and *binah melakhutit* as a layer of teaching the translation cannot fully carry. Target venue: *Public Discourse*.
+- *The Nehemiah Asymmetry* (working title; in development) reads the encyclical's elevation of Nehemia 2-6 to the organizing metaphor of the AI age, against the background that classical Jewish commentary does not develop the wall-building as a governance parable. Target venue: a Jewish public-intellectual outlet.
 
-The essay will be published when complete.
+## Visual aids from the Dicastery for Promoting Integral Human Development
+
+The Dicastery for Promoting Integral Human Development has published five official infographics that summarize the encyclical chapter by chapter. They are available on the LEP site for study reference. The originals are at <a href="https://www.humandevelopment.va/">humandevelopment.va</a>.
+
+- [Infographic 1: Introduction and Chapter 1]({{ '/assets/figures/magnifica-humanitas/infographic-01-intro-ch1.jpg' | relative_url }}) — *Two roads ahead*: Babel versus Jerusalem, the Tower of Babel Syndrome, Nehemia's way, and four pillars for building a better future.
+- [Infographic 2: Chapter 2]({{ '/assets/figures/magnifica-humanitas/infographic-02-ch2.jpg' | relative_url }}) — *Foundations and principles of the Church's social teaching*: human dignity, common good, universal destination of goods, subsidiarity, solidarity, social justice, integral human development.
+- [Infographic 3: Chapter 3]({{ '/assets/figures/magnifica-humanitas/infographic-03-ch3.jpg' | relative_url }}) — *The greatness of the human person in the face of the promises of AI*: the technocratic paradigm, the myths of transhumanism, the true human being.
+- [Infographic 4: Chapter 4]({{ '/assets/figures/magnifica-humanitas/infographic-04-ch4.jpg' | relative_url }}) — *Safeguarding the human person in the transformation*: Truth, Work, Freedom.
+- [Infographic 5: Chapter 5 and Conclusion]({{ '/assets/figures/magnifica-humanitas/infographic-05-ch5-conclusion.jpg' | relative_url }}) — *Building the civilization of love*: technology, war, and responsibility in the digital age; the Magnificat as key for interpretation.
+
+Metadata for each infographic (chapter ranges, key paragraphs, bridge mappings) is at `_data/magnifica-humanitas-infographics.json`.
 
 ## On redistribution of the encyclical text
 

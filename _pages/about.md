@@ -18,7 +18,7 @@ This site (oranburg.law/LEP) is not an official CUA program site. Nothing on it 
 - [The year theme]({{ '/theme/' | relative_url }}): *Entrepreneurship v. Poverty*
 - [Doctrinal lineage]({{ '/lineage/' | relative_url }}): how the Catholic *societas* and Jewish *shutafut* traditions converge
 - [Societas]({{ '/societas/' | relative_url }}): the partnership form of justice, as the program's intellectual center
-- [Magnifica Humanitas]({{ '/magnifica-humanitas/' | relative_url }}): close reading of Leo XIV's encyclical
+- [Magnifica Humanitas]({{ '/magnifica-humanitas/' | relative_url }}): reading of Leo XIV's encyclical
 - [People]({{ '/people/' | relative_url }}): who runs the program
 - [Working papers]({{ '/working-papers/' | relative_url }}): drafts in development
 
