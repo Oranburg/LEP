@@ -66,6 +66,18 @@ The doctrinal move is identical to the *societas* / *mutuum* distinction Aquinas
 
 The encyclical's § 7 sets the frame; §§ 67, 163, 173, and 178 extend it across the structural points where an AI venture's documents do their work. § 67 brings algorithms, platforms, and datasets under the principle of the universal destination of goods — which is to say it brings them under the *societas* test. § 163 restates, for the AI age, what *Centesimus Annus* said in 1991: market coordination is a powerful tool and not a moral substitute for moral reasoning. §§ 173 and 178 name the human populations — annotators, content moderators, mineral extractors, data subjects — whose contributions the Babel configuration consumes without sharing the return. The five paragraphs together are not a policy wish-list. They are the doctrinal application of a test the tradition has run since Aquinas, now applied to instruments that Aquinas could not have seen but that the test reaches without modification.
 
+## III.A. The legislative proof: Wyoming 2021 to 2022
+
+The Babel/Nehemia opposition is not encyclical metaphor. American business law has run the same opposition in statutory form, without an encyclical to consult and within a single calendar year.
+
+Wyoming enacted the first American DAO statute in 2021, Wyo. Stat. §§ 17-31-101 et seq., and drafted Babel by default. The original statute permitted DAOs to be "member managed" or "algorithmically managed," with the algorithmic category permitting governance by smart contract with no human management intermediary. The structure was precisely the Babel configuration in statutory form: capital and labor gathered into an automated tower, with no human stake in the management of what the contributors built.
+
+The legislature reversed course in 2022. The 2022 amendments repealed the algorithmically managed category entirely, replacing the binary classification with a single management structure: "DAOs shall be managed by the members." Members are natural or legal persons, not autonomous code. The amendments added a universal smart-contract amendability requirement: "All smart contracts utilized by a [DAO] shall be capable of being updated, modified or otherwise upgraded." And the amendments added a dissolution trigger tied to natural-person control: a DAO "shall be dissolved" if it "is no longer under the control of at least one (1) natural person." Wyo. Stat. §§ 17-31-104, -113, -114 (2022).
+
+The trajectory from 2021 to 2022 is the Nehemian correction worked out in the state code. Within one year, the first-mover legislature concluded that entity recognition without human governance was unworkable. The architects of the 2022 amendments did not cite Aquinas or Genesis; they reached the same conclusion through the ordinary mechanics of statutory drafting: a governance structure with no human stake in the management of what contributors build does not hold. The *societas* / *mutuum* test that Aquinas drew from Roman commercial law and Leo XIV applies to AI ventures is the test that Wyoming's legislature ran on its own DAO statute and corrected within twelve months.[^WY]
+
+[^WY]: Seth C. Oranburg, *Human in the Decentralized Loop: What State DAO Statutes Require of People* (forthcoming) (analyzing Wyoming's 2021 to 2022 reversal as the paradigm case of the human governance floor). The statutory facts here are drawn from that analysis.
+
 ## IV. The Babel question applied
 
 Three contemporary configurations illustrate what the test produces in practice.
