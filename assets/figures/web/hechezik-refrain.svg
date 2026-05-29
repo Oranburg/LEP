@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="600" height="220"
+     role="img" aria-label="The verb hechezik appears as a refrain through Nehemiah 3, each instance naming a new builder gripping a section of wall. The repetition is the architecture.">
+  <title>הֶחֱזִיק — the refrain through Nehemiah 3</title>
+  <defs>
+    <style>
+      text { font-family: "Times New Roman", Georgia, serif; }
+    </style>
+  </defs>
+
+  <!-- heading -->
+  <text x="300" y="28" font-size="15" fill="#1a1a1a" text-anchor="middle" letter-spacing="1">הֶחֱזִיק</text>
+  <text x="300" y="46" font-size="10" fill="#888" text-anchor="middle" font-style="italic">heḥezik — gripped, seized hold of, strengthened (Nehemiah 3)</text>
+
+  <!-- Wall base: a horizontal bar representing the wall sections -->
+  <rect x="20" y="160" width="560" height="28" rx="2" fill="#e8e0d0" stroke="#a89b7d" stroke-width="1"/>
+  <text x="300" y="179" font-size="9" fill="#888" text-anchor="middle">the wall of Jerusalem — each section named, each builder's grip recorded</text>
+
+  <!-- Seven instances of hechezik as pillars rising from the wall, spaced evenly -->
+  <!-- Instance marks (abbreviated section names below) -->
+
+  <!-- Nehemia 3:1 — high priest Eliashib -->
+  <rect x="30" y="90" width="64" height="70" rx="2" fill="#1e3a5f" stroke="#0f2235" stroke-width="1"/>
+  <text x="62" y="136" font-size="26" fill="#e0f0ff" text-anchor="middle">חז</text>
+  <text x="62" y="156" font-size="7" fill="#607590" text-anchor="middle">3:1 Eliashib</text>
+
+  <!-- 3:4 -->
+  <rect x="108" y="100" width="64" height="60" rx="2" fill="#2c2c1a" stroke="#5a5a2e" stroke-width="1"/>
+  <text x="140" y="140" font-size="26" fill="#e8e0b0" text-anchor="middle">חז</text>
+  <text x="140" y="156" font-size="7" fill="#888060" text-anchor="middle">3:4 Meremoth</text>
+
+  <!-- 3:5 -->
+  <rect x="186" y="108" width="64" height="52" rx="2" fill="#1e3a5f" stroke="#0f2235" stroke-width="1"/>
+  <text x="218" y="144" font-size="26" fill="#e0f0ff" text-anchor="middle">חז</text>
+  <text x="218" y="156" font-size="7" fill="#607590" text-anchor="middle">3:5 Tekoa</text>
+
+  <!-- 3:9 -->
+  <rect x="264" y="95" width="64" height="65" rx="2" fill="#3d1a0f" stroke="#6b2e1a" stroke-width="1"/>
+  <text x="296" y="137" font-size="26" fill="#c8a07a" text-anchor="middle">חז</text>
+  <text x="296" y="156" font-size="7" fill="#9a7055" text-anchor="middle">3:9 Rephaiah</text>
+
+  <!-- 3:12 -->
+  <rect x="342" y="103" width="64" height="57" rx="2" fill="#2c2c1a" stroke="#5a5a2e" stroke-width="1"/>
+  <text x="374" y="142" font-size="26" fill="#e8e0b0" text-anchor="middle">חז</text>
+  <text x="374" y="156" font-size="7" fill="#888060" text-anchor="middle">3:12 Shallum</text>
+
+  <!-- 3:17 -->
+  <rect x="420" y="110" width="64" height="50" rx="2" fill="#1e3a5f" stroke="#0f2235" stroke-width="1"/>
+  <text x="452" y="145" font-size="26" fill="#e0f0ff" text-anchor="middle">חז</text>
+  <text x="452" y="156" font-size="7" fill="#607590" text-anchor="middle">3:17 Hashabiah</text>
+
+  <!-- 3:28 -->
+  <rect x="498" y="90" width="64" height="70" rx="2" fill="#f5f2ec" stroke="#a89b7d" stroke-width="1"/>
+  <text x="530" y="136" font-size="26" fill="#1a1a1a" text-anchor="middle">חז</text>
+  <text x="530" y="156" font-size="7" fill="#888" text-anchor="middle">3:28 the priests</text>
+
+  <!-- rhythm annotation -->
+  <text x="300" y="75" font-size="9" fill="#aaa" text-anchor="middle" font-style="italic">"next to him … heḥezik" — the verb as architectural rhythm, each grip naming a stake</text>
+</svg>

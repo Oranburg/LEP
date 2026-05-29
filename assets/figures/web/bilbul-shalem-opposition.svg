@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" width="620" height="280"
+     role="img" aria-label="Bilbul: two bets sealing two lameds with a trapped vav at center, enacting confusion as imprisonment. Shalem: shin with three branches, lamed released, mem-sofit sealed at the close.">
+  <title>בלבול / שלם — confusion as enclosure, wholeness as release</title>
+  <defs>
+    <style>
+      text { font-family: "Times New Roman", Georgia, serif; }
+    </style>
+  </defs>
+
+  <!-- ——— BILBUL panel ——— -->
+  <rect x="10" y="10" width="280" height="260" rx="4" fill="#3d1a0f" stroke="#6b2e1a" stroke-width="1.5"/>
+  <text x="150" y="42" font-size="13" fill="#c8a07a" text-anchor="middle" letter-spacing="1">בִּלְבּוּל</text>
+  <text x="150" y="58" font-size="10" fill="#9a7055" text-anchor="middle" font-style="italic">bilbul — confusion</text>
+
+  <!-- Letter breakdown: right-to-left, so displayed left-to-right in SVG space with annotation -->
+  <!-- bet (1) -->
+  <text x="55" y="160" font-size="90" fill="#c8a07a" text-anchor="middle">ב</text>
+  <text x="55" y="185" font-size="9" fill="#9a7055" text-anchor="middle">bet</text>
+  <text x="55" y="197" font-size="8" fill="#7a5040" text-anchor="middle">wall</text>
+
+  <!-- lamed (2) -->
+  <text x="118" y="160" font-size="90" fill="#e8d5b0" text-anchor="middle">ל</text>
+  <text x="118" y="185" font-size="9" fill="#c8a88a" text-anchor="middle">lamed</text>
+  <text x="118" y="197" font-size="8" fill="#9a7055" text-anchor="middle">reaching</text>
+
+  <!-- vav (3) — trapped center -->
+  <text x="175" y="160" font-size="90" fill="#ff9955" text-anchor="middle" opacity="0.9">ו</text>
+  <text x="175" y="185" font-size="9" fill="#ff9955" text-anchor="middle">vav</text>
+  <text x="175" y="197" font-size="8" fill="#c86030" text-anchor="middle">trapped</text>
+
+  <!-- lamed (4) -->
+  <text x="220" y="160" font-size="90" fill="#e8d5b0" text-anchor="middle">ל</text>
+  <text x="220" y="185" font-size="9" fill="#c8a88a" text-anchor="middle">lamed</text>
+  <text x="220" y="197" font-size="8" fill="#9a7055" text-anchor="middle">reaching</text>
+
+  <!-- bet (5) -->
+  <text x="263" y="160" font-size="90" fill="#c8a07a" text-anchor="middle">ב</text>
+  <text x="263" y="185" font-size="9" fill="#9a7055" text-anchor="middle">bet</text>
+  <text x="263" y="197" font-size="8" fill="#7a5040" text-anchor="middle">wall</text>
+
+  <!-- Prison arch — two bets flanking two lameds and a vav -->
+  <path d="M 30,80 L 30,215 M 290,80 L 290,215" stroke="#6b2e1a" stroke-width="2" stroke-dasharray="4,3" fill="none"/>
+  <text x="150" y="238" font-size="9" fill="#9a7055" text-anchor="middle">two walls, two reaching letters, one center sealed</text>
+
+  <!-- ——— SHALEM panel ——— -->
+  <rect x="330" y="10" width="280" height="260" rx="4" fill="#1e3a5f" stroke="#0f2235" stroke-width="1.5"/>
+  <text x="470" y="42" font-size="13" fill="#b8d0f0" text-anchor="middle" letter-spacing="1">שָׁלֵם</text>
+  <text x="470" y="58" font-size="10" fill="#7899bb" text-anchor="middle" font-style="italic">shalem — whole, at peace</text>
+
+  <!-- shin -->
+  <text x="380" y="160" font-size="90" fill="#b8d0f0" text-anchor="middle">שׁ</text>
+  <text x="380" y="185" font-size="9" fill="#8aabcc" text-anchor="middle">shin</text>
+  <text x="380" y="197" font-size="8" fill="#607590" text-anchor="middle">three branches</text>
+
+  <!-- lamed — released, ascends -->
+  <text x="473" y="160" font-size="90" fill="#e0f0ff" text-anchor="middle">ל</text>
+  <text x="473" y="185" font-size="9" fill="#aaccee" text-anchor="middle">lamed</text>
+  <text x="473" y="197" font-size="8" fill="#8aabcc" text-anchor="middle">free to reach</text>
+
+  <!-- mem-sofit — sealed at close, but by completion not imprisonment -->
+  <text x="557" y="160" font-size="90" fill="#607590" text-anchor="middle">ם</text>
+  <text x="557" y="185" font-size="9" fill="#4a5f75" text-anchor="middle">mem-sofit</text>
+  <text x="557" y="197" font-size="8" fill="#3a4f65" text-anchor="middle">concealed truth</text>
+
+  <!-- open-sky indicator over lamed -->
+  <path d="M 450,70 Q 473,55 496,70" stroke="#4a7ab0" stroke-width="1.5" fill="none" stroke-dasharray="3,2"/>
+  <text x="473" y="52" font-size="8" fill="#4a7ab0" text-anchor="middle">ascends freely</text>
+
+  <text x="470" y="238" font-size="9" fill="#7899bb" text-anchor="middle">plurality, reaching, sealed truth — not a prison</text>
+</svg>
