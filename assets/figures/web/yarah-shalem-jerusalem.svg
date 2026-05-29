@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 240" width="580" height="240"
+     role="img" aria-label="Yarah plus Shalem compounding into Yerushalayim: the setting of the cornerstone of peace, visible in the word's etymology.">
+  <title>יָרָה + שָׁלֵם → יְרוּשָׁלַיִם</title>
+  <defs>
+    <style>
+      text { font-family: "Times New Roman", Georgia, serif; }
+    </style>
+  </defs>
+
+  <!-- YARAH panel -->
+  <rect x="10" y="20" width="180" height="140" rx="3" fill="#f5f2ec" stroke="#a89b7d" stroke-width="1"/>
+  <text x="100" y="80" font-size="60" fill="#1a1a1a" text-anchor="middle">יָרָה</text>
+  <text x="100" y="108" font-size="12" fill="#555" text-anchor="middle" font-style="italic">yarah</text>
+  <text x="100" y="124" font-size="10" fill="#888" text-anchor="middle">to lay, to set</text>
+  <text x="100" y="140" font-size="9" fill="#aaa" text-anchor="middle">(Job 38:6 — who laid the cornerstone)</text>
+
+  <!-- plus sign -->
+  <text x="215" y="95" font-size="32" fill="#a89b7d" text-anchor="middle">+</text>
+
+  <!-- SHALEM panel -->
+  <rect x="250" y="20" width="170" height="140" rx="3" fill="#1e3a5f" stroke="#0f2235" stroke-width="1"/>
+  <text x="335" y="80" font-size="60" fill="#e0f0ff" text-anchor="middle">שָׁלֵם</text>
+  <text x="335" y="108" font-size="12" fill="#8aabcc" text-anchor="middle" font-style="italic">shalem</text>
+  <text x="335" y="124" font-size="10" fill="#607590" text-anchor="middle">whole, at peace</text>
+  <text x="335" y="140" font-size="9" fill="#4a5f75" text-anchor="middle">(Salem, city of Melchizedek)</text>
+
+  <!-- arrow down to compound -->
+  <line x1="290" y1="170" x2="290" y2="192" stroke="#888" stroke-width="1.5" marker-end="url(#darr)"/>
+  <defs>
+    <marker id="darr" markerWidth="8" markerHeight="8" refX="4" refY="6" orient="auto">
+      <path d="M0,0 L8,0 L4,8 z" fill="#888"/>
+    </marker>
+  </defs>
+
+  <!-- YERUSHALAYIM compound -->
+  <rect x="100" y="196" width="380" height="36" rx="3" fill="#2c2c1a" stroke="#5a5a2e" stroke-width="1"/>
+  <text x="290" y="210" font-size="13" fill="#e8e0b0" text-anchor="middle" letter-spacing="1">יְרוּשָׁלַיִם</text>
+  <text x="290" y="225" font-size="10" fill="#b0a860" text-anchor="middle" font-style="italic">Yerushalayim — the setting of the cornerstone of peace</text>
+</svg>
