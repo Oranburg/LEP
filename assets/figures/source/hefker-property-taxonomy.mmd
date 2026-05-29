@@ -1,0 +1,21 @@
+%%{init: {'theme':'neutral','flowchart':{'curve':'basis','nodeSpacing':50,'rankSpacing':80},'themeVariables':{'fontSize':'17px','fontFamily':'Georgia, serif'}}}%%
+flowchart TD
+  classDef roman   fill:#F5F2EC,color:#1A1A1A,stroke:#A89B7D
+  classDef hebrew  fill:#1E3A5F,color:#F5F0E8,stroke:#0F2235
+  classDef limit   fill:#3D1A0F,color:#F5F0E8,stroke:#6B2E1A
+  classDef implcat fill:#2C2C1A,color:#F5F0E8,stroke:#5A5A2E
+
+  Q["Roman law cuts the world in two:<br/>things that can be owned / things that cannot"]:::roman
+
+  Q --> RN["res nullius<br/>Belongs to no one yet<br/>Available by first possession<br/>Wild animals, abandoned property"]:::roman
+  Q --> RC["res communes omnium<br/>Common to all by natural law<br/>Cannot be privatized<br/>Air, running water, the sea"]:::roman
+  Q --> GAP["Roman law has no name<br/>for this third case"]:::limit
+
+  GAP --> HF["הפקר (hefker)<br/>Ownerless in the constitutive sense<br/>Not unclaimed — necessarily unenclosed<br/>The wilderness of Sinai"]:::hebrew
+
+  HF --> W1["Torah given there because<br/>the giving required ground<br/>no one had yet enclosed<br/>(Bamidbar Rabbah 1:7)"]:::hebrew
+  HF --> W2["Anyone willing to become<br/>hefker like the wilderness<br/>could receive what was given there"]:::hebrew
+
+  RN --> AI1["Default AI data practice:<br/>treat user data as res nullius —<br/>capture by the first processor"]:::implcat
+  RC --> AI2["Leo XIV MH ¶ 178:<br/>personal data should be<br/>res communes omnium —<br/>a true common good"]:::implcat
+  HF --> AI3["Deeper claim: personal data<br/>participates in personhood —<br/>outside the law of things entirely;<br/>the lawyer must stop before<br/>the first cut"]:::implcat
