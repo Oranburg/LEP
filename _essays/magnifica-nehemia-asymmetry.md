@@ -20,7 +20,7 @@ placement_note: "The sustained halakhic apparatus in §§ II-V overlaps substant
 
 *Seth Oranburg*
 
-*Draft 1 — May 27, 2026. Tikvah / Mosaic / Sapir register. Not for circulation.*
+> **Status note (2026-05-31).** This is the full-apparatus working draft, Tikvah / Mosaic / Sapir register. The halakhic apparatus in §§ II–V is more developed than the author can defend in the casual-scholar voice the surrounding cluster uses; the lighter version of the same Nehemiah-asymmetry move, written for a personal-essay venue, is the shipped Judith piece *A Jew Reads Magnifica Humanitas in the Wilderness of New Hampshire*. The draft is kept in the cluster for reference and for the figure briefs embedded inside the text. Not for circulation. Submission requires either (a) a co-authored pass with a halakhically fluent scholar or (b) a substantive cut of the apparatus.
 
 ---
 

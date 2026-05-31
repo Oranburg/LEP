@@ -6,7 +6,7 @@ title: "The Third Place: A Lawyer Reads the Pope in the Wilderness"
 date: 2026-05-28
 author: Seth Oranburg
 status: Pre-release
-venue_note: "Target: Plough (primary); Comment; First Things online; Tablet. Personal essay. Casual-scholar register confirmed. Awaiting Seth's final read of the Nehemiah-as-Jewish-layman paragraph and the Shabbat 31a closing anchor (both drafted, marked as pending Seth's call in working copy). Prose-editor pass before submission."
+venue_note: "Target: Plough (primary); Comment; First Things online; Tablet. Personal essay, casual-scholar register. The wilderness-as-third-place move was carried in the shipped Judith essay *A Jew Reads Magnifica Humanitas in the Wilderness of New Hampshire* (2026-05-31); this piece develops the move in a different register and toward a different conclusion (the Shabbat 31a anchor). Editors at any of the listed venues should be told the wilderness move first appeared at Judith. Awaiting Seth's final read of the Nehemiah-as-Jewish-layman paragraph and the Shabbat 31a closing anchor."
 target_venue: Plough
 bridges:
   - Bridge 2 (moral architecture of property)

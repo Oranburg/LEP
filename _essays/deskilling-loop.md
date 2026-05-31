@@ -9,24 +9,23 @@ date: 2026-05-26
 status: working paper draft 1
 affiliation: Columbus School of Law, The Catholic University of America
 citations_to_verify:
-  - id: edwards_1992
-    status: UNVERIFIABLE
-    description: "Edwards (1992) deskilling-of-professions prediction. Richard Edwards's *Contested Terrain* was published 1979 (Basic Books), not 1992, and addressed workplace control mechanisms generally, not professional deskilling specifically. No 1992 Edwards work on this topic located. Do not attribute a 1992 deskilling-of-professions prophecy to Edwards without identifying the precise source. The epigraph must be removed or sourced."
   - id: sinsky_2016
     status: CONFIRMED
     description: "Christine A. Sinsky et al., Allocation of Physician Time in Ambulatory Practice: A Time and Motion Study in 4 Specialties, 165 Annals of Internal Medicine 753 (2016). The 49.2% figure refers to EHR and desk work combined; the article runs pp. 753–760. Verified against acpjournals.org and multiple citation databases."
-  - id: compliance_officers_353000
+  - id: compliance_officers_count
     status: NEEDS-YEAR
-    description: "BLS OEWS SOC 13-1041 (Compliance Officers) is the correct source. BLS pages for May 2022 and May 2023 data exist. The specific figure of 353,000 and the year it represents could not be confirmed by direct page access (BLS returned 403). Author should access bls.gov/oes/2022/may/oes131041.htm or bls.gov/oes/2023/may/oes131041.htm and confirm the exact employment number and survey year before publication."
-  - id: compliance_industry_270B
-    status: UNVERIFIABLE
-    description: "$270 billion compliance-industry figure not found in any Grand View Research or Allied Market Research report. Grand View Research's eGRC market estimate was $72 billion in 2025, not $270 billion. The figure as stated appears unsupported. Remove or replace with a verifiable market-size figure from an identifiable report."
+    description: "BLS OEWS SOC 13-1041 (Compliance Officers) is the correct source. The specific employment count and survey year should be confirmed before any external submission; the current body text states the count generally as 'hundreds of thousands,' which is defensible from BLS data on its face."
   - id: faa_boeing_87pct
-    status: CONFIRMED-WRONG-SOURCE
-    description: "The 87% figure is confirmed but the source is not the House Transportation Committee. It appears in: U.S. Dep't of Transportation, Office of Inspector General, Weaknesses in FAA's Certification and Delegation Processes Hindered Its Oversight of the 737 MAX Certification (Feb. 23, 2021). The House Transportation Committee's September 2020 report also addresses delegation but the 87% figure is from the OIG. Update fn-faa-boeing to cite the OIG report."
-  - id: dodd_frank_400
-    status: CONFIRMED-WRONG-NUMBER
-    description: "Davis Polk Dodd-Frank progress reports consistently state 398 total rulemaking requirements, not 400. The body text should read '398 rulemaking requirements' and cite: Davis Polk & Wardwell LLP, Dodd-Frank Progress Report (Dec. 2014) (tracking 398 total rulemaking requirements under the Dodd-Frank Act)."
+    status: CONFIRMED
+    description: "U.S. Dep't of Transportation, Office of Inspector General, Weaknesses in FAA's Certification and Delegation Processes Hindered Its Oversight of the 737 MAX Certification (Feb. 23, 2021). Body footnote already cites the OIG report correctly."
+  - id: dodd_frank_398
+    status: CONFIRMED
+    description: "Davis Polk & Wardwell LLP, Dodd-Frank Progress Report (Dec. 2014) (398 total rulemaking requirements under the Dodd-Frank Act). Body text reads 398; footnote cites Davis Polk."
+resolved_2026_05_31:
+  - "Edwards 1992 attribution removed (epigraph not used in current draft)."
+  - "$270 billion compliance-industry figure removed (no verifiable source located)."
+  - "Dodd-Frank rulemaking count corrected from 400 to 398."
+  - "FAA Boeing 87% source corrected from House Transportation Committee to DOT OIG."
 ---
 
 # The Deskilling Loop: How Modern Professions Engineer Out Professional Judgment
@@ -47,7 +46,7 @@ The deskilling loop is not a lament about technological change. Some standardiza
 
 A physician in a modern American hospital spends approximately 49 percent of her working time on electronic health record entry and administrative desk work. That is the finding of Christine Sinsky and colleagues in a 2016 study of 57 physicians across four specialties and multiple practice settings.[^fn-sinsky] For every two hours a physician spends with a patient, she spends nearly two additional hours documenting what happened in the encounter. The documentation requirement did not emerge from nowhere. It serves legitimate functions: insurance billing, malpractice defense, care coordination across providers, regulatory compliance. But the aggregate effect on the formation and exercise of clinical judgment is severe.
 
-[^fn-sinsky]: Christine A. Sinsky et al., *Allocation of Physician Time in Ambulatory Practice: A Time and Motion Study in 4 Specialties*, 165 Annals. Internal Med. 753, 753–60 (2016). [CONFIRMED: vol. 165, pp. 753–760, 2016; the 49.2% figure covers EHR plus desk work combined. Verified against acpjournals.org (doi: 10.7326/M16-0961).]
+[^fn-sinsky]: Christine A. Sinsky et al., *Allocation of Physician Time in Ambulatory Practice: A Time and Motion Study in 4 Specialties*, 165 Annals Internal Med. 753, 753–60 (2016) (doi: 10.7326/M16-0961).
 
 The physician who can spend 49 percent of her time on EHR entry and paperwork is spending less than half her available time on the activity (clinical reasoning with a patient) that her training prepared her to do. More critically, the EHR interface itself is not neutral. It is built around billing categories, insurance codes, and regulatory checkpoints. A clinician working through an EHR intake screen encounters a structured environment that guides her toward certain diagnoses, certain treatment algorithms, and certain documentation pathways. The system is not preventing good medicine; it is shaping what counts as documentable medicine, and those two things are not identical.
 
@@ -59,11 +58,11 @@ This is the deskilling loop in medicine. It does not prevent experienced clinici
 
 American law created a new professional class in the last fifty years. In 1970, the compliance officer was not a recognized occupational category in any meaningful sense. By the 2020s the Bureau of Labor Statistics tracked the role systematically under its own occupational code, with employment in the hundreds of thousands.[^fn-compliance-count] The growth represents not just a cost center but a reallocation of professional judgment.
 
-[^fn-compliance-count]: U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics, SOC 13-1041 (Compliance Officers). [VERIFY: confirm specific survey year and employment count at bls.gov/oes before publication.]
+[^fn-compliance-count]: U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics, SOC 13-1041 (Compliance Officers), available at bls.gov/oes/current/oes131041.htm.
 
 The growth of compliance as a profession reflects a specific theory: that legal risk is best managed by specialists whose job is to monitor compliance with specific rules, rather than by the judgment of the lawyers, bankers, and businesspeople whose conduct those rules govern. The theory has logic. Regulatory regimes have grown complex enough that a practicing attorney cannot carry the full regulatory map in her head. Dodd-Frank alone generated 398 rulemaking requirements after 2008.[^fn-dodd-frank] The Securities and Exchange Commission, the Consumer Financial Protection Bureau, the Commodity Futures Trading Commission, and multiple other agencies each added layer upon layer of rulemaking. The compliance specialist emerged as the person whose job is to track the layers.
 
-[^fn-dodd-frank]: Davis Polk & Wardwell LLP, Dodd-Frank Progress Report (Dec. 2014). [CONFIRMED-WRONG-NUMBER: Davis Polk's reports consistently state 398 total rulemaking requirements, not 400. The body text should be corrected to read "398 rulemaking requirements." The count refers to required rulemakings under the Act, not final rules actually promulgated. The Davis Polk Regulatory Tracker is the standard citation for this figure.]
+[^fn-dodd-frank]: Davis Polk & Wardwell LLP, Dodd-Frank Progress Report (Dec. 2014) (tracking 398 total rulemaking requirements under the Dodd-Frank Act).
 
 The problem is structural. When legal judgment is disaggregated into a compliance function, the judgment question changes. The lawyer exercising judgment asks: what does my client need to accomplish, what legal constraints govern that activity, and how do I serve both the client's interest and the regulatory framework? The compliance officer asks: has the required checklist been completed? These are not the same question. The first requires synthetic judgment across a complex situation. The second requires documentation that a defined process was followed.
 
@@ -83,7 +82,7 @@ What the compliance and modeling frameworks share is a theory of professional co
 
 The 737 MAX certification disaster offers the deskilling loop's most concentrated specimen. Approximately 87 percent of the safety certification work for the 737 MAX program was performed not by Federal Aviation Administration engineers but by Boeing employees operating under the Organization Designation Authorization program, through which the FAA delegated its certification authority to the manufacturer.[^fn-faa-boeing] The delegation was legal, institutional, and systematic. It was also a structural transfer of the judgment function.
 
-[^fn-faa-boeing]: U.S. Dep't of Transportation, Office of Inspector General, Weaknesses in FAA's Certification and Delegation Processes Hindered Its Oversight of the 737 MAX Certification (Feb. 23, 2021). [CONFIRMED-WRONG-SOURCE: the 87% figure appears in the DOT Inspector General report, not the House Transportation Committee report. The House Transportation and Infrastructure Committee did release a separate final report in September 2020 (Comm. Print, 116th Cong., 2020) addressing the same delegation. Both are citable but the OIG report is the direct source for the 87% figure. The URL is oig.dot.gov.]
+[^fn-faa-boeing]: U.S. Dep't of Transportation, Office of Inspector General, Weaknesses in FAA's Certification and Delegation Processes Hindered Its Oversight of the 737 MAX Certification (Feb. 23, 2021), available at oig.dot.gov. The House Transportation and Infrastructure Committee separately addressed the same delegation in its final report (Comm. Print, 116th Cong., Sept. 2020); the 87% figure originates in the OIG report.
 
 The FAA engineers who retained nominal oversight were overseeing a process they had not directly conducted. The Boeing engineers who performed the certification work were certifying their own employer's product. The result was an accountability structure in which neither party exercised the kind of independent professional judgment that the certification system was designed to produce. The FAA engineer could not independently evaluate what he had not independently investigated. The Boeing engineer was embedded in an institutional context in which the judgment that the aircraft was safe was not merely a technical conclusion but an organizational interest.
 
@@ -111,7 +110,7 @@ Michael Polanyi described this class of problem in his account of tacit knowledg
 
 Friedrich Hayek's point about knowledge is directly relevant here, though Hayek made it in a different context. The knowledge that matters for complex decisions is local, particular, and embedded in specific circumstances, exactly the knowledge that standardized procedures cannot capture and that centralized systems cannot transmit.[^fn-hayek] The compliance framework treats professional judgment as a form of centrally codifiable knowledge: write enough rules and all the relevant judgment can be captured. The deskilling loop is what happens when that theory is run to its conclusion.
 
-[^fn-hayek]: F.A. Hayek, *The Use of Knowledge in Society*, 35 Am. Econ. Rev. 519, 519–30 (1945). [CONFIRMED: vol. 35, pp. 519–530, September 1945. Hayek's argument concerned economic planning, but the epistemological point generalizes: dispersed, tacit, context-dependent knowledge cannot be centralized without loss.]
+[^fn-hayek]: F.A. Hayek, *The Use of Knowledge in Society*, 35 Am. Econ. Rev. 519, 519–30 (1945). Hayek's argument concerned economic planning, but the epistemological point generalizes: dispersed, tacit, context-dependent knowledge cannot be centralized without loss.
 
 ## What the Loop Forecloses
 
