@@ -6,7 +6,7 @@ title: "The Cup-Bearer's Position"
 date: 2026-05-29
 author: Seth Oranburg
 status: Pre-release
-venue_note: "Target: Judith Magazine (Elissa Wald, ed.; Howard Lovy, non-fiction). Lyrical-confessional register. Target length 2,500-4,000 words. Pending: Seth's read, prose-editor voice pass, interpersonal-strategist for Howard Lovy pitch line. This piece should not be submitted until after Who Is Sending the Messenger is placed at Public Discourse, since both pieces develop the malach/melakha root observation and the sequencing matters."
+venue_note: "Original target: Judith Magazine. The Judith slot was filled 2026-05-31 by the shipped essay *A Jew Reads Magnifica Humanitas in the Wilderness of New Hampshire* (Howard Lovy, ed.), which developed a different signature move (the wilderness-as-third-place) on adjacent material. This essay holds the cup-bearer move as its own piece; if circulated, the venue should be a different Jewish-public-intellectual outlet (Tablet, Forward, Sapir online), and the placement_note below still governs."
 target_venue: Judith Magazine
 bridges:
   - Bridge 4 (institution as carrier of human flourishing)

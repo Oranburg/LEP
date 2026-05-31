@@ -13,7 +13,7 @@ citations_to_verify:
   - magnifica-163: Magnifica Humanitas § 163 (insufficiency of the invisible hand); verified in source file
   - magnifica-173: Magnifica Humanitas § 173 (hidden labor chain); verified in source file
   - magnifica-178: Magnifica Humanitas § 178 (data colonialism); verified in source file
-  - aquinas-st: ST II-II q. 78 a. 2 ad 5 (societas / mutuum); VERIFIED via New Advent full text. Article 2, Reply to Objection 5 is the correct locus for the societas/mutuum distinction: "He who lends money transfers the ownership...he that entrusts his money to a merchant so as to form a kind of society does not transfer the ownership...and consequently he may lawfully demand part of the profits." Pinpoint confirmed.
+  - aquinas-st: "ST II-II q. 78 a. 2 ad 5 (societas / mutuum); VERIFIED via New Advent full text. Article 2, Reply to Objection 5 is the correct locus for the societas/mutuum distinction. Pinpoint confirmed."
 ---
 
 # Magnifica Humanitas and the Babel Question

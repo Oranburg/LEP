@@ -9,6 +9,16 @@ description: "Working papers, essays, and short briefs developing the intellectu
 
 These pieces develop the intellectual identity of the Law and Entrepreneurship Program: the doctrinal lineage that supports it, the institutional setting it grows in, and the cluster of arguments about formation, work, and the firm that gives the Program its shape. Items marked *Pre-release* are working drafts available behind a courtesy access key; email Seth at <a href="mailto:seth.oranburg@gmail.com">seth.oranburg@gmail.com</a> to request one. Public pieces are linked at the bottom.
 
+## The front door
+
+### [The Program's Argument](/LEP/argument/)
+The five elements of the spine, stated in one place. What lawyers do, under what substantive norm, by what method of formation, against what live constraint, and where the convergence is institutionally possible. Every essay in the cluster delivers one piece of the spine.
+
+## Year theme
+
+### [Law and New Things](/LEP/essays/law-and-new-things/)
+*Pre-release.* The 2026–27 LEP year takes the *Rerum Novarum*-to-*Magnifica Humanitas* arc as its frame. A two-day invitation-only symposium at CUA Columbus Law, co-convened with Robert T. Miller (Scalia Law, GMU), publishing in the *Catholic University Law Review*. Five panels: foundations, property, contract, competition, and AI governance in DC.
+
 ## Working papers
 
 ### [Three States of a Living Tradition](/LEP/essays/three-states/)
@@ -28,6 +38,9 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 
 ### [Who Is Sending the Messenger](/LEP/essays/magnifica-who-is-sending/)
 *Pre-release.* The encyclical's operative claim is an agency claim: the machine is a messenger with no will, and the lawyer drafting the platform-services agreement is writing the angel's instructions. The clause is where the *persona*/*res* allocation becomes binding. Target venue: Public Discourse.
+
+### [The Aleph Bet of A.I.](/LEP/essays/aleph-bet-of-ai/)
+*Pre-release.* Leo XIV chose Babel and Jerusalem to name the AI age's moral choice. The Hebrew letters of those names reward the reader who hears them in their original language. The Holy Language already knew the difference between a messenger that executes and a person who answers.
 
 ### [What Nehemiah Knew](/LEP/essays/magnifica-nehemia-asymmetry/)
 *Pre-release.* Classical Jewish exegesis left Nehemiah 2-6 undeveloped as a governance parable. Leo XIV built the interior the tradition did not, and this essay accepts the invitation — through *dina d'malkhuta dina*, the *kehilla* model, *issurei hana'ah*, and the *sachir* law. Target venue: Tikvah / Mosaic.
