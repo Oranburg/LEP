@@ -15,7 +15,7 @@ The four programs below carry the full picture of what the program is being buil
 <div class="audience-cards">
 
 <div class="audience-card">
-<h3><a href="{{ '/support/entrepreneurship-v-poverty/' | relative_url }}">Entrepreneurship v. Poverty</a></h3>
+<h3><a href="{{ '/support/entrepreneurship-v-poverty/' | relative_url }}">Entrepreneurship: Curing Poverty</a></h3>
 <p>Year-themed event series, clinic deepening, and curriculum overlay. The Magatte Wade keynote anchors the AY 2026-27 slate. Three-year total: $450,000 to $700,000.</p>
 </div>
 

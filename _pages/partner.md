@@ -58,7 +58,7 @@ The three institutions occupy non-overlapping institutional positions (academy, 
 
 The program is in development on multiple foundation relationships.
 
-**The Diana Davis Spencer Foundation (DDSF).** J.C. Boggs of King and Spalding is brokering an introduction in mid-2026. Peggy Kacergis (CUA Advancement) is the institutional partner. Recommended lead-with program for the meeting is *Building the Legal Infrastructure for Dignified Work* (the secular framing of the *Entrepreneurship v. Poverty* program).
+**The Diana Davis Spencer Foundation (DDSF).** J.C. Boggs of King and Spalding is brokering an introduction in mid-2026. Peggy Kacergis (CUA Advancement) is the institutional partner. Recommended lead-with program for the meeting is *Building the Legal Infrastructure for Dignified Work* (the secular framing of the *Entrepreneurship: Curing Poverty* program).
 
 **The John Templeton Foundation.** Sandra Zupan in the CUA Office of Research is the institutional liaison. An initial OFI proposal in the "Educational Innovations for Freedom" track (under the broader "Individual Freedom and Free Markets" funding area) was developed in spring 2026 and held for the right cycle per Sandra's guidance. Targeted for AY 2027-28 once the program has graduated its first cohort milestones and the institutional brief has thickened. The Cluny Institute at CUA, Templeton-funded at $2.5M in 2024, provides the peer-grantee data point that the foundation funds CUA programs in this intellectual space.
 

@@ -9,7 +9,7 @@ date: 2026-05-29
 last_updated: 2026-05-31
 author: Seth C. Oranburg
 status: draft
-spine_element: "Year theme: AI-era restatement (element II + element IV under the spine)"
+spine_element: "Scholarly convening inside the AY 2026–27 year theme (Entrepreneurship: Curing Poverty); serves element II + element IV under the spine"
 excerpt: "Leo XIII opened the modern social tradition in 1891 by asking what law owes the worker under industrial transformation. Leo XIV reopened it in 2026 under artificial intelligence. The 2026–27 LEP year takes the question as its frame."
 citations_to_verify:
   - id: magnifica_humanitas
@@ -37,7 +37,7 @@ In May 1891, Leo XIII opened *Rerum Novarum* with a phrase. *Of new things*. The
 
 In May 2026, Leo XIV reopened the same question under different conditions. *Magnifica Humanitas* takes artificial intelligence as the present-day analogue to industrialization in 1891: a technological transformation that rearranges who works, who owns, who decides, and who is excluded. The encyclical does not announce a new doctrine. It restates the tradition under conditions that demand restatement.
 
-The Program takes 2026–27 as the year to engage that arc. The instrument is a two-day invitation-only symposium at CUA Columbus Law, co-convened with Robert T. Miller (Scalia Law, George Mason), publishing in the *Catholic University Law Review*'s 2026–27 symposium edition. The working title is *Law and New Things: Governing Markets and Machines with Moral Courage*.
+The Program takes 2026–27 as the year to engage that arc. The year theme, agreed by the co-directors, is *[Entrepreneurship: Curing Poverty](/LEP/theme/)*. The scholarly convening inside the year is a two-day invitation-only symposium at CUA Columbus Law, co-convened with Robert T. Miller (Scalia Law, George Mason), publishing in the *Catholic University Law Review*'s 2026–27 symposium edition. The working title of the symposium is *Law and New Things: Governing Markets and Machines with Moral Courage*. The thesis the year endorses is that entrepreneurship cures poverty; the symposium asks what law owes when the new forms of property, contract, competition, and regulation that the AI age has produced begin to reshape the conditions under which the cure can take.
 
 ## I. The hypothesis the symposium tests
 
