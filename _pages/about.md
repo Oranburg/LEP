@@ -15,7 +15,8 @@ This site (oranburg.law/LEP) is not an official CUA program site. Nothing on it 
 ## Where to go from here
 
 - [For Students]({{ '/for-students/' | relative_url }}): three landing pages for prospective applicants, current CUA students, and mentors / employers
-- [The year theme]({{ '/theme/' | relative_url }}): *Entrepreneurship v. Poverty*
+- [The Program's Argument]({{ '/argument/' | relative_url }}): the five-element spine
+- [The year theme]({{ '/theme/' | relative_url }}): *Entrepreneurship: Curing Poverty* (AY 2026–27)
 - [Doctrinal lineage]({{ '/lineage/' | relative_url }}): how the Catholic *societas* and Jewish *shutafut* traditions converge
 - [Societas]({{ '/societas/' | relative_url }}): the partnership form of justice, as the program's intellectual center
 - [Magnifica Humanitas]({{ '/magnifica-humanitas/' | relative_url }}): reading of Leo XIV's encyclical

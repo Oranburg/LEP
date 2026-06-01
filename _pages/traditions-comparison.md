@@ -92,9 +92,9 @@ Both traditions place a structural obligation on the community, not only on indi
 
 ## The year-theme as application
 
-The program's inaugural year-theme runs the *societas*/*shutafut* framework through a contested empirical question: does entrepreneurship reduce poverty or produce it?
+The program's 2026–27 year-theme, *Entrepreneurship: Curing Poverty*, runs the *societas*/*shutafut* framework through the question of which structures actually carry the cure.
 
-### *Entrepreneurship v. Poverty*
+### *Entrepreneurship: Curing Poverty*
 
 The *societas*/*shutafut* framework supplies three diagnostic questions for evaluating any enterprise. First, does risk distribution match contribution? If workers absorb downside while investors capture upside, the structure is *mutuum* wearing the costume of partnership. Second, does participation build the capacity for self-sufficiency, or does it create a new form of dependence? Agency, governance voice, and the ability to exit without catastrophic loss matter as much as compensation. Third, can the model persist without depleting the people or communities it engages? A structure that generates returns by consuming its participants is extracting, not partnering.
 

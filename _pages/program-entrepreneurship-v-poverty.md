@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Entrepreneurship v. Poverty Program"
+title: "Entrepreneurship: Curing Poverty"
 permalink: /support/entrepreneurship-v-poverty/
 ---
 
-# Entrepreneurship v. Poverty
+# Entrepreneurship: Curing Poverty
 
-A year-themed event series, a clinic-deepening initiative, and a curriculum overlay that treats entrepreneurship as the answer to poverty in measurable ways. Two framings below; the program substance is the same.
+A year-themed event series, a clinic-deepening initiative, and a curriculum overlay built on the thesis that entrepreneurship cures poverty in measurable ways and that the lawyer's drafting decides which structures actually carry the cure. Two framings below; the program substance is the same.
 
 <div class="framing-toggle" role="tablist" aria-label="Choose framing">
   <button class="framing-tab active" data-frame="catholic" aria-selected="true">Catholic framing</button>
@@ -23,7 +23,7 @@ Law schools treat poverty as a subject for legal aid and public-benefits practic
 
 ## The intervention
 
-A year-themed event series, a clinic-deepening initiative, and a curriculum overlay. The year theme for AY 2026-27 is *Entrepreneurship v. Poverty*. The event slate includes the Magatte Wade keynote (entrepreneurship as the answer to poverty), an SBA capital-policy panel, a DOJ Antitrust panel on the JetBlue / Spirit decision (the conditions for entrepreneurial partnership in regulated markets), and a practitioner panel on transactional drafting (partnership form in actual documents). The clinic deepens its service to early-stage entrepreneurial ventures led by low-and-moderate-income founders, modeled on Cardozo's Entrepreneurship and Community Business Clinic. The curriculum overlay adds the *societas* reading lens (drawing on Aquinas, Maimonides, and the Salamanca commercial moral theology) to Business Associations, Securities Regulation, and the transactional practicum.
+A year-themed event series, a clinic-deepening initiative, and a curriculum overlay. The year theme for AY 2026-27 is *Entrepreneurship: Curing Poverty*. The event slate includes the Magatte Wade keynote (entrepreneurship as the answer to poverty), an SBA capital-policy panel, a DOJ Antitrust panel on the JetBlue / Spirit decision (the conditions for entrepreneurial partnership in regulated markets), and a practitioner panel on transactional drafting (partnership form in actual documents). The clinic deepens its service to early-stage entrepreneurial ventures led by low-and-moderate-income founders, modeled on Cardozo's Entrepreneurship and Community Business Clinic. The curriculum overlay adds the *societas* reading lens (drawing on Aquinas, Maimonides, and the Salamanca commercial moral theology) to Business Associations, Securities Regulation, and the transactional practicum.
 
 ## Deliverables
 
@@ -69,7 +69,7 @@ Law schools treat poverty as a client condition for legal aid and public-benefit
 
 ## The intervention
 
-A year-themed event series, a clinic-deepening initiative, and a curriculum overlay. The AY 2026-27 year theme is *Entrepreneurship v. Poverty*. The event slate includes the Magatte Wade keynote (entrepreneurship as the answer to poverty), an SBA capital-policy panel, a DOJ Antitrust panel on the JetBlue / Spirit decision (the conditions for entrepreneurial partnership in regulated markets), and a practitioner panel on transactional drafting. The clinic deepens its service to early-stage ventures led by low-and-moderate-income founders, modeled on Cardozo's Entrepreneurship and Community Business Clinic. The curriculum overlay introduces a reading lens (partnership at shared risk as the just form of capital) to Business Associations, Securities Regulation, and the transactional practicum.
+A year-themed event series, a clinic-deepening initiative, and a curriculum overlay. The AY 2026-27 year theme is *Entrepreneurship: Curing Poverty*. The event slate includes the Magatte Wade keynote (entrepreneurship as the answer to poverty), an SBA capital-policy panel, a DOJ Antitrust panel on the JetBlue / Spirit decision (the conditions for entrepreneurial partnership in regulated markets), and a practitioner panel on transactional drafting. The clinic deepens its service to early-stage ventures led by low-and-moderate-income founders, modeled on Cardozo's Entrepreneurship and Community Business Clinic. The curriculum overlay introduces a reading lens (partnership at shared risk as the just form of capital) to Business Associations, Securities Regulation, and the transactional practicum.
 
 ## The intervention, deliverables, timeline, budget, and metrics
 

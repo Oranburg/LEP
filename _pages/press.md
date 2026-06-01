@@ -20,7 +20,7 @@ Three years that are worth living, plus a path to the work, organized around par
 
 - **Pope Leo XIV's encyclical *Magnifica Humanitas*** (May 15, 2026, on AI and the human person). The program's intellectual frame intersects directly with this encyclical's diagnosis. Available for commentary on the encyclical's economic and labor dimensions, the Babel-and-Nehemia framing, and the new-forms-of-property analysis at § 67.
 - **Catholic social teaching and modern business law.** The convergence between the *societas* tradition and the operating-agreement, term-sheet, and venture-financing structures of modern business law.
-- **Entrepreneurship and poverty.** The inaugural year-theme *Entrepreneurship v. Poverty* (running AY 2026-27 at CUA) treats this as a case to be tried, not a slogan.
+- **Entrepreneurship and poverty.** The 2026–27 year theme *Entrepreneurship: Curing Poverty* (set by the program's co-directors) treats entrepreneurship as the activity that reduces poverty in measurable ways and asks which legal structures actually carry the cure.
 - **Fintech, digital-asset, and AI regulation.** Seth Oranburg's standing scholarly focus.
 - **Business-law education in Washington.** What CUA Law's location makes possible that other Washington law schools have underused.
 - **The Cluny Institute and the broader Catholic-and-technology intellectual community.** The program's adjacency with Luke Burgis's Templeton-funded program at CUA.

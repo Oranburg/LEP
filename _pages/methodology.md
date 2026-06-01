@@ -8,7 +8,7 @@ permalink: /methodology/
 
 The program's empirical methodology rests on a categorical distinction between poverty and inequality. Poverty is absolute and addressable: it names a condition of material lack that can be measured, ranked, and reduced by policies and structures designed for that purpose. Inequality is relative and debatable: it names a comparative measurement whose appropriate level is a question for democratic deliberation rather than a target a program can claim to optimize.
 
-The year-theme makes sharp claims about the addressable side of the distinction. *Entrepreneurship v. Poverty* asks which structures and policies actually reduce poverty in measurable ways. The appropriate level of inequality remains a question for democratic deliberation, not for the program.
+The year-theme makes sharp claims about the addressable side of the distinction. *Entrepreneurship: Curing Poverty* takes entrepreneurship as the activity that reduces poverty in measurable ways and asks which structures, drafted by which lawyers, actually carry the cure. The appropriate level of inequality remains a question for democratic deliberation, not for the program.
 
 ## The companion project
 
