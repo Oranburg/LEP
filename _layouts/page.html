@@ -7,11 +7,13 @@ layout: default
     <p>&#128274; This essay is in pre-release. Click the lock in the menu bar to enter the access key.</p>
   </div>
   <div class="gate-content">
+    {% include table-of-contents.html %}
     {{ content }}
   </div>
 </article>
 {%- else -%}
 <article class="page">
+  {% include table-of-contents.html %}
   {{ content }}
 </article>
 {%- endif -%}
