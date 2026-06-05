@@ -8,7 +8,7 @@ permalink: /support/
 
 The program is built to outperform its institutional ranking through cohort depth, clinical practice, and mentorship infrastructure rather than through endowment scale. That posture is also why it is supported by named, structured gifts tied to specific deliverables, rather than by general operations.
 
-The four programs below carry the full picture of what the program is being built to do. Each is available in two parallel framings (Catholic and secular), with the same substance, deliverables, timeline, budget, and metrics. The framing changes the vocabulary; the program does not.
+The four programs below carry the full picture of what the program is being built to do. Each is available in two parallel framings (Catholic and secular), with the same substance, deliverables, timeline, budget, and metrics. The framing changes the vocabulary; the program does not. For the consolidated three-year sequence in which all four streams land, see the [Roadmap]({{ '/roadmap/' | relative_url }}).
 
 ## The four programs
 

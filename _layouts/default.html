@@ -42,13 +42,14 @@
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
 
-  {% include header-updated.html %}
+  {% include header.html %}
 
   <main class="site-content" id="main-content">
+    {% include breadcrumbs.html %}
     {{ content }}
   </main>
 
-  {% include footer-updated.html %}
+  {% include footer.html %}
 
   {% include access-gate.html %}
 

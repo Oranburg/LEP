@@ -107,7 +107,7 @@ These three problems are not equally tractable, and no single solution addresses
 
 ## The Modern Professional Education Situation
 
-American professional education currently operates under something closer to the Athens condition than to either of the others. The methods that formed earlier generations of professionals, the Langdellian case method at its best, bedside clinical teaching, the apprenticeship traditions of transactional practice, were never housed in communal institutions of the Jewish kind or embedded in a continuous institutional network of the Roman kind. They lived in the energy of individual teachers and the culture of specific schools. As the research-university model displaced those teaching cultures and faculty incentives shifted toward scholarship and away from the craft of teaching, the informal transmission broke down. The mechanism by which it broke is the subject of the companion essay, [The Deskilling Loop](/LEP/essays/deskilling-loop/). The question for the present essay is what kind of institutional response each of the three states demands once the breakdown has happened.
+American professional education currently operates under something closer to the Athens condition than to either of the others. The methods that formed earlier generations of professionals, the Langdellian case method at its best, bedside clinical teaching, the apprenticeship traditions of transactional practice, were never housed in communal institutions of the Jewish kind or embedded in a continuous institutional network of the Roman kind. They lived in the energy of individual teachers and the culture of specific schools. As the research-university model displaced those teaching cultures and faculty incentives shifted toward scholarship and away from the craft of teaching, the informal transmission broke down. The mechanism by which it broke is the subject of the companion essay, [The Deskilling Loop]({{ '/essays/deskilling-loop/' | relative_url }}). The question for the present essay is what kind of institutional response each of the three states demands once the breakdown has happened.
 
 ---
 
@@ -141,7 +141,7 @@ And the reconstruction question: what actually happens when a severed tradition 
 
 ## Companion essays
 
-The institutional setting in which the Program proposes to do this work is the subject of [Why Catholic University Is the Only Credible Home for the Law and Entrepreneurship Program](/LEP/essays/cua-as-home/). The ḥavruta argument, treated as a paradigm case for one configuration of AI use, is the subject of [AI as Ḥavruta](/LEP/essays/ai-as-havruta/). The Washington station, where the inherited methods meet the live constraint that makes their application possible, is the subject of [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/).
+The institutional setting in which the Program proposes to do this work is the subject of [Why Catholic University Is the Only Credible Home for the Law and Entrepreneurship Program]({{ '/essays/cua-as-home/' | relative_url }}). The ḥavruta argument, treated as a paradigm case for one configuration of AI use, is the subject of [AI as Ḥavruta]({{ '/essays/ai-as-havruta/' | relative_url }}). The Washington station, where the inherited methods meet the live constraint that makes their application possible, is the subject of [Washington Taken Seriously]({{ '/essays/washington-taken-seriously/' | relative_url }}).
 
 ## Survival as Institutional Evidence
 

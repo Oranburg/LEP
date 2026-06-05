@@ -12,7 +12,7 @@ budget: "budget developed for full proposal"
 
 # Field Immersion and Executive Institute
 
-*The faculty research and executive education arm of the Program's flagship summer. The student cohort formation arm is described separately in [The Pilgrimage and the Bootcamp](/LEP/essays/pilgrimage-bootcamp/). The two arms share infrastructure and the three-station genealogy but address different audiences, generate different deliverables, and require different funders. The intellectual structure both draw on is set out in [The Three States of a Living Tradition](/LEP/essays/three-states/) and [Washington Taken Seriously](/LEP/essays/washington-taken-seriously/).*
+*The faculty research and executive education arm of the Program's flagship summer. The student cohort formation arm is described separately in [The Pilgrimage and the Bootcamp]({{ '/essays/pilgrimage-bootcamp/' | relative_url }}). The two arms share infrastructure and the three-station genealogy but address different audiences, generate different deliverables, and require different funders. The intellectual structure both draw on is set out in [The Three States of a Living Tradition]({{ '/essays/three-states/' | relative_url }}) and [Washington Taken Seriously]({{ '/essays/washington-taken-seriously/' | relative_url }}).*
 
 ## The problem
 
