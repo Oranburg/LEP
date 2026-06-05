@@ -1,6 +1,6 @@
 // ============================================================================
 // Enhanced Site JavaScript
-// Theme toggle, navigation, back-to-top, and improved interactivity
+// Theme toggle, navigation, back-to-top, reading progress, scroll-reveal, search
 // ============================================================================
 
 // ========== Theme Toggle with Smooth Transitions ==========
@@ -73,6 +73,7 @@ function updateToggleLabel(theme) {
       if (event.key === 'Escape' && nav.classList.contains('open')) {
         nav.classList.remove('open');
         toggleBtn.setAttribute('aria-expanded', false);
+        toggleBtn.focus();
       }
     });
   }
@@ -101,20 +102,80 @@ function handleArticleKey(event, element) {
   const backToTopBtn = document.getElementById('backToTop');
   
   if (backToTopBtn) {
-    // Show/hide button based on scroll position
     window.addEventListener('scroll', () => {
       if (window.scrollY > 300) {
         backToTopBtn.classList.add('visible');
       } else {
         backToTopBtn.classList.remove('visible');
       }
-    });
+    }, { passive: true });
 
-    // Scroll to top when clicked
     backToTopBtn.addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   }
+})();
+
+// ========== Reading Progress Bar ==========
+(function () {
+  const bar = document.getElementById('readingProgress');
+  if (!bar) return;
+
+  // Only show on content pages (not homepage)
+  const isHomepage = window.location.pathname.replace(/\/$/, '') === 
+    (document.querySelector('link[rel="canonical"]') && '') || 
+    window.location.pathname === '/' || 
+    window.location.pathname === '/LEP/' ||
+    window.location.pathname === '/LEP';
+
+  function updateProgress() {
+    const scrollTop = window.scrollY || document.documentElement.scrollTop;
+    const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+    bar.style.width = Math.min(progress, 100) + '%';
+  }
+
+  window.addEventListener('scroll', updateProgress, { passive: true });
+  updateProgress();
+})();
+
+// ========== Scroll-Reveal Animations ==========
+(function () {
+  // Skip if user prefers reduced motion
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  if (!('IntersectionObserver' in window)) return;
+
+  // Add .reveal to cards, stat boxes, event cards, and audience cards
+  const selectors = [
+    '.audience-card',
+    '.card',
+    '.stat-box',
+    '.event-card',
+    '.callout',
+    '.related-item',
+    '.past-event'
+  ];
+
+  const elements = document.querySelectorAll(selectors.join(', '));
+  elements.forEach(el => {
+    if (!el.classList.contains('reveal')) {
+      el.classList.add('reveal');
+    }
+  });
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {
+    threshold: 0.1,
+    rootMargin: '0px 0px -40px 0px'
+  });
+
+  elements.forEach(el => observer.observe(el));
 })();
 
 // ========== Table of Contents Highlighting ==========
@@ -122,34 +183,39 @@ function handleArticleKey(event, element) {
   const toc = document.querySelector('.table-of-contents');
   if (!toc) return;
 
-  const headings = document.querySelectorAll('h2, h3');
+  const headings = document.querySelectorAll('h2[id], h3[id]');
   const links = toc.querySelectorAll('a');
 
-  window.addEventListener('scroll', () => {
-    let current = '';
-    
-    headings.forEach(heading => {
-      const sectionTop = heading.offsetTop;
-      if (window.pageYOffset >= sectionTop - 100) {
-        current = heading.getAttribute('id');
-      }
-    });
+  if (!headings.length || !links.length) return;
 
-    links.forEach(link => {
-      link.classList.remove('active');
-      if (link.getAttribute('href').slice(1) === current) {
-        link.classList.add('active');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute('id');
+        links.forEach(link => {
+          link.classList.remove('active');
+          if (link.getAttribute('href') === '#' + id) {
+            link.classList.add('active');
+          }
+        });
       }
     });
+  }, {
+    rootMargin: '-10% 0px -80% 0px'
   });
+
+  headings.forEach(h => observer.observe(h));
 })();
 
 // ========== Accessibility Improvements ==========
-// Add focus-visible polyfill for better keyboard navigation
 (function () {
   const focusVisibleSupported = () => {
-    const element = document.createElement('input');
-    return element.matches(':focus-visible') !== false;
+    try {
+      const element = document.createElement('input');
+      return element.matches(':focus-visible') !== false;
+    } catch (e) {
+      return false;
+    }
   };
 
   if (!focusVisibleSupported()) {
@@ -182,37 +248,76 @@ function handleArticleKey(event, element) {
   }
 })();
 
-// ========== Search Functionality (if search plugin installed) ==========
+// ========== Client-Side Search ==========
 (function () {
-  const searchBox = document.querySelector('.search-box');
-  if (!searchBox) return;
+  const searchInput = document.getElementById('search-input');
+  const searchResults = document.getElementById('search-results');
+  if (!searchInput || !searchResults) return;
 
-  const searchInput = searchBox.querySelector('input');
-  const searchResults = document.createElement('div');
-  searchResults.className = 'search-results';
-  searchBox.appendChild(searchResults);
+  let searchData = null;
 
-  searchInput.addEventListener('input', (e) => {
-    const query = e.target.value.toLowerCase();
-    if (query.length < 2) {
+  // Load search index
+  function loadSearchData() {
+    if (searchData !== null) return Promise.resolve(searchData);
+    const baseUrl = document.querySelector('link[rel="canonical"]')
+      ? new URL(document.querySelector('link[rel="canonical"]').href).pathname.replace(/[^/]*$/, '')
+      : '/';
+    // Determine site base (handles /LEP/ prefix on GitHub Pages)
+    const siteBase = document.documentElement.dataset.siteBase ||
+      (window.location.pathname.startsWith('/LEP') ? '/LEP' : '');
+    return fetch(siteBase + '/search.json')
+      .then(r => r.json())
+      .then(data => { searchData = data; return data; })
+      .catch(() => { searchData = []; return []; });
+  }
+
+  function highlight(text, query) {
+    if (!query) return text;
+    const safe = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    return text.replace(new RegExp('(' + safe + ')', 'gi'), '<mark>$1</mark>');
+  }
+
+  function renderResults(results, query) {
+    if (!query || query.length < 2) {
       searchResults.innerHTML = '';
       return;
     }
+    if (results.length === 0) {
+      searchResults.innerHTML = '<div class="search-hint"><p>No results found for <strong>' +
+        query.replace(/</g, '&lt;') + '</strong>.</p></div>';
+      return;
+    }
+    searchResults.innerHTML = results.slice(0, 12).map(item => {
+      const titleHL = highlight(item.title || '', query);
+      const excerptHL = highlight((item.excerpt || '').slice(0, 200), query);
+      return '<div class="search-result-item">' +
+        '<h3><a href="' + item.url + '">' + titleHL + '</a></h3>' +
+        (excerptHL ? '<p>' + excerptHL + '…</p>' : '') +
+        '</div>';
+    }).join('');
+  }
 
-    // Simple search (would be enhanced with actual search data)
-    // This is a placeholder for jekyll-search integration
-    console.log('Searching for:', query);
+  function doSearch(query) {
+    const q = query.toLowerCase().trim();
+    if (!q || q.length < 2) { renderResults([], q); return; }
+    loadSearchData().then(data => {
+      const results = data.filter(item => {
+        const haystack = ((item.title || '') + ' ' + (item.excerpt || '') + ' ' + (item.content || '')).toLowerCase();
+        return haystack.includes(q);
+      });
+      renderResults(results, q);
+    });
+  }
+
+  let debounceTimer;
+  searchInput.addEventListener('input', e => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => doSearch(e.target.value), 200);
   });
+
+  // Pre-load on focus
+  searchInput.addEventListener('focus', () => loadSearchData(), { once: true });
 })();
-
-// ========== Print Styles ==========
-window.addEventListener('beforeprint', () => {
-  document.body.classList.add('printing');
-});
-
-window.addEventListener('afterprint', () => {
-  document.body.classList.remove('printing');
-});
 
 // ========== Inline Term Tooltips ==========
 (function () {
@@ -257,6 +362,15 @@ window.addEventListener('afterprint', () => {
     }
   });
 })();
+
+// ========== Print Styles ==========
+window.addEventListener('beforeprint', () => {
+  document.body.classList.add('printing');
+});
+
+window.addEventListener('afterprint', () => {
+  document.body.classList.remove('printing');
+});
 
 // ========== Console Message ==========
 console.log('%cLEP — Law and Entrepreneurship Program', 'font-size: 1.5rem; font-weight: bold; color: #6DACDE;');

@@ -25,15 +25,27 @@ body {
 
 // Modern typography: balance multi-line headings, prettify body paragraphs
 h1, h2, h3, h4, h5, h6 {
-  text-wrap: balance;
+  font-family: var(--font-headline);
+  font-weight: 700;
+  line-height: 1.15;
   margin: var(--space-lg) 0 var(--space-md);
-  line-height: 1.3;
+  text-wrap: balance;
+  color: var(--accent);
 }
 
-h1 { font-size: 2.2rem; }
+[data-theme="light"] h1,
+[data-theme="light"] h2,
+[data-theme="light"] h3,
+[data-theme="light"] h5,
+[data-theme="light"] h6 {
+  color: var(--blue-deep);
+}
+
+h1 { font-size: 2.5rem; }
 h2 { font-size: 1.8rem; }
 h3 { font-size: 1.4rem; }
-h4 { font-size: 1.1rem; }
+h4 { font-size: 1.3rem; font-weight: 500; font-family: var(--font-body); color: var(--accent-red); }
+[data-theme="light"] h4 { color: var(--red-deep); }
 h5 { font-size: 1rem; }
 h6 { font-size: 0.9rem; }
 
