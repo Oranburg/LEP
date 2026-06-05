@@ -75,4 +75,4 @@ But Leo's encyclical calls us to answer differently. The Magnificat is its closi
 
 ---
 
-*This essay was developed in dialogue with the Public Discourse–venue draft of the same material. The doctrinal companion essays are [Magnifica Humanitas and the Babel Question](/essays/magnifica-babel/) and [The Law of the Golem](https://www.thepublicdiscourse.com/) (forthcoming, Public Discourse, 2026).*
+*This essay was developed in dialogue with the Public Discourse–venue draft of the same material. The doctrinal companion essays are [Magnifica Humanitas and the Babel Question]({{ '/essays/magnifica-babel/' | relative_url }}) and [The Law of the Golem](https://www.thepublicdiscourse.com/) (forthcoming, Public Discourse, 2026).*
