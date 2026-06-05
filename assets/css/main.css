@@ -2522,3 +2522,160 @@ select:focus-visible {
   .site-content th,
   .site-content td { padding: 0.55rem 0.6rem; }
 }
+
+/* ==========================================================================
+   Consolidated header — 2026-06
+   The standalone blue masthead is gone; site identity now rides inside the
+   sticky nav bar as .site-brand, collapsing the header to a single compact
+   row and reclaiming the vertical space the masthead used to occupy.
+   ========================================================================== */
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.2rem var(--space-md);
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
+/* Brand lockup (left of the bar) */
+.site-brand {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-right: var(--space-sm);
+  line-height: 1.05;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.site-brand__name {
+  font-family: var(--font-headline);
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.site-brand__tagline {
+  font-family: var(--font-accent);
+  font-size: 0.72rem;
+  font-style: italic;
+  letter-spacing: 0.01em;
+  color: var(--teal);
+  margin-top: 1px;
+}
+
+.site-brand:hover .site-brand__name,
+.site-brand:focus-visible .site-brand__name { color: var(--yellow); }
+
+/* The link list takes the remaining width, left-aligned after the brand */
+.site-nav > ul {
+  flex: 1 1 auto;
+  margin: 0;
+  justify-content: flex-start;
+  gap: 0.15rem 0.8rem;
+}
+
+.site-nav > ul > li:last-child { margin-left: 0; }
+
+/* Keep the three utility icons (search / lock / theme) together at the far
+   right; if the row is full they wrap as a tidy right-aligned cluster
+   rather than orphaning a single icon. */
+.site-nav > ul > li.nav-util--first { margin-left: auto; }
+.site-nav > ul > li.nav-util { margin-left: 0; }
+
+.site-nav a {
+  font-size: 0.82rem;
+  letter-spacing: 0.3px;
+}
+
+/* Desktop: keep the bar to a tidy single line where it fits */
+@media (min-width: 769px) {
+  .site-nav { min-height: 3.1rem; }
+  .nav-toggle { display: none; }
+}
+
+/* ---- Skip link: hidden until focused (its styling lived in uncompiled SCSS) ---- */
+.skip-link {
+  position: absolute;
+  left: var(--space-sm);
+  top: -3rem;
+  z-index: 9999;
+  padding: 0.5rem 0.9rem;
+  background: var(--yellow);
+  color: #000;
+  font-family: var(--font-headline);
+  text-decoration: none;
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+  transition: top 0.15s ease;
+}
+.skip-link:focus { top: 0; }
+
+/* Mobile: brand stays on the bar, links collapse behind the hamburger */
+@media (max-width: 768px) {
+  .site-nav {
+    align-items: center;
+    gap: 0;
+    padding: 0.4rem var(--space-md);
+  }
+  .site-brand { margin-right: auto; }
+  .nav-toggle {
+    position: static;
+    transform: none;
+    margin-left: auto;
+  }
+  .site-nav > ul {
+    flex-basis: 100%;
+    width: 100%;
+  }
+  /* utilities rejoin the stacked menu in normal order */
+  .site-nav > ul > li.nav-util--first { margin-left: 0; }
+}
+
+/* ==========================================================================
+   Homepage hero (replaces the lost masthead framing)
+   ========================================================================== */
+
+.home-hero {
+  margin: var(--space-sm) 0 var(--space-2xl);
+  padding-bottom: var(--space-lg);
+  border-bottom: 1px solid var(--border);
+}
+
+.home-hero__eyebrow {
+  font-family: var(--font-headline);
+  font-size: 0.82rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin: 0 0 var(--space-xs);
+}
+[data-theme="light"] .home-hero__eyebrow { color: var(--blue-bright); }
+
+.home-hero__title {
+  font-family: var(--font-headline);
+  font-size: clamp(2.2rem, 5vw, 3.1rem);
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: 0.01em;
+  color: var(--accent);
+  margin: 0 0 var(--space-sm);
+  border-bottom: none;
+  padding-bottom: 0;
+}
+[data-theme="light"] .home-hero__title { color: var(--blue-deep); }
+
+.home-hero__lead {
+  font-family: var(--font-accent);
+  font-size: 1.25rem;
+  line-height: 1.55;
+  color: var(--text);
+  max-width: 760px;
+  margin: 0 0 var(--space-lg);
+}
+
+.home-hero .home-cta { margin-bottom: 0; }
