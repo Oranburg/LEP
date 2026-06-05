@@ -4,12 +4,14 @@
   <ol>
     <li><a href="{{ '/' | relative_url }}">Home</a></li>
     {% assign crumbs = page.url | remove_first: '/' | split: '/' %}
+    {% assign cumulative = '' %}
     {% for crumb in crumbs %}
       {% if crumb != '' %}
+        {% assign cumulative = cumulative | append: '/' | append: crumb %}
         {% if forloop.last %}
-          <li aria-current="page">{{ page.title }}</li>
+          <li aria-current="page">{{ page.title | default: crumb | replace: '-', ' ' | capitalize }}</li>
         {% else %}
-          <li><a href="{{ '/' | append: crumbs | join: '/' | append: '/' | relative_url }}">{{ crumb | capitalize }}</a></li>
+          <li><a href="{{ cumulative | append: '/' | relative_url }}">{{ crumb | replace: '-', ' ' | capitalize }}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}

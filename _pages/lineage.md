@@ -239,4 +239,12 @@ Leo XIV's *Magnifica Humanitas* takes Babel and Nehemia as governing biblical im
 
 These four examples are not a complete inventory. They are the instruments the Program will treat first because they are the instruments the present generation of entrepreneurial lawyers will be asked to draft, advise on, and reason about. The anatomy supplies the questions. The two traditions supply the answers in independent and convergent form. The work is to read the instrument through the anatomy and to draft the instrument so the anatomy holds.
 
+---
+
+[The rule in drafting: Partnership at Shared Risk →]({{ '/partnership-at-shared-risk/' | relative_url }})
+
+[Where this sits in the whole: The Program's Argument →]({{ '/argument/' | relative_url }})
+
+[Societas, in plain terms →]({{ '/societas/' | relative_url }})
+
 {% include figure-modals.html %}
