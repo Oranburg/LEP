@@ -147,6 +147,6 @@ The program draws the systematic analytical framework from the Catholic traditio
 
 ## Related pages
 
-- [Doctrinal Lineage](/LEP/lineage-timeline/)
-- [*Societas* in practice](/LEP/societas/)
-- [Events](/LEP/events/)
+- [Doctrinal Lineage]({{ '/lineage-timeline/' | relative_url }})
+- [*Societas* in practice]({{ '/societas/' | relative_url }})
+- [Events]({{ '/events/' | relative_url }})

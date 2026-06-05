@@ -36,22 +36,22 @@ The verified paragraph anchors below come from a research pass on the encyclical
 
 Six pieces engage the encyclical from distinct angles. Each does one identifiable job.
 
-### [Magnifica Humanitas and the Babel Question](/LEP/essays/magnifica-babel/)
+### [Magnifica Humanitas and the Babel Question]({{ '/essays/magnifica-babel/' | relative_url }})
 *Pre-release.* The encyclical's Babel/Nehemia opposition is the *societas*/*mutuum* test applied to AI-venture documents: the lawyer who drafts the platform agreement drafts Babel by default unless she knows to resist it.
 
-### [Who Is Sending the Messenger](/LEP/essays/magnifica-who-is-sending/)
+### [Who Is Sending the Messenger]({{ '/essays/magnifica-who-is-sending/' | relative_url }})
 *Pre-release.* The encyclical's operative claim is an agency claim — the machine is a messenger with no will, and the lawyer drafting the platform-services agreement is writing the angel's instructions, allocating *personae* and *res* in every clause. Target venue: Public Discourse.
 
-### [What Nehemiah Knew](/LEP/essays/magnifica-nehemia-asymmetry/)
+### [What Nehemiah Knew]({{ '/essays/magnifica-nehemia-asymmetry/' | relative_url }})
 *Pre-release.* Classical Jewish exegesis left Nehemiah 2-6 undeveloped as a governance parable, and the Pope's elevation of that text is an invitation for Jewish lawyers to supply the interior — through *dina d'malkhuta dina*, the *kehilla* model, *issurei hana'ah*, and the *sachir* law. Target venue: Tikvah / Mosaic.
 
-### [The Third Place](/LEP/essays/magnifica-third-place/)
+### [The Third Place]({{ '/essays/magnifica-third-place/' | relative_url }})
 *Pre-release.* Leo XIV gives us Babel and Jerusalem. The ground we are actually standing on is neither: it is the wilderness between them, and the wilderness is the only place where persons are counted by name before any project begins. Personal essay. Target venue: Plough.
 
-### [The Cup-Bearer's Position](/LEP/essays/magnifica-cup-bearer/)
+### [The Cup-Bearer's Position]({{ '/essays/magnifica-cup-bearer/' | relative_url }})
 *Pre-release.* The Jewish professional's position inside a non-Jewish institution is the instrument, not the embarrassment: Nehemiah built Jerusalem's wall because he first kept the Persian king's cup, and the court position was the equipment. Lyrical-confessional essay. Target venue: Judith Magazine.
 
-### [The Ground Nobody Owns](/LEP/essays/magnifica-ground-nobody-owns/)
+### [The Ground Nobody Owns]({{ '/essays/magnifica-ground-nobody-owns/' | relative_url }})
 *Pre-release.* Roman law's property taxonomy misses the category Hebrew *hefker* names: the ground that must remain ownerless as a condition of what can be received there. Personal data is not air, not abandoned property — it is something the *res nullius* frame cannot honor. Target venue: Sapir Journal.
 
 {% include figure.html name="nehemia-wall-sections" alt="Subsidiarity diagram showing Nehemiah 3 wall-section assignments mapped onto the principle that each institution governs its own section and cannot arrogate the whole." caption="**Nehemiah's wall-section architecture.** Each family rebuilds adjacent to what it owns; accountability is structural, not supervisory. Leo XIV reads this as subsidiarity in built form." %}

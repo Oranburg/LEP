@@ -26,7 +26,7 @@ The *heter iska* is not a historical artifact. It is the operative commercial in
 
 The lineage page treats the *heter iska* as the halakhic mechanism that completes Maimonides on *ẓedakah*.[^fn-lineage] The doctrinal commitment the Jewish tradition holds, that capital must be deployed in partnership at shared risk rather than as a fixed-interest loan to a fellow Jew, is not preserved as memory. It is practiced.
 
-The *societas* side of the same argument appears in [Jurisgenesis in Transactional Drafting](/LEP/essays/jurisgenesis-drafting/).
+The *societas* side of the same argument appears in [Jurisgenesis in Transactional Drafting]({{ '/essays/jurisgenesis-drafting/' | relative_url }}).
 
 ## II. The problem the *heter iska* solves
 
@@ -78,13 +78,13 @@ Third, the alternative to fixed-interest debt is not absence of finance. It is a
 
 ## VII. Implications for present transactional drafting
 
-The *heter iska* is not a parochial instrument. It is a worked example of the doctrinal rule the Program names [Partnership at Shared Risk](/LEP/partnership-at-shared-risk/). The lawyer trained to draft a *societas*, in the Roman and Thomistic lineage the lineage page traces, and the lawyer trained to draft a *heter iska*, in the Talmudic and post-Talmudic lineage the same page traces in its sixth section, are working with the same doctrinal commitment in two vocabularies. They are draftsmen of partnership where a draftsman of a fixed-interest loan would be a draftsman of *mutuum*.
+The *heter iska* is not a parochial instrument. It is a worked example of the doctrinal rule the Program names [Partnership at Shared Risk]({{ '/partnership-at-shared-risk/' | relative_url }}). The lawyer trained to draft a *societas*, in the Roman and Thomistic lineage the lineage page traces, and the lawyer trained to draft a *heter iska*, in the Talmudic and post-Talmudic lineage the same page traces in its sixth section, are working with the same doctrinal commitment in two vocabularies. They are draftsmen of partnership where a draftsman of a fixed-interest loan would be a draftsman of *mutuum*.
 
 The Program for Law and Entrepreneurship treats both as substantive doctrine and trains practitioners to read and draft in both vocabularies. The Catholic lawyer who learns the *heter iska* learns what a continuous drafting tradition looks like when the doctrine has not been allowed to lapse. The Jewish lawyer who learns the *societas* literature learns what the Catholic moral theology of commerce has reconstructed and how the reconstruction is now showing up in venture, ESOP, and tokenized-venture drafting.[^fn-jurisgen] The two streams are not in competition. They are mutually instructive because they are answering the same doctrinal question with a shared answer.
 
 The work for the practitioner is the same work the lineage page describes for the modern instrument generally: read the deal through the anatomy and draft the deal so the anatomy holds. The *heter iska* shows what that work looks like when the tradition has done it without interruption. The remaining task is to do it everywhere else.
 
-[^fn-lineage]: See *The Moral Anatomy of Enterprise*, [Section VI](/LEP/lineage/#vi-the-jewish-parallel), treating the Jewish route through Torah, Talmud, Maimonides, and the *heter iska* tradition.
+[^fn-lineage]: See *The Moral Anatomy of Enterprise*, [Section VI]({{ '/lineage/#vi-the-jewish-parallel' | relative_url }}), treating the Jewish route through Torah, Talmud, Maimonides, and the *heter iska* tradition.
 
 [^fn-lev]: Lev. 25:35 to 36. The verse pairs the obligation to uphold the brother with the prohibition on taking *neshekh* and *tarbit*.
 
@@ -98,7 +98,7 @@ The work for the practitioner is the same work the lineage page describes for th
 
 [^fn-ya]: Shulḥan Arukh, Yoreh De'ah 177 (שו"ע יו"ד קע"ז), with the glosses of the Rema. Siman 177 is the comprehensive *iska* siman in the Shulhan Arukh (not siman 167, which is a narrow one-seif provision on profit-sharing lending). Se'if pins not yet confirmed; add before final publication.
 
-[^fn-jurisgen]: See [Jurisgenesis in Transactional Drafting](/LEP/essays/jurisgenesis-drafting/), treating the Catholic twin of this argument and the venture, ESOP, and tokenized-venture instruments through which the *societas* form is presently being recovered.
+[^fn-jurisgen]: See [Jurisgenesis in Transactional Drafting]({{ '/essays/jurisgenesis-drafting/' | relative_url }}), treating the Catholic twin of this argument and the venture, ESOP, and tokenized-venture instruments through which the *societas* form is presently being recovered.
 
 [^fn-bm-75b]: Bava Metzia 75b. The Mishnah at 75b enumerates the parties who transgress (וְאֵלּוּ עוֹבְרִין בְּלֹא תַעֲשֶׂה, *ve-elu overin be-lo taʿaseh*, "these transgress a negative commandment"): the lender, the borrower, the guarantor, and the witnesses — and the Sages add the scribe as a fifth. Both lender and borrower transgress. Verified against Sefaria.
 

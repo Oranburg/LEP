@@ -17,4 +17,4 @@ permalink: /news/
 
 ## Feed
 
-This page is also available as an [RSS feed](/LEP/feed.xml).
+This page is also available as an [RSS feed]({{ '/feed.xml' | relative_url }}).

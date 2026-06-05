@@ -1,5 +1,11 @@
 # LEP Codebase Improvements - Complete Summary
 
+> **Status note (2026-06).** This is a historical snapshot of an earlier improvement pass, not a current map of the repo. Known drift to be aware of:
+> - The pages `/design-system/`, `/implementation-guide/`, and `/events-enhanced/` described below were **not retained** and do not exist in the repo.
+> - The `-updated` include files (`nav-updated.html`, `header-updated.html`, `footer-updated.html`) have been **renamed to drop the suffix** (`nav.html`, `header.html`, `footer.html`); the pre-update originals no longer exist.
+> - Of the navigation components, **only `breadcrumbs.html` is wired into `_layouts/default.html`.** `table-of-contents.html`, `related-content.html`, `reading-time.html`, and `page-meta.html` exist as includes but are not auto-included; `related-content.html` is tag-driven and no pages currently set tags.
+> Treat the sections below as a record of intent, and verify against the live tree before relying on any specific claim.
+
 ## Executive Summary
 
 The LEP (Law and Entrepreneurship Program) website codebase has been comprehensively refactored and enhanced across six major implementation phases. All recommendations from the codebase analysis have been fully implemented, resulting in:
