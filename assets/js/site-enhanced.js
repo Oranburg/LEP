@@ -178,35 +178,6 @@ function handleArticleKey(event, element) {
   elements.forEach(el => observer.observe(el));
 })();
 
-// ========== Table of Contents Highlighting ==========
-(function () {
-  const toc = document.querySelector('.table-of-contents');
-  if (!toc) return;
-
-  const headings = document.querySelectorAll('h2[id], h3[id]');
-  const links = toc.querySelectorAll('a');
-
-  if (!headings.length || !links.length) return;
-
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const id = entry.target.getAttribute('id');
-        links.forEach(link => {
-          link.classList.remove('active');
-          if (link.getAttribute('href') === '#' + id) {
-            link.classList.add('active');
-          }
-        });
-      }
-    });
-  }, {
-    rootMargin: '-10% 0px -80% 0px'
-  });
-
-  headings.forEach(h => observer.observe(h));
-})();
-
 // ========== Accessibility Improvements ==========
 (function () {
   const focusVisibleSupported = () => {
