@@ -6,7 +6,7 @@ permalink: /about/
 
 # About this site
 
-This is the personal working space of the co-directors of the Law and Entrepreneurship Program at the Catholic University of America Columbus School of Law. The program is operating now under founding Director Alexander Hoffarth. Seth Oranburg joins as co-director on August 20, 2026, from the University of New Hampshire Franklin Pierce School of Law.
+This is the personal working space of the directors of the Law and Entrepreneurship Program at the Catholic University of America Columbus School of Law. The program is operating now under founding Director Alexander Hoffarth. Seth Oranburg joins as Director on August 20, 2026, having held the title of Ordinary Professor of Law and Director of the Law and Entrepreneurship Program at the conclusion of his appointment at the University of New Hampshire Franklin Pierce School of Law.
 
 The site exists for two purposes. First, to give collaborators, prospective students, and current students a single place to read what the program is, what it does, and what it is becoming. Second, to stage the intellectual identity of the program in public so that the doctrine, the curriculum, and the cohort design are visible as they develop.
 
@@ -28,4 +28,4 @@ This site (oranburg.law/LEP) is not an official CUA program site. Nothing on it 
 
 Alexander Hoffarth, founding Director: hoffarth@cua.edu
 
-Seth Oranburg, co-director (incoming): seth.oranburg@gmail.com
+Seth Oranburg, Director (effective August 20, 2026): seth.oranburg@gmail.com

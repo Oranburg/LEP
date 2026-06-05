@@ -33,7 +33,7 @@ If you are a practitioner, alum, or employer, see [Mentor and hire]({{ '/for-stu
 
 ## Program status, May 2026
 
-The program is being formally constituted at the Catholic University of America Columbus School of Law for AY 2026-27. Alexander Hoffarth is the founding Director. Seth Oranburg joins as co-director on August 20, 2026. Some components are operating now; others are scheduled.
+The program is being formally constituted at the Catholic University of America Columbus School of Law for AY 2026-27. Alexander Hoffarth is the founding Director. Seth Oranburg joins as Director on August 20, 2026, holding the title of Ordinary Professor of Law and Director of the Law and Entrepreneurship Program. Some components are operating now; others are scheduled.
 
 | Component | Status |
 |---|---|

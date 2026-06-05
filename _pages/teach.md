@@ -36,7 +36,7 @@ The frame is substantive doctrine, not branding. The program's claim is that the
 
 ## Contact
 
-For academic correspondence: seth.oranburg@gmail.com (Seth Oranburg, co-director, joining CUA August 20, 2026) or hoffarth@cua.edu (Alexander Hoffarth, founding Director).
+For academic correspondence: seth.oranburg@gmail.com (Seth Oranburg, Director, effective August 20, 2026) or hoffarth@cua.edu (Alexander Hoffarth, founding Director).
 
 ---
 

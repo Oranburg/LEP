@@ -6,7 +6,7 @@ permalink: /theme/
 
 # Entrepreneurship: Curing Poverty
 
-The 2026–27 LEP year theme, agreed by the program's co-directors, is *Entrepreneurship: Curing Poverty*. The title states the thesis the year tests. Entrepreneurship is the activity that cures poverty. The two-hundred-year record of capital-for-labor substitution shows it. The question the year takes up is the lawyer's question: which structures, drafted by which lawyers under which intellectual frames, actually cure poverty in measurable ways, and which produce the appearance of partnership while extracting the upside.
+The 2026–27 LEP year theme, agreed by the program's directors, is *Entrepreneurship: Curing Poverty*. The title states the thesis the year tests. Entrepreneurship is the activity that cures poverty. The two-hundred-year record of capital-for-labor substitution shows it. The question the year takes up is the lawyer's question: which structures, drafted by which lawyers under which intellectual frames, actually cure poverty in measurable ways, and which produce the appearance of partnership while extracting the upside.
 
 The thesis is not new. Magatte Wade's *The Heart of a Cheetah* is the contemporary statement. The Aquinas–Salamanca tradition reaches the same conclusion from the moral-theology side. Maimonides reaches it through the eight rungs of *tzedakah*, with partnership at the top. The World Bank record on extreme poverty (37.8 percent of the world population in 1990, 8.4 percent in 2019) measures the same claim at the global scale.
 
