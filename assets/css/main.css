@@ -138,65 +138,6 @@ p {
   font-family: var(--font-accent);
 }
 
-/* ---------- Header ---------- */
-
-.site-header {
-  background: var(--bg-secondary);
-  /* Subtle dot-grid texture */
-  background-image:
-    radial-gradient(circle, rgba(109,172,222,0.12) 1px, transparent 1px);
-  background-size: 28px 28px;
-  color: var(--text);
-  padding: var(--space-3xl) var(--space-xl);
-  text-align: center;
-  position: relative;
-  border-bottom: 2px solid var(--accent-red);
-}
-
-[data-theme="light"] .site-header {
-  background-color: var(--bg-secondary);
-  background-image:
-    radial-gradient(circle, rgba(36,89,169,0.08) 1px, transparent 1px);
-  background-size: 28px 28px;
-}
-
-.header-inner {
-  max-width: var(--max-width);
-  margin: 0 auto;
-}
-
-.site-title {
-  font-family: var(--font-headline);
-  font-size: 2.5rem;
-  font-weight: 700;
-  line-height: 1.1;
-  color: var(--text);
-  text-decoration: none;
-  display: block;
-  letter-spacing: 0.03em;
-  transition: color var(--transition-normal);
-}
-
-.site-title:hover {
-  color: var(--yellow);
-}
-
-.site-tagline {
-  font-family: var(--font-accent);
-  font-size: 1.4rem;
-  opacity: 0.95;
-  margin: 0.6rem 0 0;
-}
-
-.site-hero-subtitle {
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  opacity: 0.85;
-  margin: 0.75rem auto 0;
-  max-width: 680px;
-  line-height: 1.7;
-}
-
 /* ---------- Navigation ---------- */
 
 .site-nav {
@@ -1584,18 +1525,6 @@ details.embed[open] summary {
 }
 
 @media (max-width: 600px) {
-  .site-header {
-    padding: 2.5rem 1.25rem;
-  }
-
-  .site-title {
-    font-size: 1.75rem;
-  }
-
-  .site-tagline {
-    font-size: 1.1rem;
-  }
-
   .hub-intro h1,
   .post-title {
     font-size: 1.5rem;
@@ -2327,28 +2256,6 @@ select:focus-visible {
   outline: none;
   box-shadow: var(--focus-ring);
   border-color: var(--accent);
-}
-
-/* ---- Header: trimmer, with quiet depth ---- */
-.site-header {
-  padding: var(--space-2xl) var(--space-xl);
-  background-image:
-    radial-gradient(circle at 1px 1px, rgba(109, 172, 222, 0.10) 1px, transparent 0),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0.12));
-  background-size: 28px 28px, 100% 100%;
-}
-
-[data-theme="light"] .site-header {
-  background-image:
-    radial-gradient(circle at 1px 1px, rgba(36, 89, 169, 0.07) 1px, transparent 0),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.70), rgba(10, 50, 85, 0.04));
-}
-
-.site-tagline { font-style: italic; color: var(--teal); }
-[data-theme="light"] .site-tagline { color: var(--blue-bright); }
-
-@media (max-width: 600px) {
-  .site-header { padding: var(--space-xl) var(--space-md); }
 }
 
 /* ---- Sticky nav: a touch more presence ---- */
