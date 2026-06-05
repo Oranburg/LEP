@@ -62,4 +62,4 @@ Peggy Kacergis, Assistant Dean of Advancement, CUA Columbus School of Law: kacer
 
 Alexander Hoffarth, Director, LEP: hoffarth@cua.edu
 
-Seth Oranburg, Co-Director (incoming, August 20, 2026): seth.oranburg@gmail.com
+Seth Oranburg, Director (effective August 20, 2026): seth.oranburg@gmail.com

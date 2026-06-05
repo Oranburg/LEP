@@ -6,7 +6,7 @@ permalink: /people/
 
 # People
 
-The program's co-directors and the adjacent institutional collaborator at CUA.
+The program's directors and the adjacent institutional collaborator at CUA.
 
 {% for person in site.data.people %}
 ## {{ person.name }}

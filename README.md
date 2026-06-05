@@ -1,6 +1,6 @@
 # LEP
 
-Working space for the intellectual identity of the Law and Entrepreneurship Program (LEP) that Seth Oranburg will co-direct at the Catholic University of America Columbus School of Law beginning August 2026. This repository contains the program's intellectual identity in development. It is not a CUA-authorized site, and nothing on it constitutes a CUA-authorized communication.
+Working space for the intellectual identity of the Law and Entrepreneurship Program (LEP) at the Catholic University of America Columbus School of Law, directed by Seth Oranburg (effective August 20, 2026) with founding Director Alexander Hoffarth. This repository contains the program's intellectual identity in development. It is not a CUA-authorized site, and nothing on it constitutes a CUA-authorized communication.
 
 Deployed at https://oranburg.law/LEP/.
 

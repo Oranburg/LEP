@@ -51,7 +51,7 @@ hero_subtitle: "Partnership at shared risk as the just form of capital, taught a
 
 The program asks one question across every event, every reading, every paper: what does justice toward the poor look like when it takes the form of a business? Two traditions converge on a single answer. Aquinas, drawing on Roman commercial law, identifies *societas* (partnership at shared risk) as the just form of capital deployment, in contrast to *mutuum* at fixed interest. Maimonides, drawing on Talmudic precedent, identifies *shutafut* (partnership with the recipient) as the highest of the eight rungs of *tzedakah*. The Salamanca school developed Aquinas into a full commercial moral theology. Leo XIII, John Paul II, and now Leo XIV have carried it forward into the modern arc.
 
-The full five-element statement of what the program trains lawyers to do, under what norm, by what method, against what, and where, is at <a href="{{ '/argument/' | relative_url }}">The Program's Argument</a>. What the program is building on that argument, across its first three years, is at the <a href="{{ '/roadmap/' | relative_url }}">Roadmap</a>. The 2026–27 year theme, agreed by the co-directors, is <a href="{{ '/theme/' | relative_url }}"><em>Entrepreneurship: Curing Poverty</em></a>. The scholarly convening inside the year is the <em>Law and New Things</em> symposium, co-convened with Robert T. Miller (Scalia Law), publishing in the <em>Catholic University Law Review</em>.
+The full five-element statement of what the program trains lawyers to do, under what norm, by what method, against what, and where, is at <a href="{{ '/argument/' | relative_url }}">The Program's Argument</a>. What the program is building on that argument, across its first three years, is at the <a href="{{ '/roadmap/' | relative_url }}">Roadmap</a>. The 2026–27 year theme, agreed by the program's directors, is <a href="{{ '/theme/' | relative_url }}"><em>Entrepreneurship: Curing Poverty</em></a>. The scholarly convening inside the year is the <em>Law and New Things</em> symposium, co-convened with Robert T. Miller (Scalia Law), publishing in the <em>Catholic University Law Review</em>.
 
 </section>
 
@@ -60,9 +60,9 @@ The full five-element statement of what the program trains lawyers to do, under 
 <h2>Status</h2>
 
 <div class="start-here-cta">
-The Law and Entrepreneurship Program is operating at the Catholic University of America Columbus School of Law under founding Director Alexander Hoffarth. Seth Oranburg joins as co-director on August 20, 2026. The clinic is operating now; new program components (the Business Boot Camp, the Transactional Practicum, the formal cohort structure, the mentorship pairings) are scheduled for AY 2026-27 and AY 2027-28.
+The Law and Entrepreneurship Program is operating at the Catholic University of America Columbus School of Law under founding Director Alexander Hoffarth. Seth Oranburg joins as Director on August 20, 2026, holding the title of Ordinary Professor of Law and Director of the Law and Entrepreneurship Program. The clinic is operating now; new program components (the Business Boot Camp, the Transactional Practicum, the formal cohort structure, the mentorship pairings) are scheduled for AY 2026-27 and AY 2027-28.
 <br><br>
-This site (oranburg.law/LEP) is the co-directors' personal working space for the program's intellectual identity. It is not a CUA-authorized communication; CUA-authorized program communications will appear on law.edu when the institutional process is complete. Until August 20, 2026 the co-director remains on the faculty of the University of New Hampshire Franklin Pierce School of Law.
+This site (oranburg.law/LEP) is the directors' personal working space for the program's intellectual identity. It is not a CUA-authorized communication; CUA-authorized program communications will appear on law.edu when the institutional process is complete. Until August 20, 2026 the incoming Director remains on the faculty of the University of New Hampshire Franklin Pierce School of Law.
 </div>
 
 </section>

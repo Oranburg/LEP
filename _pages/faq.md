@@ -24,10 +24,10 @@ The questions below come from a focus group of prospective and current students 
 The Law and Entrepreneurship Clinic is operating now at CUA Law. The cohort structure, the monthly meetings, the formal mentorship pairings, the Business Boot Camp, and the practitioner-supervised practicum course are scheduled for launch in AY 2026-27 and AY 2027-28. The status table on the [For Students overview]({{ '/for-students/' | relative_url }}) tells you which components are operating now and which are being built. The program will be formally constituted at CUA, named, and authorized through the standard institutional process.
 
 **Who runs the program?**
-Alexander Hoffarth, Visiting Assistant Professor of Law and the founding Director, has built the program since arriving at CUA. Seth Oranburg joins as co-director on August 20, 2026, after a faculty tenure at the University of New Hampshire Franklin Pierce School of Law. Both are listed on the [People page]({{ '/people/' | relative_url }}).
+Alexander Hoffarth, Visiting Assistant Professor of Law and the founding Director, has built the program since arriving at CUA. Seth Oranburg joins as Director on August 20, 2026, holding the title of Ordinary Professor of Law and Director of the Law and Entrepreneurship Program, after a faculty tenure at the University of New Hampshire Franklin Pierce School of Law. Both are listed on the [People page]({{ '/people/' | relative_url }}).
 
 **Is this program CUA-authorized?**
-The program operates within the Columbus School of Law and is being formally constituted through the standard CUA institutional process for AY 2026-27. This site (oranburg.law/LEP) is the personal working space of the co-directors and is not a CUA-authorized communication; CUA-authorized program communications will appear on law.edu when the program is formally launched. The clinic, the courses, and the degree credit are administered through CUA Law in the standard way.
+The program operates within the Columbus School of Law and is being formally constituted through the standard CUA institutional process for AY 2026-27. This site (oranburg.law/LEP) is the personal working space of the program's directors and is not a CUA-authorized communication; CUA-authorized program communications will appear on law.edu when the program is formally launched. The clinic, the courses, and the degree credit are administered through CUA Law in the standard way.
 
 **Will LEP show on my transcript or diploma?**
 The Business Boot Camp, the Transactional Practicum, and the clinic will show on your transcript as the courses they are. A formal LEP cohort designation (akin to Penn's Wharton certificate or Northwestern's transactional-law certificate) is under discussion with the CUA Law administration. Whether it lands as a transcript notation, a diploma supplement, or a separate letter of completion will be announced when the institutional review is complete.
@@ -123,7 +123,7 @@ Bar passage is a school-wide question; the LEP track does not displace the cours
 ## Mentors, externships, and the DC advantage
 
 **Who are the practitioner mentors?**
-The mentor network is being built across Summer 2026 with the target categories on the [For Mentors page]({{ '/for-students/mentors/' | relative_url }}). Names will be published as commitments are confirmed. The mentor pool draws from the CUA Law alumni network, the broader Catholic legal practitioner community, and the practitioner network of the co-directors and their colleagues.
+The mentor network is being built across Summer 2026 with the target categories on the [For Mentors page]({{ '/for-students/mentors/' | relative_url }}). Names will be published as commitments are confirmed. The mentor pool draws from the CUA Law alumni network, the broader Catholic legal practitioner community, and the practitioner network of the program's directors and their colleagues.
 
 **How are mentorship pairings made? What happens if it does not work?**
 You meet with the directors to discuss your career direction and interests. The directors match you with a faculty mentor and a practitioner mentor whose work and disposition fit yours. The minimum commitment is two meetings per semester. If the match is not working after one semester, you ask the directors for a re-pairing. There is no penalty.
