@@ -1,9 +1,6 @@
-<header class="site-header">
-  <div class="header-inner">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    <p class="site-tagline">{{ site.subtitle }}</p>
-    {% if page.hero_subtitle %}<p class="site-hero-subtitle">{{ page.hero_subtitle }}</p>{% endif %}
-  </div>
-</header>
-
+{% comment %}
+The site identity now lives inside the sticky nav bar (see nav.html's
+.site-brand). This keeps the masthead to a single compact row instead of a
+tall standalone block. The homepage renders its own hero in index.md.
+{% endcomment %}
 {% include nav.html %}

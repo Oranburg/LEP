@@ -5,9 +5,14 @@ permalink: /
 hero_subtitle: "Partnership at shared risk as the just form of capital, taught as substantive doctrine at the Catholic University of America Columbus School of Law."
 ---
 
+<div class="home-hero">
+<p class="home-hero__eyebrow">A Working Identity · CUA Columbus School of Law</p>
+<h1 class="home-hero__title">Law &amp; Entrepreneurship</h1>
+<p class="home-hero__lead">{{ page.hero_subtitle }}</p>
 <div class="home-cta">
 <a class="button-link button-link--primary" href="{{ '/argument/' | relative_url }}">Start with the argument</a>
 <a class="button-link" href="{{ '/roadmap/' | relative_url }}">See the three-year roadmap</a>
+</div>
 </div>
 
 <section id="doorways">
