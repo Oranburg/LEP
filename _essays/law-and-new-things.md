@@ -45,7 +45,7 @@ The Program takes 2026–27 as the year to engage that arc. The year theme, agre
 
 The symposium treats the trichotomy as a hypothesis to be tested, not a conclusion to be confirmed. Each term has its own analytic shape. Inequality is distributive: the gap between what one person commands and what another commands. Control is relational: who sets the terms under which the other acts. Exclusion is threshold: who falls below the floor of meaningful participation altogether. If the three terms hold as separable harms, each maps to a different doctrinal tool, and the legal question becomes whether the tool fits the harm. If the three terms collapse, or if the morality-of-markets and economic-growth literatures supply a stronger frame, the encyclical's analytic apparatus needs to be reshaped before it can carry legal weight.
 
-This is what serious engagement with the Magisterium looks like in a law-review register. A Catholic university has a particular obligation to take papal teaching seriously, which means engaging it without presuming it. The symposium recruits scholars on both sides of every panel question.
+This is what serious engagement with the Magisterium looks like in a law-review voice. A Catholic university has a particular obligation to take papal teaching seriously, which means engaging it without presuming it. The symposium recruits scholars on both sides of every panel question.
 
 ## II. Why this arc, this year
 
