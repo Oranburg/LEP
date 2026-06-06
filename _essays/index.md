@@ -12,7 +12,7 @@ These pieces develop the intellectual identity of the Law and Entrepreneurship P
 ## The front door
 
 ### [The Program's Argument]({{ '/argument/' | relative_url }})
-The five elements of the spine, stated in one place. What lawyers do, under what substantive norm, by what method of formation, against what live constraint, and where the convergence is institutionally possible. Every essay in the cluster delivers one piece of the spine.
+The five elements, stated in one place. What lawyers do, under what substantive norm, by what method of formation, against what live constraint, and where the convergence is institutionally possible. Every essay in the cluster delivers one of the five.
 
 ## Year theme
 
