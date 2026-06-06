@@ -1,8 +1,13 @@
 ---
 layout: page
 title: "Priority: Year Theme"
+export: true
 permalink: /priorities/theme/
 ---
+
+{% include export-bar.html %}
+
+<div class="brief" data-export-content>
 
 # Priority: Year Theme
 
@@ -40,5 +45,7 @@ The Board is asked to:
 1. React to the year's topical idea and to the four-event slate.
 2. Propose subsequent years' themes. The program intends a multi-year sequence of topical years; the Board's input shapes which topics come next.
 3. Attend the events. The Board members' presence at the keynote and the symposium is the public marker that the program operates with institutional weight.
+
+</div>
 
 [Full year-theme treatment →]({{ '/theme/' | relative_url }}) · [Back to priorities →]({{ '/priorities/' | relative_url }})

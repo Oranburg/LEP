@@ -1,8 +1,13 @@
 ---
 layout: page
 title: "Priority: The LEP Badge"
+export: true
 permalink: /priorities/badge/
 ---
+
+{% include export-bar.html %}
+
+<div class="brief" data-export-content>
 
 # Priority: The LEP Badge
 
@@ -36,5 +41,7 @@ The inaugural badge is one. The program commits to scaling the badge portfolio a
 ## What the program asks of the Board
 
 The Board is not asked to approve the badge. The badge is a program-level decision communicated to the Board. The Board is asked to advise on the credential's positioning with the wider Washington legal community, on the recognition pattern the program should expect from local employers, and on the credential's relationship to the bar's own credential structure.
+
+</div>
 
 [Back to priorities →]({{ '/priorities/' | relative_url }})

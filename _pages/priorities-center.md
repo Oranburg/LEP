@@ -1,8 +1,13 @@
 ---
 layout: page
 title: "Priority: Toward a Catholic Business Law Center?"
+export: true
 permalink: /priorities/center/
 ---
+
+{% include export-bar.html %}
+
+<div class="brief" data-export-content>
 
 # Priority: Toward a Catholic Business Law Center?
 
@@ -45,5 +50,7 @@ The Board is asked to:
 4. Hear the trajectory as the longer-term institutional move that the other four priorities bridge toward, not as a separate fundraising ask.
 
 The endowment conversation runs through CUA Advancement on a separate track. The Board's strategic input here feeds the directors' planning conversations with the Dean and with Peggy Kacergis, not a request for Board-led fundraising.
+
+</div>
 
 [Back to priorities →]({{ '/priorities/' | relative_url }})

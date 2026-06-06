@@ -1,8 +1,13 @@
 ---
 layout: page
 title: "Priority: Business Law Mentorship"
+export: true
 permalink: /priorities/mentorship/
 ---
+
+{% include export-bar.html %}
+
+<div class="brief" data-export-content>
 
 # Priority: Business Law Mentorship
 
@@ -40,5 +45,7 @@ The mentorship initiative is the operational ask of the Board. The directors ask
 4. React to the structure and propose adjustments the Board members consider more useful given their vantage on the practice.
 
 The Board's network is the resource. The Board's volunteer involvement is what converts the resource into operational capacity.
+
+</div>
 
 [Back to priorities →]({{ '/priorities/' | relative_url }})

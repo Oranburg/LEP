@@ -1,8 +1,13 @@
 ---
 layout: page
 title: "Priority: Private-Law Faculty"
+export: true
 permalink: /priorities/faculty/
 ---
+
+{% include export-bar.html %}
+
+<div class="brief" data-export-content>
 
 # Priority: Private-Law Faculty
 
@@ -42,5 +47,7 @@ The Board is asked to:
 1. React to the curricular-spectrum map and identify gaps the directors have not surfaced.
 2. Help identify experiential-layer faculty candidates from the Washington transactional bar, particularly practitioners whose career trajectory makes them strong adjunct or visiting candidates.
 3. Advise on the sequencing of the next two clinical hires against the broader hiring situation at Columbus Law.
+
+</div>
 
 [Back to priorities →]({{ '/priorities/' | relative_url }})
