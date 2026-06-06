@@ -9,6 +9,7 @@ permalink: /for-students/mentors/
 This page covers three things: how to mentor a student, how to hire from the program, and how to make a gift in support.
 
 ## The mentor pool
+{: #mentor }
 
 The mentor pool is being built across Summer 2026 for the first AY 2026-27 cohort. Target categories:
 
@@ -38,6 +39,7 @@ Email Alexander Hoffarth at hoffarth@cua.edu with a brief note:
 Mentorship slots are limited. The program keeps the pairing count small enough that each one is substantive.
 
 ## To hire from the program
+{: #hire }
 
 The first dedicated LEP cohort graduates in 2029. Until then, the program serves CUA Law students who self-identify with the LEP cohort. To make those students available for summer associate, postgraduate, or externship opportunities, contact the program directors.
 

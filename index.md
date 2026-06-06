@@ -32,8 +32,13 @@ hero_subtitle: "Partnership at shared risk as the just form of capital, taught a
 </div>
 
 <div class="audience-card">
-<h3><a href="{{ '/for-students/mentors/' | relative_url }}">Mentor and hire</a></h3>
-<p>For practitioners, alumni, and employers. Mentor a student, host an extern, hire from the program.</p>
+<h3><a href="{{ '/for-students/mentors/#mentor' | relative_url }}">Mentor</a></h3>
+<p>For practitioners and alumni who can pair with a student for the year. Two meetings a semester; format flexible.</p>
+</div>
+
+<div class="audience-card">
+<h3><a href="{{ '/for-students/mentors/#hire' | relative_url }}">Hire</a></h3>
+<p>For employers. Summer associate, postgraduate, and externship pathways into the program's students.</p>
 </div>
 
 <div class="audience-card">
@@ -55,13 +60,50 @@ hero_subtitle: "Partnership at shared risk as the just form of capital, taught a
 
 </section>
 
+<section id="priorities">
+
+<h2>Priorities for AY 2026-27</h2>
+
+<p>The program's directors have agreed on five priorities for the coming year. Each links to a one-page brief prepared for the Board of Visitors and the Law School Alumni Council.</p>
+
+<div class="audience-cards">
+
+<div class="audience-card">
+<h3><a href="{{ '/priorities/badge/' | relative_url }}">The LEP Badge</a></h3>
+<p>A verifiable credential certifying completion of the program through the clinic. Inaugural issuance by end of AY 2026-27.</p>
+</div>
+
+<div class="audience-card">
+<h3><a href="{{ '/priorities/faculty/' | relative_url }}">Private-law faculty</a></h3>
+<p>One more clinical course, one more experiential course, and a curricular-spectrum map across podium, experiential, clinical, and seminar.</p>
+</div>
+
+<div class="audience-card">
+<h3><a href="{{ '/priorities/mentorship/' | relative_url }}">Business law mentorship</a></h3>
+<p>Structured pairings of LEP students with DC-area transactional practitioners. The Board's network is the resource; this is the program's ask.</p>
+</div>
+
+<div class="audience-card">
+<h3><a href="{{ '/priorities/theme/' | relative_url }}">Year theme</a></h3>
+<p><em>Entrepreneurship: Curing Poverty.</em> Wade keynote, capital-formation panel, antitrust worked example, transactional-drafting panel, and the <em>Law and New Things</em> symposium.</p>
+</div>
+
+<div class="audience-card">
+<h3><a href="{{ '/priorities/center/' | relative_url }}">Toward a Catholic Business Law Center?</a></h3>
+<p>A five-year horizon. The fellowship model trail-blazed at CUA, with fellowships for students and future faculty alike. Topics beyond entrepreneurship (investment, nonprofit governance) take up the longer arc.</p>
+</div>
+
+</div>
+
+</section>
+
 <section id="frame">
 
 <h2>The frame</h2>
 
 The program asks one question across every event, every reading, every paper: what does justice toward the poor look like when it takes the form of a business? Two traditions converge on a single answer. Aquinas, drawing on Roman commercial law, identifies *societas* (partnership at shared risk) as the just form of capital deployment, in contrast to *mutuum* at fixed interest. Maimonides, drawing on Talmudic precedent, identifies *shutafut* (partnership with the recipient) as the highest of the eight rungs of *tzedakah*. The Salamanca school developed Aquinas into a full commercial moral theology. Leo XIII, John Paul II, and now Leo XIV have carried it forward into the modern arc.
 
-The full five-element statement of what the program trains lawyers to do, under what norm, by what method, against what, and where, is at <a href="{{ '/argument/' | relative_url }}">The Program's Argument</a>. What the program is building on that argument, across its first three years, is at the <a href="{{ '/roadmap/' | relative_url }}">Roadmap</a>. The 2026–27 year theme, agreed by the program's directors, is <a href="{{ '/theme/' | relative_url }}"><em>Entrepreneurship: Curing Poverty</em></a>. The scholarly convening inside the year is the <em>Law and New Things</em> symposium, co-convened with Robert T. Miller (Scalia Law), publishing in the <em>Catholic University Law Review</em>.
+The full five-element statement of what the program trains lawyers to do, under what norm, by what method, against what, and where, is at <a href="{{ '/argument/' | relative_url }}">The Program's Argument</a>. What the program is building on that argument, across its first three years, is at the <a href="{{ '/roadmap/' | relative_url }}">Roadmap</a>. The 2026-27 year theme, agreed by the program's directors, is <a href="{{ '/theme/' | relative_url }}"><em>Entrepreneurship: Curing Poverty</em></a>. The scholarly convening inside the year is the <em>Law and New Things</em> symposium, co-convened with Robert T. Miller (Scalia Law), publishing in the <em>Catholic University Law Review</em>.
 
 </section>
 
