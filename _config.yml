@@ -70,6 +70,7 @@ exclude:
   - LICENSE
   - IMPROVEMENTS_SUMMARY.md
   - _proposals
+  - handouts
   - vendor
   - node_modules
   - .github
