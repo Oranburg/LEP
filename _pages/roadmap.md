@@ -11,7 +11,7 @@ The Program has a fixed argument and a dated build. The argument does not change
 
 Four streams run at once. Each funds a different part of the same formation, and each carries its own deliverables, budget, and metrics on its program page.
 
-| Stream | What it builds | Spine element it serves | Detail |
+| Stream | What it builds | Part of the argument it serves | Detail |
 |---|---|---|---|
 | Curriculum and cohort | Business Boot Camp, Transactional Practicum, the *societas* reading lens | I and II: lawyers make private law, under the partnership norm | [Subsidiarity Campaign]({{ '/support/subsidiarity-campaign/' | relative_url }}) |
 | Clinic | Deepened entrepreneurial clinic for low-and-moderate-income founders | II and IV: the norm applied, against the regulatory state | [Entrepreneurship: Curing Poverty]({{ '/support/entrepreneurship-v-poverty/' | relative_url }}) |
@@ -20,9 +20,9 @@ Four streams run at once. Each funds a different part of the same formation, and
 
 The clinic operates now under founding Director Alexander Hoffarth. Seth Oranburg joins as co-director on August 20, 2026. The dated build below begins with the first full year both co-directors are in place.
 
-## The durable structure and the rotating theme
+## The durable argument and the rotating theme
 
-The spine does not move from year to year. The year theme does. Each academic year takes one contested question and runs the spine through it. The inaugural theme for AY 2026-27 is [*Entrepreneurship: Curing Poverty*]({{ '/theme/' | relative_url }}), which asks which structures, drafted by which lawyers, actually cure poverty by partnership, and which produce the appearance of partnership while extracting the upside. Later years rotate the question. The build below carries the structure that holds across every theme.
+The argument does not move from year to year. The year theme does. Each academic year takes one contested question and runs the argument through it. The inaugural theme for AY 2026-27 is [*Entrepreneurship: Curing Poverty*]({{ '/theme/' | relative_url }}), which asks which structures, drafted by which lawyers, actually cure poverty by partnership, and which produce the appearance of partnership while extracting the upside. Later years rotate the question. The build below carries the structure that holds across every theme.
 
 ## Short term: AY 2026-27, the on-ramp year
 
