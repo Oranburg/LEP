@@ -2586,3 +2586,70 @@ select:focus-visible {
 }
 
 .home-hero .home-cta { margin-bottom: 0; }
+
+/* ==========================================================================
+   On-page export bar (Download Word / Markdown / Print)
+   Single source of truth: downloads are generated client-side from the page.
+   ========================================================================== */
+
+.export-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-sm);
+  margin: 0 0 var(--space-xl);
+  padding: var(--space-md) var(--space-lg);
+  background: var(--panel-grad);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.export-bar .export-label {
+  margin-right: auto;
+  font-family: var(--font-headline);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--text);
+  font-size: 0.85rem;
+}
+
+.btn-export {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: 0.5rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--text);
+  font-family: var(--font-headline);
+  font-size: 0.85rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, transform 0.2s ease;
+}
+
+.btn-export:hover,
+.btn-export:focus-visible { transform: translateY(-1px); }
+
+.btn-word { border-color: var(--accent); color: var(--accent); }
+.btn-word:hover,
+.btn-word:focus-visible { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+.btn-md { border-color: var(--accent-2); color: var(--accent-2); }
+.btn-md:hover,
+.btn-md:focus-visible { background: var(--accent-2); color: #000; border-color: var(--accent-2); }
+[data-theme="light"] .btn-md { color: var(--blue-deep); border-color: var(--blue-deep); }
+[data-theme="light"] .btn-md:hover,
+[data-theme="light"] .btn-md:focus-visible { background: var(--blue-deep); color: #fff; }
+
+.btn-print { border-color: var(--accent-red); color: var(--accent-red); }
+.btn-print:hover,
+.btn-print:focus-visible { background: var(--accent-red); color: #fff; border-color: var(--accent-red); }
+
+@media print {
+  .export-bar { display: none !important; }
+}

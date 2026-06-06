@@ -58,7 +58,12 @@
 
   <!-- Enhanced JavaScript with accessibility improvements -->
   <script src="{{ '/assets/js/site-enhanced.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
-  
+
+  {% if page.export %}
+  <!-- On-page Word/Markdown export (opt-in via page front matter) -->
+  <script src="{{ '/assets/js/export.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+  {% endif %}
+
   <!-- Service Worker registration -->
   <script>
     if ('serviceWorker' in navigator) {
