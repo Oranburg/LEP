@@ -26,7 +26,7 @@ These terms come up on the program's intellectual-frame pages ([Lineage]({{ '/li
 
 ***Rerum Novarum*.** The 1891 encyclical of Pope Leo XIII that opens the modern arc of Catholic social teaching on work, capital, and association. The founding text of the tradition that culminates in *Magnifica Humanitas*.
 
-***Laborem Exercens*.** John Paul II's 1981 encyclical on the dignity of work. Section 14 endorses employee shareholding as a contemporary expression of the partnership form. The most direct twentieth-century statement of the *societas* spine in modern Catholic social doctrine.
+***Laborem Exercens*.** John Paul II's 1981 encyclical on the dignity of work. Section 14 endorses employee shareholding as a contemporary expression of the partnership form. The most direct twentieth-century statement of the *societas* tradition in modern Catholic social doctrine.
 
 **Salamanca School.** The sixteenth-century theological and legal tradition centered at the University of Salamanca that developed Aquinas's distinction between *societas* and *mutuum* into a full commercial moral theology. Key figures: Francisco de Vitoria, Domingo de Soto, Tomás de Mercado, Luis de Molina, Martín de Azpilcueta (Doctor Navarrus).
 

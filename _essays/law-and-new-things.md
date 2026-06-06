@@ -9,7 +9,7 @@ date: 2026-05-29
 last_updated: 2026-05-31
 author: Seth C. Oranburg
 status: draft
-spine_element: "Scholarly convening inside the AY 2026–27 year theme (Entrepreneurship: Curing Poverty); serves element II + element IV under the spine"
+argument_element: "Scholarly convening inside the AY 2026-27 year theme (Entrepreneurship: Curing Poverty); serves element II + element IV of the argument"
 excerpt: "Leo XIII opened the modern social tradition in 1891 by asking what law owes the worker under industrial transformation. Leo XIV reopened it in 2026 under artificial intelligence. The 2026–27 LEP year takes the question as its frame."
 citations_to_verify:
   - id: magnifica_humanitas
@@ -33,7 +33,7 @@ citations_to_verify:
 
 *Governing Markets and Machines with Moral Courage*
 
-In May 1891, Leo XIII opened *Rerum Novarum* with a phrase. *Of new things*. The Latin shorthand for industrial transformation, and for the legal question the transformation forced. What does law owe the worker, the family, the propertied owner, the owner of nothing, when the conditions of production have shifted under all of them? Leo XIII answered with the framework that became the spine of modern Catholic social thought: labor and capital must hold together under shared moral conditions, the state's role is real but bounded, private property is a natural right with social obligations, the worker is not a commodity, and the poor have a claim that no economic regime can dissolve.
+In May 1891, Leo XIII opened *Rerum Novarum* with a phrase. *Of new things*. The Latin shorthand for industrial transformation, and for the legal question the transformation forced. What does law owe the worker, the family, the propertied owner, the owner of nothing, when the conditions of production have shifted under all of them? Leo XIII answered with the framework that has organized modern Catholic social thought since: labor and capital must hold together under shared moral conditions, the state's role is real but bounded, private property is a natural right with social obligations, the worker is not a commodity, and the poor have a claim that no economic regime can dissolve.
 
 In May 2026, Leo XIV reopened the same question under different conditions. *Magnifica Humanitas* takes artificial intelligence as the present-day analogue to industrialization in 1891: a technological transformation that rearranges who works, who owns, who decides, and who is excluded. The encyclical does not announce a new doctrine. It restates the tradition under conditions that demand restatement.
 
@@ -75,7 +75,7 @@ The symposium is not a critique of capitalism, not an integralist project, not a
 
 The point is that the question Leo XIII opened in 1891 has not closed. The 2026 conditions are not the 1891 conditions, but the analytic structure of the question, what does law owe under technological transformation, is the same structure. Lawyers who learn to ask the question in its 2026 form acquire a vocabulary that will be useful well beyond any single panel debate.
 
-## V. How this serves the spine
+## V. Which elements of the argument the symposium serves
 
 The symposium serves two elements of the Program's argument simultaneously.
 

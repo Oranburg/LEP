@@ -53,17 +53,17 @@ The brief on this convergence is [CUA as Home]({{ '/essays/cua-as-home/' | relat
 
 ## The diagnosis and the AI-era restatement
 
-Two essays stand outside the five-element spine and do work that the spine requires.
+Two essays stand outside the five elements and do work the argument requires.
 
-[The Deskilling Loop]({{ '/essays/deskilling-loop/' | relative_url }}) is the diagnosis. It traces a pattern across four professions, in which a profession that loses its formative methods becomes increasingly dependent on procedural overlays to manage the consequences of the loss. The diagnosis is what motivates the spine. Without it, the spine is a set of preferences. With it, the spine is the response to a present problem.
+[The Deskilling Loop]({{ '/essays/deskilling-loop/' | relative_url }}) is the diagnosis. It traces a pattern across four professions, in which a profession that loses its formative methods becomes increasingly dependent on procedural overlays to manage the consequences of the loss. The diagnosis is what motivates the argument. Without it, the argument is a set of preferences. With it, the argument is the response to a present problem.
 
 [Magnifica Humanitas and the Babel Question]({{ '/essays/magnifica-babel/' | relative_url }}) is the AI-era restatement. It reads Leo XIV's 2026 encyclical as the contemporary statement of elements II and IV together: the substantive norm under which platform equity may be held justly, and the deployment-site engagement that the norm requires when the platform is an AI system trained on data the platform did not create. The encyclical is not an external authority the Program imports. It is the present-day form of the tradition the Program already stands inside.
 
-## What the spine does
+## What the argument does
 
-A program with a spine takes positions that distinguish it from programs that do not. The Program does not teach entrepreneurship as a generic skill. It teaches the drafting of private law under a specific substantive norm, in a specific deployment setting, by methods recovered from specific traditions. The Program does not treat the regulatory state as an obstacle to be routed around. It treats Washington as the place where the methods are tested. The Program does not treat doctrinal formation and operational training as competing claims on student attention. It treats them as the same activity in two registers.
+The Program takes positions that distinguish it from programs that do not. The Program does not teach entrepreneurship as a generic skill. It teaches the drafting of private law under a specific substantive norm, in a specific deployment setting, by methods recovered from specific traditions. The Program does not treat the regulatory state as an obstacle to be routed around. It treats Washington as the place where the methods are tested. The Program does not treat doctrinal formation and operational training as competing claims on student attention. It treats them as the same activity in two registers.
 
-A reader who arrives at the site through any single essay should be able to find the spine within one click. The essays in the index each carry their own piece of the argument. The lineage page carries the doctrinal anchor. The partnership-at-shared-risk page carries the operative rule. Every other page on the site, in time, should be readable as a particular expression of the same five elements.
+A reader who arrives at the site through any single essay should be able to find the argument within one click. The essays in the index each carry their own piece of it. The lineage page carries the doctrinal anchor. The partnership-at-shared-risk page carries the operative rule. Every other page on the site, in time, should be readable as a particular expression of the same five elements.
 
 The Program's argument is not that lawyers should be more virtuous, more reflective, or more skilled in the abstract. The argument is that a specific institutional form, holding a specific doctrinal inheritance, at a specific street address, can train lawyers to do a specific kind of work that the present moment urgently requires. Each of those specifics is in place at CUA Columbus, and not all of them are in place anywhere else.
 

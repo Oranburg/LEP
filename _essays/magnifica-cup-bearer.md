@@ -12,7 +12,7 @@ bridges:
   - Bridge 4 (institution as carrier of human flourishing)
   - Bridge 5 (dignity of commercial work)
 signature_move: "The Jewish professional's position inside a non-Jewish institution is the instrument, not the embarrassment. Nehemiah built Jerusalem's wall because he first kept the Persian king's cup. That is the position the encyclical commends — and the position Seth is writing from."
-placement_note: "The malach/melakha root observation appears in both this piece and Who Is Sending the Messenger. In the PD piece it is the categorical spine; here it is one discovery among several in a personal essay. Do not submit in parallel. PD first."
+placement_note: "The malach/melakha root observation appears in both this piece and Who Is Sending the Messenger. In the PD piece it carries the categorical argument; here it is one discovery among several in a personal essay. Do not submit in parallel. PD first."
 ---
 
 # The Cup-Bearer's Position
