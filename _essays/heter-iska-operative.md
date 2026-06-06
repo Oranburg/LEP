@@ -82,7 +82,7 @@ The *heter iska* is not a parochial instrument. It is a worked example of the do
 
 The Program for Law and Entrepreneurship treats both as substantive doctrine and trains practitioners to read and draft in both vocabularies. The Catholic lawyer who learns the *heter iska* learns what a continuous drafting tradition looks like when the doctrine has not been allowed to lapse. The Jewish lawyer who learns the *societas* literature learns what the Catholic moral theology of commerce has reconstructed and how the reconstruction is now showing up in venture, ESOP, and tokenized-venture drafting.[^fn-jurisgen] The two streams are not in competition. They are mutually instructive because they are answering the same doctrinal question with a shared answer.
 
-The work for the practitioner is the same work the lineage page describes for the modern instrument generally: read the deal through the anatomy and draft the deal so the anatomy holds. The *heter iska* shows what that work looks like when the tradition has done it without interruption. The remaining task is to do it everywhere else.
+The work for the practitioner is the same work the lineage page describes for the modern instrument generally: read the deal through the joined frame and draft the deal so the frame holds. The *heter iska* shows what that work looks like when the tradition has done it without interruption. The remaining task is to do it everywhere else.
 
 [^fn-lineage]: See *The Moral Anatomy of Enterprise*, [Section VI]({{ '/lineage/#vi-the-jewish-parallel' | relative_url }}), treating the Jewish route through Torah, Talmud, Maimonides, and the *heter iska* tradition.
 
