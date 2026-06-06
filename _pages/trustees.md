@@ -11,7 +11,7 @@ description: "Five priorities for the Law and Entrepreneurship Program, prepared
 
 Prepared for the Board of Visitors and the Law School Alumni Council.
 
-This update introduces Seth Oranburg, incoming Director of the Law and Entrepreneurship Program (effective August 20, 2026), and reintroduces Alexander Hoffarth, founding Director and continuing member of the faculty. Below are the program's five priorities for the coming year. Each is a single brief. Three carry a specific request for the board.
+The program is led by two Directors who share the title. Alexander Hoffarth, founding Director, is Assistant Professor of Law. Seth Oranburg becomes Director on August 20, 2026, as Ordinary Professor of Law. Below are the program's five priorities for the coming year. Each is a single brief. Three carry a specific request for the board.
 
 <div class="audience-cards">
 

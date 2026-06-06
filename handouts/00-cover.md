@@ -4,7 +4,7 @@
 
 Prepared for the Board of Visitors and the Law School Alumni Council.
 
-This packet introduces Seth Oranburg, incoming Director of the Law and Entrepreneurship Program (effective August 20, 2026), and reintroduces Alexander Hoffarth, founding Director and continuing member of the faculty. It sets out the program's five priorities for the coming year. Each priority is a single page. Three carry a specific request for the board.
+This packet sets out the program's five priorities for AY 2026-27. The program is led by two Directors who share the title. Alexander Hoffarth, founding Director, is Assistant Professor of Law. Seth Oranburg becomes Director on August 20, 2026, as Ordinary Professor of Law. Each priority is a single page. Three carry a specific request for the board.
 
 1. **The LEP Badge.** A verifiable credential in entrepreneurship law. Decision and a modest annual line.
 2. **Private-Law Faculty and Curricular Expansion.** The course spectrum the program needs, and the faculty to teach it.
