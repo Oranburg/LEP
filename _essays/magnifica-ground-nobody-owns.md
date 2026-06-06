@@ -12,7 +12,7 @@ bridges:
   - Bridge 2 (moral architecture of property)
   - Bridge 6 (limits on what may be commodified)
 signature_move: "Roman law's res nullius / res communes omnium taxonomy misses the category the Hebrew hefker names: the ground that must remain ownerless as a condition of what can be received there. This is not a quaint midrash — it is a property-law observation about the limits of the law of capture, with direct application to personal data."
-placement_note: "This piece develops the property-law argument split from the PD track. It does not duplicate Who Is Sending the Messenger (agency spine) or The Third Place (personal essay). The hefker observation in The Third Place is in the casual-scholar noticing register; this piece works the analytical property-law argument at full weight."
+placement_note: "This piece develops the property-law argument split from the PD track. It does not duplicate Who Is Sending the Messenger (agency frame) or The Third Place (personal essay). The hefker observation in The Third Place is in the casual-scholar noticing voice; this piece works the analytical property-law argument at full weight."
 ---
 
 # The Ground Nobody Owns: Torah, Roman Law, and the Age of AI

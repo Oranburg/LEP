@@ -61,7 +61,7 @@ flowchart LR
   %% ============ CONVERGENCE ============
   CONV(("Convergence:<br/>partnership at shared risk<br/>as the just form of capital"))
 
-  %% main spine
+  %% main Catholic trunk
   R1 ==> T1
   T1 ==> SAL
   SAL ==> E1
@@ -69,7 +69,7 @@ flowchart LR
   E7 ==> L14
   L14 ==> CONV
 
-  %% jewish spine
+  %% Jewish trunk
   J1 --> J2 --> J3
   J3 ==> CONV
 
@@ -95,9 +95,9 @@ flowchart LR
 
 **Lanes by kind of contribution.** Four subgraphs separate the doctrinal *moves*: Roman commercial-law source, Thomistic distinction (societas versus mutuum), Salamanca commercial moral theology, modern encyclical restatement. Each lane carries a heading that names what that layer added, so the reader sees development, not just chronology. Leo XIV sits outside the encyclical lane as the present restatement, with a heavier border to mark him as the living terminus.
 
-**The convergence node.** A target shape on the right collects both spines. The Catholic route arrives through Aquinas, Salamanca, and the encyclicals. The Jewish route arrives through Leviticus, Talmud, and Maimonides on shutafut. The convergence node states the shared conclusion in one line: partnership at shared risk as the just form of capital. This is the visual answer to the brief's requirement that the two traditions reach the same point through different routes.
+**The convergence node.** A target shape on the right collects both routes. The Catholic route arrives through Aquinas, Salamanca, and the encyclicals. The Jewish route arrives through Leviticus, Talmud, and Maimonides on shutafut. The convergence node states the shared conclusion in one line: partnership at shared risk as the just form of capital. This is the visual answer to the brief's requirement that the two traditions reach the same point through different routes.
 
-**Edges.** Thick edges (`==>`) mark the spine of each tradition. Thin edges chain the encyclicals inside their lane. The two thick edges into the convergence node carry the visual weight of the meeting.
+**Edges.** Thick edges (`==>`) mark the trunk line of each tradition. Thin edges chain the encyclicals inside their lane. The two thick edges into the convergence node carry the visual weight of the meeting.
 
 **Theme compatibility.** Fill and stroke colors are explicit, mid-saturation, and paired with dark text, so the diagram reads on both the #000 dark-mode and #fff light-mode backgrounds under mermaid `neutral`. No reliance on default theme colors.
 
@@ -113,9 +113,9 @@ Verified against the brief and a Salamanca-school accuracy check:
 
 ## Open questions for Seth
 
-1. Keep Saint Benedict on the canvas, or treat the *ora et labora* tradition as a preface in prose rather than a node. The current proposal omits Benedict from the diagram to keep the doctrinal spine tight; the data file still carries him.
+1. Keep Saint Benedict on the canvas, or treat the *ora et labora* tradition as a preface in prose rather than a node. The current proposal omits Benedict from the diagram to keep the doctrinal lineage tight; the data file still carries him.
 
-2. Treat *Laudato Si* and *Fratelli Tutti* as on-spine encyclicals, or peel them off as a thematic side-branch (ecology and social friendship rather than partnership economics). The current proposal keeps them on-spine.
+2. Treat *Laudato Si* and *Fratelli Tutti* as on-lineage encyclicals, or peel them off as a thematic side-branch (ecology and social friendship rather than partnership economics). The current proposal keeps them on the main line.
 
 3. Confirm the wording of the convergence node. Alternatives: "partnership at shared risk as the just form of capital," "shared-risk partnership as the highest form of justice in exchange," or a bilingual gloss naming both *societas* and *shutafut*.
 

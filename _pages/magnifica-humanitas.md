@@ -16,7 +16,7 @@ The *societas* tradition, which Leo XIII drew on and which runs through *Quadrag
 
 ## Paragraph anchors most relevant to the program
 
-The verified paragraph anchors below come from a research pass on the encyclical text and are the most directly relevant to the *societas* spine of the Law and Entrepreneurship Program.
+The verified paragraph anchors below come from a research pass on the encyclical text and are the most directly relevant to the *societas* tradition the Law and Entrepreneurship Program teaches under.
 
 **§ 7. Babel and Nehemia as the governing biblical images.** Leo XIV frames the encyclical between two opposed Old Testament images: Babel as the prideful concentration of technical capacity that scatters the human community, and Nehemia as the patient rebuilding of the wall through coordinated work that preserves the community. The AI age is read between these two poles.
 
