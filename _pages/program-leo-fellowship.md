@@ -6,7 +6,7 @@ permalink: /support/leo-fellowship/
 
 # Leo Fellowship in Entrepreneurial Lawyering
 
-A faculty-development initiative that recruits, supports, and retains private-law faculty (contracts, business associations, securities, commercial law) who can teach transactional practice at the depth entrepreneurial students need. Each program is described below in two parallel framings. The intellectual substance is identical; the vocabulary changes with the funder's preferred register.
+A faculty-development initiative that recruits, supports, and retains private-law faculty (contracts, business associations, securities, commercial law) who can teach transactional practice at the depth entrepreneurial students need. Each program is described below in two parallel framings. The intellectual substance is identical; the vocabulary changes with the funder's preferred framing.
 
 <div class="framing-toggle" role="tablist" aria-label="Choose framing">
   <button class="framing-tab active" data-frame="catholic" aria-selected="true">Catholic framing</button>

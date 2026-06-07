@@ -1,7 +1,7 @@
 ---
-title: "Jewish Lineage Diagram — Proposal"
+title: "Jewish Lineage Diagram: Proposal"
 date: 2026-05-25
-status: proposal — awaiting Seth's review
+status: proposal, awaiting Seth's review
 replaces: _pages/lineage.md (Jewish parallel section only)
 ---
 
@@ -41,7 +41,7 @@ Word count of rationale: 303. (Trim if needed; the substance is above.)
 
 All Hebrew text below comes from Sefaria API v3, fetched 2026-05-25. Mishneh Torah text: Torat Emet 363 edition (locked, public domain). Hebrew is unpointed (Mishneh Torah source convention); stable halakhic vocabulary lexicon items pointed inline without flag.
 
-**MT Mattenot Aniyim 10:7 (the highest rung — full Hebrew):**
+**MT Mattenot Aniyim 10:7 (the highest rung, full Hebrew):**
 
 > שְׁמוֹנֶה מַעֲלוֹת יֵשׁ בַּצְּדָקָה זוֹ לְמַעְלָה מִזּוֹ. מַעֲלָה גְּדוֹלָה שֶׁאֵין לְמַעְלָה מִמֶּנָּה זֶה הַמַּחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ וְנוֹתֵן לוֹ מַתָּנָה אוֹ הַלְוָאָה אוֹ עוֹשֶׂה עִמּוֹ שֻׁתָּפוּת אוֹ מַמְצִיא לוֹ מְלָאכָה כְּדֵי לְחַזֵּק אֶת יָדוֹ עַד שֶׁלֹּא יִצְטָרֵךְ לַבְּרִיּוֹת לִשְׁאל. וְעַל זֶה נֶאֱמַר וְהֶחֱזַקְתָּ בּוֹ גֵּר וְתוֹשָׁב וָחַי עִמָּךְ
 
@@ -72,23 +72,23 @@ This block renders the ladder vertically, rung 1 at top. The top rung gets a nam
 ```mermaid
 %%{init: {'theme': 'neutral', 'themeVariables': {'primaryColor': '#f8f4ee', 'primaryBorderColor': '#8B6914', 'primaryTextColor': '#1a1a1a', 'lineColor': '#8B6914', 'secondaryColor': '#e8f0e8', 'tertiaryColor': '#f0e8f0'}}}%%
 graph TD
-    TITLE["<b>שְׁמוֹנֶה מַעֲלוֹת בַּצְּדָקָה</b><br/><i>Shemoneh Maʿalot ba-Tzedakah</i><br/>The Eight Rungs of Tzedakah<br/><small>Mishneh Torah, Hilkhot Mattenot Aniyim 10:7–14</small>"]
+    TITLE["<b>שְׁמוֹנֶה מַעֲלוֹת בַּצְּדָקָה</b><br/><i>Shemoneh Maʿalot ba-Tzedakah</i><br/>The Eight Rungs of Tzedakah<br/><small>Mishneh Torah, Hilkhot Mattenot Aniyim 10:7-14</small>"]
 
-    R1["<b>RUNG 1 — 10:7 — HIGHEST</b><br/>מַחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ<br/><i>Maḥazik be-yad Yisraʾel she-makh</i><br/>Strengthen the hand of the poor Israelite<br/>— by gift, loan, <b>partnership (שֻׁתָּפוּת)</b>, or work —<br/>so he need not beg<br/><small>Source verse: Lev. 25:35</small>"]
+    R1["<b>RUNG 1, 10:7, HIGHEST</b><br/>מַחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ<br/><i>Maḥazik be-yad Yisraʾel she-makh</i><br/>Strengthen the hand of the poor Israelite<br/>(by gift, loan, <b>partnership (שֻׁתָּפוּת)</b>, or work)<br/>so he need not beg<br/><small>Source verse: Lev. 25:35</small>"]
 
-    R2["Rung 2 — 10:8<br/>Mutual anonymity<br/><small>(donor and recipient unknown to each other)</small>"]
+    R2["Rung 2, 10:8<br/>Mutual anonymity<br/><small>(donor and recipient unknown to each other)</small>"]
 
-    R3["Rung 3 — 10:9<br/>Donor knows; recipient does not"]
+    R3["Rung 3, 10:9<br/>Donor knows; recipient does not"]
 
-    R4["Rung 4 — 10:10<br/>Recipient knows; donor does not"]
+    R4["Rung 4, 10:10<br/>Recipient knows; donor does not"]
 
-    R5["Rung 5 — 10:11<br/>Gives before asked"]
+    R5["Rung 5, 10:11<br/>Gives before asked"]
 
-    R6["Rung 6 — 10:12<br/>Gives after asked"]
+    R6["Rung 6, 10:12<br/>Gives after asked"]
 
-    R7["Rung 7 — 10:13<br/>Gives less than appropriate, pleasantly"]
+    R7["Rung 7, 10:13<br/>Gives less than appropriate, pleasantly"]
 
-    R8["Rung 8 — 10:14 — LOWEST<br/>Gives with sadness"]
+    R8["Rung 8, 10:14, LOWEST<br/>Gives with sadness"]
 
     TITLE --> R1
     R1 --> R2
@@ -120,21 +120,21 @@ graph LR
 
     subgraph TORAH ["Torah: The Obligation"]
         direction TB
-        LEV["Lev. 25:35–36<br/>וְהֶחֱזַקְתָּ בּוֹ<br/><i>ve-heḥezakta vo</i><br/>You shall uphold him<br/><small>The foundational command:<br/>prevent the fall; do not merely relieve it</small>"]
-        DEUT1["Deut. 15:7–8<br/>פָּתֹחַ תִּפְתַּח אֶת יָדְךָ<br/><i>potoaḥ tiftaḥ et yadkha</i><br/>Open your hand, open it<br/><small>The doubled imperative of generosity</small>"]
+        LEV["Lev. 25:35-36<br/>וְהֶחֱזַקְתָּ בּוֹ<br/><i>ve-heḥezakta vo</i><br/>You shall uphold him<br/><small>The foundational command:<br/>prevent the fall; do not merely relieve it</small>"]
+        DEUT1["Deut. 15:7-8<br/>פָּתֹחַ תִּפְתַּח אֶת יָדְךָ<br/><i>potoaḥ tiftaḥ et yadkha</i><br/>Open your hand, open it<br/><small>The doubled imperative of generosity</small>"]
         DEUT2["Deut. 16:20<br/>צֶדֶק צֶדֶק תִּרְדֹּף<br/><i>Tsedek tsedek tirdof</i><br/>Justice, justice you shall pursue<br/><small>Just means, not only just ends</small>"]
     end
 
     subgraph TALMUD ["Talmud: The Commercial Development"]
         direction TB
-        BM["Bava Metzia (Ch. 5–6)<br/>Mishnah BM 5:4; Gemara 68a–70b<br/>The <i>isqa</i> (עִסְקָא) structure:<br/>half the capital as loan,<br/>half as deposit at shared risk<br/><small>Interest-like returns recast<br/>as partnership profit</small>"]
-        BB["Bava Batra 9b–10a<br/>On the merit of<br/>different forms of giving<br/><small>Talmudic precursor to<br/>Rambam's eight-rung ordering</small>"]
+        BM["Bava Metzia (Ch. 5-6)<br/>Mishnah BM 5:4; Gemara 68a-70b<br/>The <i>isqa</i> (עִסְקָא) structure:<br/>half the capital as loan,<br/>half as deposit at shared risk<br/><small>Interest-like returns recast<br/>as partnership profit</small>"]
+        BB["Bava Batra 9b-10a<br/>On the merit of<br/>different forms of giving<br/><small>Talmudic precursor to<br/>Rambam's eight-rung ordering</small>"]
         KET["Ketubot 67b<br/>Restore him to his former state<br/><small>Obligation calibrated<br/>to the recipient's prior condition</small>"]
     end
 
     subgraph RAMBAM ["Maimonides: The Systematization"]
         direction TB
-        RUNG1["MT Mattenot Aniyim 10:7<br/><b>Rung 1 — Highest</b><br/>שֻׁתָּפוּת — <i>shutafut</i> — partnership<br/>as the supreme form of tzedakah<br/><small>Independence restored, not dependency managed</small>"]
+        RUNG1["MT Mattenot Aniyim 10:7<br/><b>Rung 1, Highest</b><br/>שֻׁתָּפוּת, <i>shutafut</i>, partnership<br/>as the supreme form of tzedakah<br/><small>Independence restored, not dependency managed</small>"]
     end
 
     subgraph ISQA ["Commercial Application"]
@@ -183,28 +183,28 @@ The following replaces the "## Jewish parallel" section in `_pages/lineage.md`. 
 
 The Jewish tradition arrives at the same conclusion as the Catholic *societas* doctrine through entirely independent reasoning. The path runs from a Pentateuchal command through Talmudic commercial jurisprudence to Maimonides's systematic ranking of the forms of *tzedakah* (צְדָקָה, justice-and-charity). The highest rung is *shutafut* (שֻׁתָּפוּת, partnership): strengthening the hand of the one who has fallen, so that he never needs to beg.
 
-### The eight rungs — *shemoneh maʿalot ba-tzedakah*
+### The eight rungs, *shemoneh maʿalot ba-tzedakah*
 
 <div class="mermaid">
 %%{init: {'theme': 'neutral', 'themeVariables': {'primaryColor': '#f8f4ee', 'primaryBorderColor': '#8B6914', 'primaryTextColor': '#1a1a1a', 'lineColor': '#8B6914', 'secondaryColor': '#e8f0e8', 'tertiaryColor': '#f0e8f0'}}}%%
 graph TD
-    TITLE["<b>שְׁמוֹנֶה מַעֲלוֹת בַּצְּדָקָה</b><br/><i>Shemoneh Maʿalot ba-Tzedakah</i><br/>The Eight Rungs of Tzedakah<br/><small>Mishneh Torah · Hilkhot Mattenot Aniyim 10:7–14</small>"]
+    TITLE["<b>שְׁמוֹנֶה מַעֲלוֹת בַּצְּדָקָה</b><br/><i>Shemoneh Maʿalot ba-Tzedakah</i><br/>The Eight Rungs of Tzedakah<br/><small>Mishneh Torah · Hilkhot Mattenot Aniyim 10:7-14</small>"]
 
-    R1["<b>RUNG 1 — 10:7 — HIGHEST</b><br/>מַחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ<br/><i>Maḥazik be-yad Yisraʾel she-makh</i><br/>Strengthen the hand of the poor Israelite<br/>— by gift, loan, <b>partnership (שֻׁתָּפוּת)</b>, or work —<br/>so he need not beg<br/><small>Source verse: Lev. 25:35</small>"]
+    R1["<b>RUNG 1, 10:7, HIGHEST</b><br/>מַחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ<br/><i>Maḥazik be-yad Yisraʾel she-makh</i><br/>Strengthen the hand of the poor Israelite<br/>(by gift, loan, <b>partnership (שֻׁתָּפוּת)</b>, or work)<br/>so he need not beg<br/><small>Source verse: Lev. 25:35</small>"]
 
-    R2["Rung 2 — 10:8<br/>Mutual anonymity<br/><small>donor and recipient unknown to each other</small>"]
+    R2["Rung 2, 10:8<br/>Mutual anonymity<br/><small>donor and recipient unknown to each other</small>"]
 
-    R3["Rung 3 — 10:9<br/>Donor knows; recipient does not"]
+    R3["Rung 3, 10:9<br/>Donor knows; recipient does not"]
 
-    R4["Rung 4 — 10:10<br/>Recipient knows; donor does not"]
+    R4["Rung 4, 10:10<br/>Recipient knows; donor does not"]
 
-    R5["Rung 5 — 10:11<br/>Gives before asked"]
+    R5["Rung 5, 10:11<br/>Gives before asked"]
 
-    R6["Rung 6 — 10:12<br/>Gives after asked"]
+    R6["Rung 6, 10:12<br/>Gives after asked"]
 
-    R7["Rung 7 — 10:13<br/>Gives less than appropriate, pleasantly"]
+    R7["Rung 7, 10:13<br/>Gives less than appropriate, pleasantly"]
 
-    R8["Rung 8 — 10:14 — LOWEST<br/>Gives with sadness"]
+    R8["Rung 8, 10:14, LOWEST<br/>Gives with sadness"]
 
     TITLE --> R1
     R1 --> R2
@@ -234,21 +234,21 @@ graph LR
 
     subgraph TORAH ["Torah: The Obligation"]
         direction TB
-        LEV["Lev. 25:35–36<br/>וְהֶחֱזַקְתָּ בּוֹ<br/><i>ve-heḥezakta vo</i><br/>You shall uphold him<br/><small>Prevent the fall; do not merely relieve it</small>"]
-        DEUT1["Deut. 15:7–8<br/>פָּתֹחַ תִּפְתַּח אֶת יָדְךָ<br/><i>potoaḥ tiftaḥ et yadkha</i><br/>Open your hand, open it<br/><small>The doubled imperative of generosity</small>"]
+        LEV["Lev. 25:35-36<br/>וְהֶחֱזַקְתָּ בּוֹ<br/><i>ve-heḥezakta vo</i><br/>You shall uphold him<br/><small>Prevent the fall; do not merely relieve it</small>"]
+        DEUT1["Deut. 15:7-8<br/>פָּתֹחַ תִּפְתַּח אֶת יָדְךָ<br/><i>potoaḥ tiftaḥ et yadkha</i><br/>Open your hand, open it<br/><small>The doubled imperative of generosity</small>"]
         DEUT2["Deut. 16:20<br/>צֶדֶק צֶדֶק תִּרְדֹּף<br/><i>Tsedek tsedek tirdof</i><br/>Justice, justice you shall pursue<br/><small>Just means, not only just ends</small>"]
     end
 
     subgraph TALMUD ["Talmud: The Commercial Development"]
         direction TB
-        BM["Bava Metzia 5:4 / 68a–70b<br/>The <i>isqa</i> (עִסְקָא) structure:<br/>half capital as loan,<br/>half as deposit at shared risk<br/><small>Interest-like returns recast<br/>as partnership profit</small>"]
-        BB["Bava Batra 9b–10a<br/>On the merit of different forms of giving<br/><small>Precursor to Rambam's eight-rung ordering</small>"]
+        BM["Bava Metzia 5:4 / 68a-70b<br/>The <i>isqa</i> (עִסְקָא) structure:<br/>half capital as loan,<br/>half as deposit at shared risk<br/><small>Interest-like returns recast<br/>as partnership profit</small>"]
+        BB["Bava Batra 9b-10a<br/>On the merit of different forms of giving<br/><small>Precursor to Rambam's eight-rung ordering</small>"]
         KET["Ketubot 67b<br/>Restore him to his former state<br/><small>Obligation calibrated<br/>to the recipient's prior condition</small>"]
     end
 
     subgraph RAMBAM ["Maimonides: The Systematization"]
         direction TB
-        RUNG1["MT Mattenot Aniyim 10:7<br/><b>Rung 1 — Highest</b><br/>שֻׁתָּפוּת — <i>shutafut</i> — partnership<br/>as the supreme form of tzedakah<br/><small>Independence restored, not dependency managed</small>"]
+        RUNG1["MT Mattenot Aniyim 10:7<br/><b>Rung 1, Highest</b><br/>שֻׁתָּפוּת, <i>shutafut</i>, partnership<br/>as the supreme form of tzedakah<br/><small>Independence restored, not dependency managed</small>"]
     end
 
     subgraph ISQA ["Commercial Application"]
@@ -301,8 +301,8 @@ These are new entries for `_glossary.md`:
 
 - שֻׁתָּפוּת · *shutafut* · partnership; commercial or personal joint venture; in Maimonides, the highest practical form of *tzedakah*
 - מַעֲלָה · *maʿalah* · rung, level, degree of merit (plural: *maʿalot*)
-- עִסְקָא · *isqa* · venture; the Talmudic half-loan, half-deposit commercial structure that distributes risk between investor and manager [Aramaic — not transliterated under current conventions; cited in Hebrew form]
-- שְׁטַר עִסְקָא · *shtar isqa* · deed of venture; the written instrument formalizing the isqa arrangement [Aramaic term in the second word — flag]
+- עִסְקָא · *isqa* · venture; the Talmudic half-loan, half-deposit commercial structure that distributes risk between investor and manager [Aramaic, not transliterated under current conventions; cited in Hebrew form]
+- שְׁטַר עִסְקָא · *shtar isqa* · deed of venture; the written instrument formalizing the isqa arrangement [Aramaic term in the second word, flag]
 - הֶיתֵּר עִסְקָא · *heter isqa* · the permissive ruling recasting a loan as an isqa to avoid the prohibition on interest
 - מַחֲזִיק בְּיָד · *maḥazik be-yad* · strengthening the hand of; the active support that prevents economic collapse rather than relieving it after the fact
 - וְהֶחֱזַקְתָּ בּוֹ · *ve-heḥezakta vo* · "and you shall uphold him" (Lev. 25:35); the Pentateuchal source for proactive support
@@ -311,7 +311,7 @@ These are new entries for `_glossary.md`:
 
 # Open flags
 
-- [Aramaic — needs human] on *isqa* / *shtar isqa*: the word עִסְקָא is Aramaic. It appears in the diagram in Hebrew script only, not transliterated. If the site context requires a transliteration of this term, flag for human Aramaic review.
+- [Aramaic, needs human] on *isqa* / *shtar isqa*: the word עִסְקָא is Aramaic. It appears in the diagram in Hebrew script only, not transliterated. If the site context requires a transliteration of this term, flag for human Aramaic review.
 - [Shabbat 63a citation in the brief]: I have not used this citation. See "Open questions" above. This is a void, not filled.
 - [Deut. 15:7-8 pointing]: the phrase פָּתֹחַ תִּפְתַּח אֶת יָדְךָ appears in the diagram with nikud from the Tanakh source (biblical Hebrew, pointed). This is correct under the nikud convention (Tanakh: keep nikud). No flag needed.
 - [Editorial nikud on מַחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ]: this phrase comes from the Mishneh Torah text (unpointed source), but Sefaria's Torat Emet edition delivers it pointed. The nikud is therefore from the verified source, not editorial. No flag needed.

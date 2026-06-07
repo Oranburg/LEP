@@ -78,7 +78,7 @@ The five elements, stated in one place. What lawyers do, under what substantive 
 ## Public pages
 
 ### [The Moral Anatomy of Enterprise]({{ '/lineage/' | relative_url }})
-The doctrinal lineage the Program rests on, traced through Roman commercial law, Aquinas, the Salamanca school, the modern social encyclicals, and the parallel Jewish tradition from Torah through Talmud to Maimonides. Section VIII applies the joined anatomy to four contemporary instruments.
+The doctrinal lineage the Program rests on, traced through Roman commercial law, Aquinas, the Salamanca school, the modern social encyclicals, and the parallel Jewish tradition from Torah through Talmud to Maimonides. Section VIII applies the joined frame to four contemporary instruments.
 
 ### [Partnership at Shared Risk]({{ '/partnership-at-shared-risk/' | relative_url }})
 The doctrinal rule for transactional drafting. What makes a clause *societas* rather than *mutuum* in present-day instruments: VC term sheets, ESOP allocations, DAO governance tokens, AI-platform equity.

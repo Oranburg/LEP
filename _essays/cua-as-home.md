@@ -17,7 +17,7 @@ Three structural facts about the Catholic University of America make the Law and
 
 **First: The pontifical charter.**
 
-The Catholic University of America holds the only pontifical charter granted to a university in the United States. A pontifical charter is not an honorary distinction. It is a grant of academic jurisdiction from the Holy See, making CUA's work in theology and philosophy formally accountable to the Church's teaching authority. For LEP, this matters because the program's intellectual genealogy traces Aquinas, Maimonides, and the Salamanca school of commercial moral theology: figures whose authority in a secular setting can only be cited; at CUA, they can be taught as live premises. A pontifical institution does not need to translate its intellectual inheritance into the register of secular academic acceptability. The inheritance is the charter.
+The Catholic University of America holds the only pontifical charter granted to a university in the United States. A pontifical charter is not an honorary distinction. It is a grant of academic jurisdiction from the Holy See, making CUA's work in theology and philosophy formally accountable to the Church's teaching authority. For LEP, this matters because the program's intellectual genealogy traces Aquinas, Maimonides, and the Salamanca school of commercial moral theology: figures whose authority in a secular setting can only be cited; at CUA, they can be taught as live premises. A pontifical institution does not need to translate its intellectual inheritance into the vocabulary of secular academic acceptability. The inheritance is the charter.
 
 **Second: The Ex Corde Ecclesiae mission.**
 
