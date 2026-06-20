@@ -26,3 +26,6 @@ Set `status="violation"` when the tooltip is a style alert (for terms that drift
 ## Contributing
 
 Pull requests welcome from named collaborators. Open an issue first to discuss scope.
+
+## Design system
+This site uses the shared Oranburg design system: the canonical `--og-` tokens, a shared breadcrumb, and a shared footer, maintained at [oranburg.github.io/design-system](https://github.com/Oranburg/oranburg.github.io/tree/main/design-system). Adopted 2026-06-20.
