@@ -51,13 +51,18 @@
   {% include header.html %}
 
   <main class="site-content" id="main-content">
-    {% include og-breadcrumb.html %}
-    {% include breadcrumbs.html %}
+    {%- if page.url != "/" -%}
+      {%- assign og_bc_home = site.baseurl | append: "/" -%}
+      {%- assign og_bc_trail = "Home::" | append: og_bc_home -%}
+      {%- assign og_bc_current = page.title -%}
+      {% include og-breadcrumb.html trail=og_bc_trail current=og_bc_current %}
+    {%- endif -%}
     {{ content }}
   </main>
 
-  {% include footer.html %}
-  {% include og-footer.html %}
+  {%- assign og_ft_links = "Learn (students)::/for-students/,Teach (colleagues)::/teach/,Mentor and hire::/for-students/mentors/,Support (donors)::/support/,Partner (institutions)::/partner/,Year theme::/theme/,People::/people/,Events::/events/,Working papers::/working-papers/,About::/about/,oranburg.law::https://oranburg.law/" -%}
+  {%- assign og_ft_copy = "© " | append: site.time | date: "%Y" | append: " Seth C. Oranburg. Code under MIT license. Writing under CC BY 4.0 unless otherwise noted. This is a personal scholarly working space and does not represent the Catholic University of America or any other institution." -%}
+  {% include og-footer.html links=og_ft_links copyright=og_ft_copy %}
 
   {% include access-gate.html %}
 

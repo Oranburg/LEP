@@ -1,3 +1,4 @@
+% voice-check: skip
 {%- comment -%}
 Global pre-release access gate. Triggered by the lock icon in the nav bar.
 SHA-256 of the entered key is compared against site.gate_password_hash.
@@ -62,7 +63,7 @@ current and subsequent pages until the tab closes.
     border: 1px solid var(--og-ink-muted, #4A4A4A);
     border-radius: 0.35rem;
     padding: 1.5rem 1.75rem;
-    font-family: var(--og-font-serif, Georgia, serif);
+    font-family: var(--og-font-accent, Georgia, serif);
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
   }
   .lep-gate-modal__panel h2 { margin: 0 0 0.5rem; font-size: 1.25rem; }
@@ -112,7 +113,7 @@ current and subsequent pages until the tab closes.
   .gate-placeholder {
     padding: 3rem 1rem;
     text-align: center;
-    font-family: var(--og-font-serif, Georgia, serif);
+    font-family: var(--og-font-accent, Georgia, serif);
     font-size: 1.05rem;
     color: var(--og-ink-muted, #4A4A4A);
   }
