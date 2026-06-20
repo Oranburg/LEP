@@ -1,0 +1,32 @@
+{% comment %}
+  Oranburg shared footer (plain HTML / Jekyll partial).
+  % voice-check: skip
+
+  Accessibility contract (WCAG 2.2):
+    footer[role="contentinfo"], explicit, one per page.
+    Link cluster lives in nav[aria-label="Footer"] > ul.
+    a:focus-visible outlines live in og-tokens.css (2.4.7 / 2.4.11).
+
+  Jekyll usage: pass links as comma-separated "Label::href" pairs and an
+  optional copyright string. Falls back to oranburg.law when links omitted.
+{% endcomment %}
+{%- assign og_ft_items = include.links | split: "," -%}
+<footer role="contentinfo" class="og-footer">
+  <div class="og-footer-inner">
+    <nav aria-label="Footer">
+      <ul>
+        {%- if og_ft_items.size > 0 -%}
+          {%- for og_ft_item in og_ft_items -%}
+            {%- assign og_ft_pair = og_ft_item | split: "::" -%}
+            <li><a href="{{ og_ft_pair[1] }}">{{ og_ft_pair[0] }}</a></li>
+          {%- endfor -%}
+        {%- else -%}
+          <li><a href="https://oranburg.law">oranburg.law</a></li>
+        {%- endif -%}
+      </ul>
+    </nav>
+    {%- if include.copyright -%}
+      <p class="og-footer-copyright">{{ include.copyright }}</p>
+    {%- endif -%}
+  </div>
+</footer>
