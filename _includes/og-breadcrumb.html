@@ -1,0 +1,31 @@
+{% comment %}
+  Oranburg shared breadcrumb (plain HTML / Jekyll partial).
+  % voice-check: skip
+
+  Accessibility contract (WCAG 2.2):
+    nav[aria-label="Breadcrumb"] wraps an ordered list.
+    Each ancestor is a list item with a link.
+    The current page is plain text carrying aria-current="page" (no link).
+    Separators are CSS ::before generated content (.og-breadcrumb li + li::before),
+    never an in-DOM glyph.
+    a:focus-visible outlines live in og-tokens.css (2.4.7 / 2.4.11).
+
+  Jekyll usage: pass trail as comma-separated "Label::href" pairs and current
+  as the unlinked page title. If trail is omitted, falls back to oranburg.law.
+{% endcomment %}
+{%- assign og_bc_items = include.trail | split: "," -%}
+<nav aria-label="Breadcrumb" class="og-breadcrumb">
+  <ol>
+    {%- if og_bc_items.size > 0 -%}
+      {%- for og_bc_item in og_bc_items -%}
+        {%- assign og_bc_pair = og_bc_item | split: "::" -%}
+        <li><a href="{{ og_bc_pair[1] }}">{{ og_bc_pair[0] }}</a></li>
+      {%- endfor -%}
+    {%- else -%}
+      <li><a href="https://oranburg.law">Home</a></li>
+    {%- endif -%}
+    {%- if include.current -%}
+      <li><span aria-current="page">{{ include.current }}</span></li>
+    {%- endif -%}
+  </ol>
+</nav>
